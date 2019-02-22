@@ -58,10 +58,10 @@ DocTools is an ensemble of classes which help creating a consistent documentatio
 
 DocTools provides 4 main components:
 
-- a parser, which scan a code base and returns information out of it (like the class names, the method names, the properties, the comments, the doc comment tags, ...)
-- a report page: an html page which tells you what's missing in your doc (for instance class XX doesn't have a comment, or this property of this class doesn't declare the "@var" tag, ...)
-- a docTool syntax: which extends the markdown syntax so that we can create documentation more intuitively
-- a documentation generator: which creates the documentation pages for you, based on a templates/widgets system that you create for your needs 
+- a **parser**, which scans a code base and returns information out of it (like the class names, the method names, the properties, the comments, the doc comment tags, ...)
+- a **report page**: an html page which tells you what's missing in your doc (for instance class XX doesn't have a comment, or this property of this class doesn't declare the "@var" tag, ...)
+- a **docTool syntax**: which extends the markdown syntax so that we can create documentation more intuitively
+- a **documentation generator**: aka [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md) which creates the documentation pages for you, based on a templates/widgets system that you create for your needs 
 
 
 
