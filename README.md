@@ -42,6 +42,7 @@ QuickNav
 - [The docTool notation](#the-doctool-notation)
 - [Tutorials](#tutorials)
 - [Dictionary](#dictionary)
+    - [Template](#template)
     - [Inserts](#inserts)
     - [GeneratedItems2Url](#generateditems2url)
 - [History Log](#history-log)
@@ -449,13 +450,84 @@ Dictionary
 ============
 
 
+
+Template
+----------
+
+A template is a skeleton of a documentation page.
+
+
+For instance, if we want to document a package which contains 10 classes,
+rather than creating 10 documentation pages,
+we can create 1 template and reuse it to generate the 10 pages (and thus saving a lot of time).
+
+Of course, the content of each class is different, but the base structure remains the same.
+ 
+In a template, we can write variables to express what's different from a class to another.
+
+So our template could look like this for instance:
+
+```php
+
+The <?php echo $z['classShortName']; ?> class
+================
+<?php echo $z['projectStartDate']; ?> --> <?php echo $z['date'] . PHP_EOL; ?>
+
+
+
+Introduction
+============
+
+<?php echo $z['classComment']; ?>
+
+
+Class synopsis
+==============
+
+
+<?php echo $z['classSynopsisWidget']; ?>
+
+
+
+
+<?php if ($z['classHasProperties']): ?>
+Properties
+=============
+
+<?php echo $z['classPropertiesWidget']; ?>
+<?php endif; ?>
+
+
+Methods
+==============
+
+<?php echo $z['classMethodsWidget']; ?>
+
+
+```
+
+
+
+The **$z** variable is how we access the variable information in our template.
+
+The information is available to use after we've parsed the code, using a [ClassParser](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/ClassParser/ClassParser.md)
+or a [PlanetParser](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/PlanetParser/PlanetParser.md).
+
+
+The [PageUtil](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Page/PageUtil.md) object is responsible for rendering templates.
+
+
+The [LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.md) object builds a documentation based on templates.
+
+
+Another way to inject content in a template is to use [inserts](#inserts).
+
+
+
 Inserts
 ----------
  
-An insert is a file which is injected dynamically by your template.
-
-So for instance you create a template called **my_class.template.php**,
-used to generate the documentation page for three classes A, B, C.
+An insert is a file which is injected dynamically by your [template](#template).
 
 
 In your template, you can call the **inserts** like this:
@@ -472,7 +544,7 @@ Examples
 ```
 
 
-Note: **$zz** is the variable representing a [wizard object](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/TemplateWizard/TemplateWizard.md) that has two methods:
+The **$zz** variable is a special variable representing a [wizard object](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/TemplateWizard/TemplateWizard.md) that has two methods:
 
 - hasInsert
 - getInserts
@@ -480,9 +552,37 @@ Note: **$zz** is the variable representing a [wizard object](https://github.com/
 
 See the [TemplateWizard](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/TemplateWizard/TemplateWizard.md) class for more details about how inserts work.
 
-See the [PageUtil](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Page/PageUtil.md) object implementation for more details, and the [LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.md)
-object for a concrete example of DocBuilder using this strategy (the template for generating method pages use
-this system: **DocTools/DocBuilder/Git/PhpPlanet/templates/tpl-method.md.php.noformat**).
+
+Now imagine that your package has three classes A, B and C, organized as follow:
+
+
+- /my/package/Info/A.php
+- /my/package/Math/Sinus/B.php
+- /my/package/Terminal/Colors/C.php
+
+
+In the template code above, we're calling inserts with name "examples".
+
+And so, what the PageUtil object will do in the background is check whether those **examples** dir exist here:
+
+- /insert_root/Info/A/examples  
+- /insert_root/Math/Sinus/B/examples  
+- /insert_root/Terminal/Colors/C/examples
+
+
+The **insert_root** directory is defined by you in the configuration.
+
+When an **examples** directory is found, all files found in it will be parsed and their content will be injected in the template. 
+
+So for instance if we want to provide examples for class B, we can just add our files here:
+
+- /insert_root/Math/Sinus/B/examples/example1-classic-sinus.php  
+- /insert_root/Math/Sinus/B/examples/example2-complex-sinus.php  
+- /insert_root/Math/Sinus/B/examples/example3-another-sinus-with-cosinus.php
+- ... 
+  
+
+So, basically, an insert file let you inject content dynamically in your template.
 
 
 
