@@ -14,7 +14,7 @@ A class parser will parse a class and return a [ClassInfo](https://github.com/li
 about the class, such as its name,  its comment, its properties, its methods, ...
 
 
-A class parser will by default interpret the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md).
+A class parser will by default interpret the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md).
 
 A class parser speaks markdown language only.
 Html conversion is done by the client at a later step if necessary.

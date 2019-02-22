@@ -11,7 +11,7 @@ Introduction
 The CopyModuleInterface interface.
 
 We use a copy module to copy a source directory to a destination directory.
-The benefit of using a copy module is that it interprets the [docTool inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions),
+The benefit of using a copy module is that it interprets the [docTool inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions),
 and so we can write our doc with a compact/intuitive syntax (using docTool inline functions),
 and when generating the doc, we use the copy module to resolve the inline functions on the fly.
 

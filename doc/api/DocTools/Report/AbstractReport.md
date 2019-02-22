@@ -87,7 +87,7 @@ Properties
 
 - <span id="property-parsedBlockLevelTags">parsedBlockLevelTags</span>
 
-    This property holds the array of the [block-level tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) parsed during this session.
+    This property holds the array of the [block-level tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) parsed during this session.
     Each item of the array has the following structure:
     
     - 0: name of the block-level tag
@@ -256,11 +256,11 @@ Methods
 - [AbstractReport::__construct](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/__construct.md) &ndash; Builds the PlanetReport instance.
 - [AbstractReport::setCurrentContext](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/setCurrentContext.md) &ndash; Sets the current context.
 - [AbstractReport::setIgnore](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/setIgnore.md) &ndash; Sets the ignore array.
-- [AbstractReport::addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addParsedInlineFunction.md) &ndash; Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions).
-- [AbstractReport::addParsedBlockLevelTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addParsedBlockLevelTag.md) &ndash; Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) to an internal collection.
+- [AbstractReport::addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addParsedInlineFunction.md) &ndash; Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
+- [AbstractReport::addParsedBlockLevelTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addParsedBlockLevelTag.md) &ndash; Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) to an internal collection.
 - [AbstractReport::addUnknownInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addUnknownInlineFunction.md) &ndash; Adds an unknown inline function.
-- [AbstractReport::addUndefinedInlineKeyword](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addUndefinedInlineKeyword.md) &ndash; Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
-- [AbstractReport::addUndefinedInlineClass](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addUndefinedInlineClass.md) &ndash; Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+- [AbstractReport::addUndefinedInlineKeyword](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addUndefinedInlineKeyword.md) &ndash; Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
+- [AbstractReport::addUndefinedInlineClass](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addUndefinedInlineClass.md) &ndash; Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 - [AbstractReport::addUnresolvedImplementationTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addUnresolvedImplementationTag.md) &ndash; an unresolved @implementation tag.
 - [AbstractReport::addUnresolvedOverridesTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addUnresolvedOverridesTag.md) &ndash; an unresolved @overrides tag.
 - [AbstractReport::addClassWithoutComment](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport/addClassWithoutComment.md) &ndash; Adds the name of a class which doesn't have a non-empty doc comment.

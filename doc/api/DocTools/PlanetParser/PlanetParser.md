@@ -62,14 +62,14 @@ Properties
 
 - <span id="property-resolveInlineTags">resolveInlineTags</span>
 
-    This property holds whether [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) should be resolved.
+    This property holds whether [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) should be resolved.
     The default value is true.
     
     
 
 - <span id="property-notationInterpreter">notationInterpreter</span>
 
-    This property holds the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) interpreter for this instance.
+    This property holds the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) interpreter for this instance.
     
     The docTool interpreter is used to resolve the inline functions of the docTool language.
     

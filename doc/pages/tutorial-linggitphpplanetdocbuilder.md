@@ -155,7 +155,7 @@ main concepts, and hopefully you're skilled/curious enough to understand how it 
 
 
 
-One other thing, the DocTools ecosystem uses the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) by default,
+One other thing, the DocTools ecosystem uses the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) by default,
 so that you can write your documentation more easily. 
 
 
@@ -187,7 +187,7 @@ However, there is still a problem, because the DocToolInterpreter also needs to 
 
 As we've just said, the doc tool interpreter will resolve the docTool markup language.
 
-But more specifically it means that it will need to resolve [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions). 
+But more specifically it means that it will need to resolve [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions). 
 
 There are two types of inline functions:
 
@@ -344,7 +344,7 @@ Building the pages
 Building the pages is done inside the **buildDoc** method.
 
 As you can see from the following code, we first generate the pages, then use
-the [copy module](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md) to copy the documentation and interpret the [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)
+the [copy module](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md) to copy the documentation and interpret the [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)
 globally.
 
 

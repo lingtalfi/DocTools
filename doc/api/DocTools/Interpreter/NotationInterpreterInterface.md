@@ -12,7 +12,7 @@ The NotationInterpreterInterface interface represents a notation interpreter.
 
 The default notation interpreter in DocTools is a docTool interpreter.
 
-See the [docTool markup language page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) for more info.
+See the [docTool markup language page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) for more info.
 
 
 
@@ -36,7 +36,7 @@ abstract class NotationInterpreterInterface  {
 Methods
 ==============
 
-- [NotationInterpreterInterface::resolveInlineTags](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Interpreter/NotationInterpreterInterface/resolveInlineTags.md) &ndash; Resolves the [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) in the given $string, and returns the result.
+- [NotationInterpreterInterface::resolveInlineTags](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Interpreter/NotationInterpreterInterface/resolveInlineTags.md) &ndash; Resolves the [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) in the given $string, and returns the result.
 - [NotationInterpreterInterface::interpretBlockLevelTags](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Interpreter/NotationInterpreterInterface/interpretBlockLevelTags.md) &ndash; Interprets the given $tags, and potentially configures the $comment accordingly.
 
 

@@ -158,13 +158,13 @@ $builder->prepare([
 
     /**
      * [CopyModule](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md).
-     * To copy the whole documentation from one place to another, and interpreting [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)
+     * To copy the whole documentation from one place to another, and interpreting [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)
      * during the transfer.
      * This is usually the last part of the DocTools generation process: it happens after the doc is generated,
      * and copies everything, including your manual documents to the destination directory.
      *
      *
-     * I like to write my (manual) docs in a private directory, where I use the fancy [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) a lot in
+     * I like to write my (manual) docs in a private directory, where I use the fancy [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) a lot in
      * all my pages (inside the pages directory of the [Lizard scheme](https://github.com/lingtalfi/DocTools/blob/master/README.md#lizard-scheme)).
      *
      * Then I like to copy this structure to the final public destination, which is the doc directory in the git repo
@@ -228,7 +228,7 @@ $builder->prepare([
 //    "markdownTranslator" => new ParseDownTranslator(), 
 
     /**
-     * This map is used internally by the [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions).
+     * This map is used internally by the [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
      * This map in particular is the one used for the whole DocTools planet documentation (pages and api).
      */
     "keyWord2UrlMap" => [
@@ -239,22 +239,22 @@ $builder->prepare([
         "inserts" => $git . '/README.md#inserts',
         "Lizard scheme" => $git . '/README.md#lizard-scheme',
         "generatedItems2Url" => $git . '/README.md#generateditems2url',
-        "doctool_language" => $doc . '/pages/doctool-markup-languages.md',
-        "docTool markup language" => $doc . '/pages/doctool-markup-languages.md',
-        "docTool markup language page" => $doc . '/pages/doctool-markup-languages.md',
-        "the docTool markup language" => $doc . '/pages/doctool-markup-languages.md',
-        "inline tags" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "inline functions" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "keyword inline function" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "class inline function" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "inline function" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "the inline functions page" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "docTool inline functions" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "inline-level tags" => $doc . '/pages/doctool-markup-languages.md#inline-functions',
-        "block-level tag" => $doc . '/pages/doctool-markup-languages.md#block-level-tags',
-        "block-level tags" => $doc . '/pages/doctool-markup-languages.md#block-level-tags',
-        "\"@implementation\" tag" => $doc . '/pages/doctool-markup-languages.md#block-level-tags',
-        "\"@overrides\" tag" => $doc . '/pages/doctool-markup-languages.md#block-level-tags',
+        "doctool_language" => $doc . '/pages/doctool-markup-language.md',
+        "docTool markup language" => $doc . '/pages/doctool-markup-language.md',
+        "docTool markup language page" => $doc . '/pages/doctool-markup-language.md',
+        "the docTool markup language" => $doc . '/pages/doctool-markup-language.md',
+        "inline tags" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "inline functions" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "keyword inline function" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "class inline function" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "inline function" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "the inline functions page" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "docTool inline functions" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "inline-level tags" => $doc . '/pages/doctool-markup-language.md#inline-functions',
+        "block-level tag" => $doc . '/pages/doctool-markup-language.md#block-level-tags',
+        "block-level tags" => $doc . '/pages/doctool-markup-language.md#block-level-tags',
+        "\"@implementation\" tag" => $doc . '/pages/doctool-markup-language.md#block-level-tags',
+        "\"@overrides\" tag" => $doc . '/pages/doctool-markup-language.md#block-level-tags',
         "the generated documentation styles page" => $doc . '/pages/generated-documentation-styles.md',
         "generated documentation styles" => $doc . '/pages/generated-documentation-styles.md',
         "LingGitPhpPlanetDocBuilder tutorial" => $doc . '/pages/tutorial-linggitphpplanetdocbuilder.md',
@@ -368,7 +368,7 @@ The basic idea with DocTools is that it extracts the doc comments from your code
 
 And so one of the first step is to document your code: every class, every method, every property.
 
-We can use the [docTool notation](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) for that.
+We can use the [docTool notation](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) for that.
 
 DocTools provides a report page that helps you spotting what's missing in your documentation (i.e. which class, method or property you 
 forgot to comment basically).
@@ -434,7 +434,7 @@ The docTool notation is a notation built on top of the markdown notation.
 
 It gives us some inline functions that help creating a documentation more intuitively.
 
-See the [docTool notation page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) for more details.
+See the [docTool notation page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) for more details.
 
 
 

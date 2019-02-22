@@ -1,7 +1,7 @@
 AbstractReport::addParsedInlineFunction
 ================
 
-AbstractReport::addParsedInlineFunction — Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions).
+AbstractReport::addParsedInlineFunction — Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
 
 Description
 ---------------
@@ -12,7 +12,7 @@ public [AbstractReport::addParsedInlineFunction](https://github.com/lingtalfi/Do
 
 
 
-Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions).
+Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
 This is use to collect statistical information about the planet.
 
 

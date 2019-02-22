@@ -14,7 +14,7 @@ protected static [DocToolInterpreter::resolveArgsList](https://github.com/lingta
 
 Returns an array representing the resolved $argsList string passed to the method.
 
-See [the inline functions page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) for more info.
+See [the inline functions page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) for more info.
 
 
 

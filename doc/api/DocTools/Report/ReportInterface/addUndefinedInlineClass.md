@@ -1,7 +1,7 @@
 ReportInterface::addUndefinedInlineClass
 ================
 
-ReportInterface::addUndefinedInlineClass — Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+ReportInterface::addUndefinedInlineClass — Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 Description
 ---------------
@@ -12,7 +12,7 @@ abstract public [ReportInterface::addUndefinedInlineClass](https://github.com/li
 
 
 
-Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 
 

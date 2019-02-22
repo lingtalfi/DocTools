@@ -15,7 +15,7 @@ abstract public [ReportInterface::addUnresolvedOverridesTag](https://github.com/
 Adds the name of the method (and class) which doc comment contains
 an unresolved @overrides tag.
 
-See [docTool markup language page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) for more info.
+See [docTool markup language page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) for more info.
 
 
 

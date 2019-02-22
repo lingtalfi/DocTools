@@ -1,7 +1,7 @@
 AbstractReport::addUndefinedInlineClass
 ================
 
-AbstractReport::addUndefinedInlineClass — Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+AbstractReport::addUndefinedInlineClass — Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 Description
 ---------------
@@ -12,7 +12,7 @@ public [AbstractReport::addUndefinedInlineClass](https://github.com/lingtalfi/Do
 
 
 
-Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 
 

@@ -1,7 +1,7 @@
 AbstractReport::addUndefinedInlineKeyword
 ================
 
-AbstractReport::addUndefinedInlineKeyword — Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+AbstractReport::addUndefinedInlineKeyword — Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 Description
 ---------------
@@ -12,7 +12,7 @@ public [AbstractReport::addUndefinedInlineKeyword](https://github.com/lingtalfi/
 
 
 
-Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 
 

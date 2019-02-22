@@ -75,7 +75,7 @@ Properties
 
 - <span id="property-resolveInlineTags">resolveInlineTags</span>
 
-    This property holds whether [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) should be resolved.
+    This property holds whether [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) should be resolved.
     The default value is true.
     
     

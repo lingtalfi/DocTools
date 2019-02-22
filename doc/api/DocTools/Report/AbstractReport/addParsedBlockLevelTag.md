@@ -1,7 +1,7 @@
 AbstractReport::addParsedBlockLevelTag
 ================
 
-AbstractReport::addParsedBlockLevelTag — Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) to an internal collection.
+AbstractReport::addParsedBlockLevelTag — Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) to an internal collection.
 
 Description
 ---------------
@@ -12,7 +12,7 @@ public [AbstractReport::addParsedBlockLevelTag](https://github.com/lingtalfi/Doc
 
 
 
-Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) to an internal collection.
+Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) to an internal collection.
 This is use to provide statistical information about the parsed items.
 
 

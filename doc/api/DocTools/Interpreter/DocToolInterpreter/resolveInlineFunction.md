@@ -20,7 +20,7 @@ Null is returned if the inline function is recognized but couldn't be resolved.
 
 
 Note: you can override this method to implement your own functions.
-This method by default uses the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions).
+This method by default uses the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
 
 
 

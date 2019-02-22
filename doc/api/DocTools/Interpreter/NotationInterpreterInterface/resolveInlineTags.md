@@ -1,7 +1,7 @@
 NotationInterpreterInterface::resolveInlineTags
 ================
 
-NotationInterpreterInterface::resolveInlineTags — Resolves the [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) in the given $string, and returns the result.
+NotationInterpreterInterface::resolveInlineTags — Resolves the [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) in the given $string, and returns the result.
 
 Description
 ---------------
@@ -12,7 +12,7 @@ abstract public [NotationInterpreterInterface::resolveInlineTags](https://github
 
 
 
-Resolves the [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) in the given $string, and returns the result.
+Resolves the [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) in the given $string, and returns the result.
 Also updates the report if given.
 
 

@@ -17,7 +17,7 @@ Expands the @implementation and/or @overrides tags in the raw content recursivel
 Expanding means replacing the @implementation/@overrides stand-alone tags with their related ancestor recursively (i.e. the ancestor
 could also use the @implementation/@overrides tag and so forth...).
 
-See the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) page for more details.
+See the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) page for more details.
 
 
 

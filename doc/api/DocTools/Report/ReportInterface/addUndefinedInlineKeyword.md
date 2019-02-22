@@ -1,7 +1,7 @@
 ReportInterface::addUndefinedInlineKeyword
 ================
 
-ReportInterface::addUndefinedInlineKeyword — Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+ReportInterface::addUndefinedInlineKeyword — Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 Description
 ---------------
@@ -12,7 +12,7 @@ abstract public [ReportInterface::addUndefinedInlineKeyword](https://github.com/
 
 
 
-Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 
 
 

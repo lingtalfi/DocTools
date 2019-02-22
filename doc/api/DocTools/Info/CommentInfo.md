@@ -28,9 +28,9 @@ The doc comment is composed of two areas:
 
 The main text is the base descriptive, human friendly text which describes the commented entity.
 It starts at the top of the doc comment block and ends when the tags area
-starts (whenever a [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) is found).
+starts (whenever a [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) is found).
 
-In the main text, the [inline-level tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) of the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) are resolved.
+In the main text, the [inline-level tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) of the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) are resolved.
 
 Also, the special @implementation block-level tag is resolved: the tag is first replaced with the
 comment of the relevant interface or abstract class comment, and then the inline tags are resolved
@@ -115,7 +115,7 @@ Properties
     Note: a tag can be written multiple times with different values.
     
     Each time a tag is found, its value is added to the corresponding tag values array.
-    In each tag value, the [inline-level tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) are resolved.
+    In each tag value, the [inline-level tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) are resolved.
     
     
 
@@ -130,7 +130,7 @@ Properties
     - "@seeClass"
     - "@seeMethod"
     
-    See [the docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md) for more info.
+    See [the docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) for more info.
     
     
     The array structure is:

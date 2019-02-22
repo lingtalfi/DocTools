@@ -67,10 +67,10 @@ Linkage
 
 Inline functions
 ---------------
-- unresolved @keyword: calls to the keyword [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) which didn't resolve.
-- unresolved @class: calls to the class [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) which didn't resolve.
+- unresolved @keyword: calls to the keyword [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) which didn't resolve.
+- unresolved @class: calls to the class [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) which didn't resolve.
 Note that this can create doublons with the "unresolved class references".
-- unknown functions: the names of the unknown [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions) used by the client.
+- unknown functions: the names of the unknown [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) used by the client.
 - inline functions usage: this is a statistical data showing the inline functions used in your documentation, and how many times they have been used.
 - inline functions usage details: this is the expanded version of the "inline function usage" data, showing the inline functions used along with the arguments
 they were called with.
@@ -78,10 +78,10 @@ they were called with.
 
 Block-level tags
 ------------------
-- unresolved @implementation: the names of the methods using an unresolved ["@implementation" tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) (no abstract
+- unresolved @implementation: the names of the methods using an unresolved ["@implementation" tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) (no abstract
 parent or interface class with the same method name was found).
 
-- unresolved @overrides: the names of the methods using an unresolved ["@overrides" tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) (no ancestor class with the same method name was found)
+- unresolved @overrides: the names of the methods using an unresolved ["@overrides" tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) (no ancestor class with the same method name was found)
 - block-level tags usage: this is a statistical data showing the block-level tags used in your documentation, and how many times they have been used.
 - block-level tags usage details: this is the expanded version of the "block-level tags usage" data, showing the block-level tags used and where they were called.
 
@@ -141,11 +141,11 @@ Methods
 ==============
 
 - [ReportInterface::setCurrentContext](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/setCurrentContext.md) &ndash; Sets the name of the current context being parsed.
-- [ReportInterface::addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addParsedInlineFunction.md) &ndash; Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions).
-- [ReportInterface::addParsedBlockLevelTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addParsedBlockLevelTag.md) &ndash; Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#block-level-tags) to an internal collection.
+- [ReportInterface::addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addParsedInlineFunction.md) &ndash; Adds the function name and the args of an [inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
+- [ReportInterface::addParsedBlockLevelTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addParsedBlockLevelTag.md) &ndash; Adds the [block-level tag](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) to an internal collection.
 - [ReportInterface::addUnknownInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addUnknownInlineFunction.md) &ndash; Adds an unknown inline function.
-- [ReportInterface::addUndefinedInlineKeyword](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addUndefinedInlineKeyword.md) &ndash; Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
-- [ReportInterface::addUndefinedInlineClass](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addUndefinedInlineClass.md) &ndash; Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-languages.md#inline-functions)).
+- [ReportInterface::addUndefinedInlineKeyword](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addUndefinedInlineKeyword.md) &ndash; Adds an undefined keyword (defined with the [keyword inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
+- [ReportInterface::addUndefinedInlineClass](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addUndefinedInlineClass.md) &ndash; Adds an undefined class (defined with the [class inline function](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)).
 - [ReportInterface::addUnresolvedImplementationTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addUnresolvedImplementationTag.md) &ndash; an unresolved @implementation tag.
 - [ReportInterface::addUnresolvedOverridesTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addUnresolvedOverridesTag.md) &ndash; an unresolved @overrides tag.
 - [ReportInterface::addClassWithoutComment](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/addClassWithoutComment.md) &ndash; Adds the name of a class which doesn't have a non-empty doc comment.

@@ -188,7 +188,7 @@ class MethodInfo implements InfoInterface
      *
      * @return \ReflectionMethod
      */
-    public function getReflectionMethod(): ReflectionMethod
+    public function getReflectionMethod(): \ReflectionMethod
     {
         return $this->reflectionMethod;
     }
@@ -197,7 +197,7 @@ class MethodInfo implements InfoInterface
      * Sets the reflectionMethod.
      * @param \ReflectionMethod $reflectionMethod
      */
-    public function setReflectionMethod(ReflectionMethod $reflectionMethod)
+    public function setReflectionMethod(\ReflectionMethod $reflectionMethod)
     {
         $this->reflectionMethod = $reflectionMethod;
     }
