@@ -36,12 +36,14 @@ and uses the $itemFile as a base directory for different types of inserts.
 
 The structure looks like this:
 
+```txt
 - $rootDir/                                      # the regular documentation items are created under this directory
 - $itemRelativePath                         # this is a regular generated documentation item (class, method, ...)
 - $insertRootDir/                                # this directory contains all our inserts, it mimics the $rootDir structure
 - $itemRelativePathWithoutExtension/        # this directory contains the potential inserts for the $itemRelativePath doc item in particular
 - $type/                                # this directory contains all inserts of type $type for the $itemRelativePath doc item in particular
 - *.md                              # all markdown files under this directory, recursively, are insert files of type $type for the $itemRelativePath doc item in particular
+```
 
 
 Note: we just create inserts for the doc items we need (i.e. we don't need to create ALL inserts files for every doc item).
