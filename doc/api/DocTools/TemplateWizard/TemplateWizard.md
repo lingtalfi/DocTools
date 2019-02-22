@@ -53,9 +53,11 @@ Note: we just create inserts for the doc items we need (i.e. we don't need to cr
 
 Typical insert types I personally use are:
 
+```txt
 - class-description.md           # for an extra class description
 - examples.md                    # for examples
 - related.md                     # for a "See Also" section
+```
 
 
 But of course, this depends on your own needs and you should use any type you want.
