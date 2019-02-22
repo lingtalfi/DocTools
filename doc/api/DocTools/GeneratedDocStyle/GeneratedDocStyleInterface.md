@@ -18,7 +18,7 @@ Class synopsis
 ==============
 
 
-abstract class GeneratedDocStyleInterface  {
+abstract class <span style="color: orange;">GeneratedDocStyleInterface</span>  {
 
 - Methods
     - abstract public [getClassUrl](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/GeneratedDocStyle/GeneratedDocStyleInterface/getClassUrl.md)(string $planetName, string $generatedClassBaseUrl, string $className) : string

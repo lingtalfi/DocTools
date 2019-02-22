@@ -16,7 +16,7 @@ Class synopsis
 ==============
 
 
-class DefaultGeneratedDocStyle implements [GeneratedDocStyleInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/GeneratedDocStyle/GeneratedDocStyleInterface.md) {
+class <span style="color: orange;">DefaultGeneratedDocStyle</span> implements [GeneratedDocStyleInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/GeneratedDocStyle/GeneratedDocStyleInterface.md) {
 
 - Properties
     - protected string [$extension](#property-extension) ;

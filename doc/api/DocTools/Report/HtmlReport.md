@@ -19,7 +19,7 @@ Class synopsis
 ==============
 
 
-class HtmlReport extends [AbstractReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport.md) implements [ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface.md) {
+class <span style="color: orange;">HtmlReport</span> extends [AbstractReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/AbstractReport.md) implements [ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface.md) {
 
 - Properties
     - protected string [$template](#property-template) ;

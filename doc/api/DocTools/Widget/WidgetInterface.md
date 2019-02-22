@@ -26,7 +26,7 @@ Class synopsis
 ==============
 
 
-abstract class WidgetInterface  {
+abstract class <span style="color: orange;">WidgetInterface</span>  {
 
 - Methods
     - abstract public [render](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Widget/WidgetInterface/render.md)() : string

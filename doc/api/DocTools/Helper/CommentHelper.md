@@ -17,7 +17,7 @@ Class synopsis
 ==============
 
 
-class CommentHelper  {
+class <span style="color: orange;">CommentHelper</span>  {
 
 - Properties
     - public static array [$propertyVarTagTypes](#property-propertyVarTagTypes) = ['int','float','bool','mixed','null','array','callable','string'] ;

@@ -16,7 +16,7 @@ Class synopsis
 ==============
 
 
-class ParameterInfo implements [InfoInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/InfoInterface.md) {
+class <span style="color: orange;">ParameterInfo</span> implements [InfoInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/InfoInterface.md) {
 
 - Properties
     - protected string [$name](#property-name) ;

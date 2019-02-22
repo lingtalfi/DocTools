@@ -16,7 +16,7 @@ Class synopsis
 ==============
 
 
-class DocToolInterpreter implements [NotationInterpreterInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Interpreter/NotationInterpreterInterface.md) {
+class <span style="color: orange;">DocToolInterpreter</span> implements [NotationInterpreterInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Interpreter/NotationInterpreterInterface.md) {
 
 - Properties
     - protected array [$keyword2UrlMap](#property-keyword2UrlMap) ;

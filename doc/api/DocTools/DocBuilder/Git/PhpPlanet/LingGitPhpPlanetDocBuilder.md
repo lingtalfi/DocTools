@@ -26,7 +26,7 @@ Class synopsis
 ==============
 
 
-class LingGitPhpPlanetDocBuilder extends [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md)  {
+class <span style="color: orange;">LingGitPhpPlanetDocBuilder</span> extends [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md)  {
 
 - Properties
     - protected string [$projectStartDate](#property-projectStartDate) ;

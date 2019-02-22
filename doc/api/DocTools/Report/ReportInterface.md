@@ -106,7 +106,7 @@ Class synopsis
 ==============
 
 
-abstract class ReportInterface  {
+abstract class <span style="color: orange;">ReportInterface</span>  {
 
 - Methods
     - abstract public [setCurrentContext](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface/setCurrentContext.md)(string $context) : void
