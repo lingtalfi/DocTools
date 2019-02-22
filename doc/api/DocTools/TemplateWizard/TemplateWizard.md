@@ -64,7 +64,7 @@ Class synopsis
 ==============
 
 
-class <span style="color: orange;">TemplateWizard</span>  {
+class <span class="pl-k">TemplateWizard</span>  {
 
 - Properties
     - protected string|null [$insertDir](#property-insertDir) ;
