@@ -317,7 +317,7 @@ $builder->showReport();
 However, DocTools is very flexible and let you create any type of documentation that you like.
 
 If you want to create your documentation, you'll have to understand the inners of 
-every (or most of the) DocTools object. 
+every (or most of the) DocTools objects. 
 
 A good place to start is this documentation: 
 
@@ -454,15 +454,38 @@ Inserts
  
 An insert is a file which is injected dynamically by your template.
 
-So for instance you create a template for a class called **my_class.template.php**, 
-in which you call the "examples" **inserts**.
-
-Then if you have three classes A, B, C to parse,
-
-you can then manually create different examples for each of the classes, without having to change your template.
+So for instance you create a template called **my_class.template.php**,
+used to generate the documentation page for three classes A, B, C.
 
 
-See the [tutorials section](#tutorials) for more details about the implementation.
+In your template, you can call the **inserts** like this:
+
+```php
+<?php if($zz->hasInsert('examples')): ?>
+Examples
+-----------
+
+<?php foreach($zz->getInserts('examples') as $content): ?>
+<?php echo $content; ?>
+<?php endforeach; ?>
+<?php endif; ?>
+```
+
+
+Note: **$zz** is the variable representing a [wizard object](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/TemplateWizard/TemplateWizard.md) that has two methods:
+
+- hasInsert
+- getInserts
+
+
+See the [TemplateWizard](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/TemplateWizard/TemplateWizard.md) class for more details about how inserts work.
+
+See the [PageUtil](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Page/PageUtil.md) object implementation for more details, and the [LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.md)
+object for a concrete example of DocBuilder using this strategy (the template for generating method pages use
+this system: **DocTools/DocBuilder/Git/PhpPlanet/templates/tpl-method.md.php.noformat**).
+
+
+
 
 
 
@@ -472,10 +495,12 @@ GeneratedItems2Url
 
 **generatedItems2Url** is the name of the most important array in DocTools.
 
-It's an array which contains all classes and methods used by your documentation, and their respective url.
+It's an array which contains all classes and methods used by your documentation, and their respective urls.
+
+It's used to convert a class name and/or method name to a link to the appropriate documentation page.
 
 
-So technically speaking, it contains a map of items => url.
+So technically speaking, it contains a map of item => url.
 
 An item can be either a class name or a long method name.
 A long method name has the following notation:
