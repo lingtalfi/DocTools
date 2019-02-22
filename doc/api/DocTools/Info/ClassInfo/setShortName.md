@@ -20,8 +20,10 @@ Sets the class short name.
 Parameters
 --------------
 
+
 - shortName
     
+
 
 Return values
 ----------------

@@ -20,8 +20,10 @@ Sets the classInfo.
 Parameters
 --------------
 
+
 - classInfo
     
+
 
 Return values
 ----------------

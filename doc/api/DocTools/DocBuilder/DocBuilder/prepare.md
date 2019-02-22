@@ -30,8 +30,10 @@ The info object should be stored and re-used in the buildDoc method.
 Parameters
 --------------
 
+
 - settings
     
+
 
 Return values
 ----------------

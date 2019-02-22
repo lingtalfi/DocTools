@@ -20,13 +20,25 @@ Returns a table widget.
 Parameters
 --------------
 
+
 - title
-    - id
-    - headers
-    - rows
-    - nbItems
-    - acceptWarning
     
+
+- id
+    
+
+- headers
+    
+
+- rows
+    
+
+- nbItems
+    
+
+- acceptWarning
+    
+
 
 Return values
 ----------------

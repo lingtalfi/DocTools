@@ -20,8 +20,10 @@ Adds a class with an empty [main text](https://github.com/lingtalfi/DocTools/blo
 Parameters
 --------------
 
+
 - className
     The name of the culprit class.
+
 
 Return values
 ----------------

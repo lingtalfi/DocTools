@@ -20,8 +20,10 @@ Parses the given $element and returns a [DocTools\Info\InfoInterface](https://gi
 Parameters
 --------------
 
+
 - element
     The element to parse.
+
 
 Return values
 ----------------

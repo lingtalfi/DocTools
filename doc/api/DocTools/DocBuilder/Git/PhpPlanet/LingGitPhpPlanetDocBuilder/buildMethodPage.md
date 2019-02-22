@@ -20,9 +20,13 @@ Builds a method page.
 Parameters
 --------------
 
+
 - classInfo
-    - methodInfo
     
+
+- methodInfo
+    
+
 
 Return values
 ----------------

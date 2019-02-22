@@ -20,8 +20,10 @@ Returns the class signature.
 Parameters
 --------------
 
+
 - class
     
+
 
 Return values
 ----------------

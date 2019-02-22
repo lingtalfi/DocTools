@@ -20,8 +20,10 @@ Adds a method to this classInfo instance.
 Parameters
 --------------
 
+
 - method
     
+
 
 Return values
 ----------------

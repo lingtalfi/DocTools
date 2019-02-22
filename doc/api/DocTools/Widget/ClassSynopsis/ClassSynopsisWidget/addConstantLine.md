@@ -20,10 +20,16 @@ Adds the constant line to the given $s string.
 Parameters
 --------------
 
+
 - s
-    - constant
-    - showDeclaringClass
     
+
+- constant
+    
+
+- showDeclaringClass
+    
+
 
 Return values
 ----------------

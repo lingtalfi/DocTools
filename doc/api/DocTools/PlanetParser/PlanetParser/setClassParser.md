@@ -20,8 +20,10 @@ Sets the class parser.
 Parameters
 --------------
 
+
 - classParser
     
+
 
 Return values
 ----------------

@@ -21,8 +21,10 @@ from the very beginning or from the very end of that array.
 Parameters
 --------------
 
+
 - lines
     
+
 
 Return values
 ----------------

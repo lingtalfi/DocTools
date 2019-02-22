@@ -20,9 +20,13 @@ Adds a method with an empty [main text](https://github.com/lingtalfi/DocTools/bl
 Parameters
 --------------
 
+
 - className
-    The name of the culprit class.- methodName
+    The name of the culprit class.
+
+- methodName
     
+
 
 Return values
 ----------------

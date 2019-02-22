@@ -20,8 +20,10 @@ Sets the translator.
 Parameters
 --------------
 
+
 - translator
     
+
 
 Return values
 ----------------

@@ -20,9 +20,13 @@ Adds the name and the visibility of a method which doesn't have a non-empty doc 
 Parameters
 --------------
 
+
 - methodName
-    - visibility
     
+
+- visibility
+    
+
 
 Return values
 ----------------

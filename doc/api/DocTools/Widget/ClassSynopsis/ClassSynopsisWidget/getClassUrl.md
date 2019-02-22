@@ -20,9 +20,13 @@ Returns the class url for the given $class.
 Parameters
 --------------
 
+
 - class
-    - hint
     
+
+- hint
+    
+
 
 Return values
 ----------------

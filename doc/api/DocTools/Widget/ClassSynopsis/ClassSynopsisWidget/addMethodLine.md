@@ -20,10 +20,16 @@ Adds the method line to the given $s string.
 Parameters
 --------------
 
+
 - s
-    - method
-    - showDeclaringClass
     
+
+- method
+    
+
+- showDeclaringClass
+    
+
 
 Return values
 ----------------

@@ -21,9 +21,13 @@ This is use to collect statistical information about the planet.
 Parameters
 --------------
 
+
 - functionName
-    - argsList
+    
+
+- argsList
     Resolved args list.
+
 
 Return values
 ----------------

@@ -22,8 +22,10 @@ See also [the ClassInfo class](https://github.com/lingtalfi/DocTools/blob/master
 Parameters
 --------------
 
+
 - className
     
+
 
 Return values
 ----------------

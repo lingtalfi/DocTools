@@ -21,9 +21,13 @@ Also updates the report if given.
 Parameters
 --------------
 
+
 - string
-    - report
     
+
+- report
+    
+
 
 Return values
 ----------------
