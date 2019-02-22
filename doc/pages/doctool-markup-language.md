@@ -528,6 +528,7 @@ The following functions are meant to be used inside a description text.
 - @class($className): will be transformed into a link to the $className's generated doc page.
 - @method($longMethodName): will be transformed into a link to the method's generated doc page.
     The $longMethodName has the following notation:
+    
         - longMethodName: ```<className> <::> <methodName>```
     Example: DocTools\ClassParser\ClassParserInterface::parse         
     
