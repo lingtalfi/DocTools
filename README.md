@@ -77,7 +77,7 @@ How to use?
 If you just want to generate a php style documentation for git (markdown) like the [DocTools api here](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools.md),
 then your fastest option is probably to just re-use the [LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.md) [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md) that I made.
 
-Copy paste the code below, and play with the options.
+Copy paste the code below, and adapt the options to your project.
 
 
 ```php
