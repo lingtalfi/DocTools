@@ -22,6 +22,7 @@ Parameters
 
 
 - filter
+
     The property visibility(ies) to return (public, protected, private).
 Can be expressed either as an array (to combine multiple visibilities) or a string (single visibility).
 

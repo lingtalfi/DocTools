@@ -22,16 +22,20 @@ Parameters
 
 
 - tags
+
     
 
 - comment
+
     
 
 - info
+
     An array containing the following variables:
 - declaringClass: the name of the class in which the doc comment was written.
 
 - report
+
     
 
 

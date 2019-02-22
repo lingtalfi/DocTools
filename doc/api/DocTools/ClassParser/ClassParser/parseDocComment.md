@@ -31,9 +31,11 @@ Parameters
 
 
 - rawComment
+
     
 
 - elementType
+
     The type of the element the comment is written for, can be one of:
 - class
 - property (class property)

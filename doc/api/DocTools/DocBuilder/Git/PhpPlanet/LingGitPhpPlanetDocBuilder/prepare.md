@@ -32,6 +32,7 @@ Parameters
 
 
 - settings
+
     Settings (all mandatory except those prefixed with question mark):
 
 - planetDir: string. The location of the planet directory to parse.

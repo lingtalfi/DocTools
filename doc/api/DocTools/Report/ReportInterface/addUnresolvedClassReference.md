@@ -22,9 +22,11 @@ Parameters
 
 
 - className
+
     
 
 - hint
+
     A hint to help locate the unresolved class reference.
 
 

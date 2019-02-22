@@ -22,21 +22,27 @@ Parameters
 
 
 - title
+
     
 
 - id
+
     
 
 - headers
+
     
 
 - rows
+
     
 
 - nbItems
+
     
 
 - acceptWarning
+
     
 
 

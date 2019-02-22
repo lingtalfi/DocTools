@@ -27,9 +27,11 @@ Parameters
 
 
 - rawContent
+
     
 
 - resolved
+
     Whether the "@implementation tag" or "@overrides tag" has been expanded at least once.
 
 
