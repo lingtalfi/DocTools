@@ -40,21 +40,21 @@ class PageUtil  {
 Properties
 =============
 
-- <span id="property-rootDir">rootDir</span>
+- <span id="property-rootDir"><b>rootDir</b></span>
 
     This property holds the rootDir for this instance.
     The root dir is the directory containing all generated files.
     
     
 
-- <span id="property-insertsRootDir">insertsRootDir</span>
+- <span id="property-insertsRootDir"><b>insertsRootDir</b></span>
 
     This property holds the inserts root directory.
     See [inserts](https://github.com/lingtalfi/DocTools/blob/master/README.md#inserts) for more details.
     
     
 
-- <span id="property-translator">translator</span>
+- <span id="property-translator"><b>translator</b></span>
 
     This property holds the markdown translator for this instance.
     If null, no translation will occur.

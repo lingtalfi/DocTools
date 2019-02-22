@@ -34,14 +34,14 @@ class CommentHelper  {
 Properties
 =============
 
-- <span id="property-propertyVarTagTypes">propertyVarTagTypes</span>
+- <span id="property-propertyVarTagTypes"><b>propertyVarTagTypes</b></span>
 
     This property holds the php types (i.e. not including custom user class) allowed
     for a @var tag in DocTools.
     
     
 
-- <span id="property-propertyReturnTagTypes">propertyReturnTagTypes</span>
+- <span id="property-propertyReturnTagTypes"><b>propertyReturnTagTypes</b></span>
 
     This property holds the php types (i.e. not including custom user class) allowed
     for a @return tag in DocTools.

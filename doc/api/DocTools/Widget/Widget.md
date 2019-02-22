@@ -36,7 +36,7 @@ abstract class Widget implements [WidgetInterface](https://github.com/lingtalfi/
 Properties
 =============
 
-- <span id="property-options">options</span>
+- <span id="property-options"><b>options</b></span>
 
     This property holds an array of options to use. Options affect the behaviour of the instance and
     are specific to the concrete class.

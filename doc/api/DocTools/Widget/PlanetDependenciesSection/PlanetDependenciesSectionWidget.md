@@ -41,13 +41,13 @@ class PlanetDependenciesSectionWidget extends [Widget](https://github.com/lingta
 Properties
 =============
 
-- <span id="property-planetInfo">planetInfo</span>
+- <span id="property-planetInfo"><b>planetInfo</b></span>
 
     This property holds a [PlanetInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/PlanetInfo.md) instance.
     
     
 
-- <span id="property-options">options</span>
+- <span id="property-options"><b>options</b></span>
 
     This property holds an array of options to use. Options affect the behaviour of the instance and
     are specific to the concrete class.

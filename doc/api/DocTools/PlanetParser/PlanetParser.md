@@ -47,27 +47,27 @@ class PlanetParser implements [GenericParserInterface](https://github.com/lingta
 Properties
 =============
 
-- <span id="property-classParser">classParser</span>
+- <span id="property-classParser"><b>classParser</b></span>
 
     This property holds a [ClassParserInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/ClassParser/ClassParserInterface.md) instance.
     
     
 
-- <span id="property-report">report</span>
+- <span id="property-report"><b>report</b></span>
 
     This property holds the parser report for this instance.
     The report will only be available after the parse method has been called.
     
     
 
-- <span id="property-resolveInlineTags">resolveInlineTags</span>
+- <span id="property-resolveInlineTags"><b>resolveInlineTags</b></span>
 
     This property holds whether [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) should be resolved.
     The default value is true.
     
     
 
-- <span id="property-notationInterpreter">notationInterpreter</span>
+- <span id="property-notationInterpreter"><b>notationInterpreter</b></span>
 
     This property holds the [docTool markup language](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) interpreter for this instance.
     

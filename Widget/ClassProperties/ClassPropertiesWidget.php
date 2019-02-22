@@ -63,7 +63,7 @@ class ClassPropertiesWidget extends Widget
         $properties = $this->classInfo->getProperties();
         foreach ($properties as $property) {
 
-            $s .= '- <span id="property-'. $property->getName() .'">' . $property->getName()  . '</span>' . PHP_EOL;
+            $s .= '- <span id="property-'. $property->getName() .'"><b>' . $property->getName()  . '</b></span>' . PHP_EOL;
             $s .= PHP_EOL;
             $s .= StringTool::indent($property->getComment()->getMainText(), 4) . PHP_EOL;
             $s .= PHP_EOL;

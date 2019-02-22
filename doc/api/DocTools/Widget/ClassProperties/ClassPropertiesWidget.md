@@ -43,13 +43,13 @@ class ClassPropertiesWidget extends [Widget](https://github.com/lingtalfi/DocToo
 Properties
 =============
 
-- <span id="property-classInfo">classInfo</span>
+- <span id="property-classInfo"><b>classInfo</b></span>
 
     This property holds the class info.
     
     
 
-- <span id="property-options">options</span>
+- <span id="property-options"><b>options</b></span>
 
     This property holds an array of options to use. Options affect the behaviour of the instance and
     are specific to the concrete class.

@@ -64,7 +64,7 @@ abstract class DocBuilder  {
 Properties
 =============
 
-- <span id="property-report">report</span>
+- <span id="property-report"><b>report</b></span>
 
     This property holds the parser report.
     

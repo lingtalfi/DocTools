@@ -84,31 +84,31 @@ class CommentInfo implements [InfoInterface](https://github.com/lingtalfi/DocToo
 Properties
 =============
 
-- <span id="property-rawText">rawText</span>
+- <span id="property-rawText"><b>rawText</b></span>
 
     This property holds the doc comment as is.
     
     
 
-- <span id="property-mainText">mainText</span>
+- <span id="property-mainText"><b>mainText</b></span>
 
     This property holds the main text (see class description for more details).
     
     
 
-- <span id="property-firstLine">firstLine</span>
+- <span id="property-firstLine"><b>firstLine</b></span>
 
     This property holds the first line of the main text.
     
     
 
-- <span id="property-firstSentence">firstSentence</span>
+- <span id="property-firstSentence"><b>firstSentence</b></span>
 
     This property holds the first sentence of the comment (the first sequence of characters ending with a dot, included).
     
     
 
-- <span id="property-tags">tags</span>
+- <span id="property-tags"><b>tags</b></span>
 
     This property holds an array of tag name => tag values.
     
@@ -119,7 +119,7 @@ Properties
     
     
 
-- <span id="property-seeItems">seeItems</span>
+- <span id="property-seeItems"><b>seeItems</b></span>
 
     This property holds the seeItems array for this instance.
     

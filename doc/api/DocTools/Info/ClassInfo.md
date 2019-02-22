@@ -57,49 +57,49 @@ class ClassInfo implements [InfoInterface](https://github.com/lingtalfi/DocTools
 Properties
 =============
 
-- <span id="property-comment">comment</span>
+- <span id="property-comment"><b>comment</b></span>
 
     This property holds a [commentInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/CommentInfo.md) object.
     
     
 
-- <span id="property-properties">properties</span>
+- <span id="property-properties"><b>properties</b></span>
 
     This property holds an array of [PropertyInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/PropertyInfo.md) objects.
     
     
 
-- <span id="property-methods">methods</span>
+- <span id="property-methods"><b>methods</b></span>
 
     This property holds an array of [MethodInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/MethodInfo.md) objects.
     
     
 
-- <span id="property-name">name</span>
+- <span id="property-name"><b>name</b></span>
 
     This property holds the name of the class.
     
     
 
-- <span id="property-shortName">shortName</span>
+- <span id="property-shortName"><b>shortName</b></span>
 
     This property holds the shortName of the class.
     
     
 
-- <span id="property-signature">signature</span>
+- <span id="property-signature"><b>signature</b></span>
 
     This property holds the signature of the class.
     
     
 
-- <span id="property-interfaces">interfaces</span>
+- <span id="property-interfaces"><b>interfaces</b></span>
 
     This property holds an array of interfaces (class names) of the implemented interfaces.
     
     
 
-- <span id="property-reflectionClass">reflectionClass</span>
+- <span id="property-reflectionClass"><b>reflectionClass</b></span>
 
     This property holds the \ReflectionClass instance for this class.
     

@@ -63,26 +63,26 @@ class ClassSynopsisWidget extends [Widget](https://github.com/lingtalfi/DocTools
 Properties
 =============
 
-- <span id="property-classInfo">classInfo</span>
+- <span id="property-classInfo"><b>classInfo</b></span>
 
     This property holds the class info.
     
     
 
-- <span id="property-generatedItems2Url">generatedItems2Url</span>
+- <span id="property-generatedItems2Url"><b>generatedItems2Url</b></span>
 
     This property holds a map of className and/or className::methodName => url.
     
     
 
-- <span id="property-report">report</span>
+- <span id="property-report"><b>report</b></span>
 
     This property holds a report instance.
     If not set, this class will not report anything.
     
     
 
-- <span id="property-_bodyStyle">_bodyStyle</span>
+- <span id="property-_bodyStyle"><b>_bodyStyle</b></span>
 
     This property holds the style to apply to the widget.
     The following values are available:
@@ -94,7 +94,7 @@ Properties
     
     
 
-- <span id="property-options">options</span>
+- <span id="property-options"><b>options</b></span>
 
     This property holds an array of options to use. Options affect the behaviour of the instance and
     are specific to the concrete class.

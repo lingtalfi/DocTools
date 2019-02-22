@@ -64,50 +64,50 @@ class LingGitPhpPlanetDocBuilder extends [DocBuilder](https://github.com/lingtal
 Properties
 =============
 
-- <span id="property-projectStartDate">projectStartDate</span>
+- <span id="property-projectStartDate"><b>projectStartDate</b></span>
 
     This property holds the project start date for this instance.
     The date in mysql format (2019-02-21).
     
     
 
-- <span id="property-planetDir">planetDir</span>
+- <span id="property-planetDir"><b>planetDir</b></span>
 
     This property holds the planet directory setting.
     
     
 
-- <span id="property-generatedClassBaseDir">generatedClassBaseDir</span>
+- <span id="property-generatedClassBaseDir"><b>generatedClassBaseDir</b></span>
 
     This property holds the generated classes base directory setting.
     
     
 
-- <span id="property-insertsBaseDir">insertsBaseDir</span>
+- <span id="property-insertsBaseDir"><b>insertsBaseDir</b></span>
 
     This property holds the inserts base directory setting.
     
     
 
-- <span id="property-copyModuleSrc">copyModuleSrc</span>
+- <span id="property-copyModuleSrc"><b>copyModuleSrc</b></span>
 
     This property holds the [copy module](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md) source for this instance.
     
     
 
-- <span id="property-copyModuleDst">copyModuleDst</span>
+- <span id="property-copyModuleDst"><b>copyModuleDst</b></span>
 
     This property holds the [copy module](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md) destination for this instance.
     
     
 
-- <span id="property-copyModuleOptions">copyModuleOptions</span>
+- <span id="property-copyModuleOptions"><b>copyModuleOptions</b></span>
 
     This property holds the [copy module](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md) options for this instance.
     
     
 
-- <span id="property-_planetInfo">_planetInfo</span>
+- <span id="property-_planetInfo"><b>_planetInfo</b></span>
 
     This property holds a reference to the planetInfo created during the prepare method.
     It will be used by the buildDoc method.
@@ -115,19 +115,19 @@ Properties
     
     
 
-- <span id="property-_generatedItems2Url">_generatedItems2Url</span>
+- <span id="property-_generatedItems2Url"><b>_generatedItems2Url</b></span>
 
     This internal property holds the array of class name and/or className::methodName => url.
     
     
 
-- <span id="property-_generatedDocStyle">_generatedDocStyle</span>
+- <span id="property-_generatedDocStyle"><b>_generatedDocStyle</b></span>
 
     This internal property holds the DocTools\GeneratedDocStyle\GeneratedDocStyleInterface instance.
     
     
 
-- <span id="property-_markdownTranslator">_markdownTranslator</span>
+- <span id="property-_markdownTranslator"><b>_markdownTranslator</b></span>
 
     This internal property holds the markdown translator instance (DocTools\Translator\MarkdownTranslatorInterface)
     for this instance.
@@ -140,13 +140,13 @@ Properties
     
     
 
-- <span id="property-_interpreter">_interpreter</span>
+- <span id="property-_interpreter"><b>_interpreter</b></span>
 
     This internal property holds the notation interpreter (DocTools\Interpreter\NotationInterpreterInterface) for this instance.
     
     
 
-- <span id="property-report">report</span>
+- <span id="property-report"><b>report</b></span>
 
     This property holds the parser report.
     

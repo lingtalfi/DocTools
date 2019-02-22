@@ -57,31 +57,31 @@ class MethodInfo implements [InfoInterface](https://github.com/lingtalfi/DocTool
 Properties
 =============
 
-- <span id="property-visibility">visibility</span>
+- <span id="property-visibility"><b>visibility</b></span>
 
     This property holds the visibility of the method.
     
     
 
-- <span id="property-comment">comment</span>
+- <span id="property-comment"><b>comment</b></span>
 
     This property holds a <[CommentInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/CommentInfo.md) instance.
     
     
 
-- <span id="property-signature">signature</span>
+- <span id="property-signature"><b>signature</b></span>
 
     This property holds the signature for this instance.
     
     
 
-- <span id="property-name">name</span>
+- <span id="property-name"><b>name</b></span>
 
     This property holds the name for this instance.
     
     
 
-- <span id="property-returnType">returnType</span>
+- <span id="property-returnType"><b>returnType</b></span>
 
     This property holds the return type of the method.
     The return type is given by the "@return" tag.
@@ -92,19 +92,19 @@ Properties
     
     
 
-- <span id="property-returnDescription">returnDescription</span>
+- <span id="property-returnDescription"><b>returnDescription</b></span>
 
     This property holds the return description of the method, given by the "@return" tag.
     
     
 
-- <span id="property-reflectionMethod">reflectionMethod</span>
+- <span id="property-reflectionMethod"><b>reflectionMethod</b></span>
 
     This property holds the reflection method associated with this class.
     
     
 
-- <span id="property-parameters">parameters</span>
+- <span id="property-parameters"><b>parameters</b></span>
 
     This property holds the parameters for this instance.
     

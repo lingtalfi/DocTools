@@ -47,25 +47,25 @@ class ClassMethodsWidget extends [Widget](https://github.com/lingtalfi/DocTools/
 Properties
 =============
 
-- <span id="property-classInfo">classInfo</span>
+- <span id="property-classInfo"><b>classInfo</b></span>
 
     This property holds the class info.
     
     
 
-- <span id="property-generatedItems2Url">generatedItems2Url</span>
+- <span id="property-generatedItems2Url"><b>generatedItems2Url</b></span>
 
     This property holds the array of className and/or className::methodName => url.
     
     
 
-- <span id="property-report">report</span>
+- <span id="property-report"><b>report</b></span>
 
     This property holds the DocTools\Report\ReportInterface.
     
     
 
-- <span id="property-options">options</span>
+- <span id="property-options"><b>options</b></span>
 
     This property holds an array of options to use. Options affect the behaviour of the instance and
     are specific to the concrete class.

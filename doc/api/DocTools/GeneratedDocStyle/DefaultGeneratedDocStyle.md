@@ -38,7 +38,7 @@ class DefaultGeneratedDocStyle implements [GeneratedDocStyleInterface](https://g
 Properties
 =============
 
-- <span id="property-extension">extension</span>
+- <span id="property-extension"><b>extension</b></span>
 
     This property holds the file extension for all generated files (default=md).
     

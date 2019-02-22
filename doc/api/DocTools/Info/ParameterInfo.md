@@ -46,31 +46,31 @@ class ParameterInfo implements [InfoInterface](https://github.com/lingtalfi/DocT
 Properties
 =============
 
-- <span id="property-name">name</span>
+- <span id="property-name"><b>name</b></span>
 
     This property holds the name of the parameter.
     
     
 
-- <span id="property-type">type</span>
+- <span id="property-type"><b>type</b></span>
 
     This property holds the type of the parameter.
     
     
 
-- <span id="property-defaultValue">defaultValue</span>
+- <span id="property-defaultValue"><b>defaultValue</b></span>
 
     This property holds the default value of the parameter.
     
     
 
-- <span id="property-valueAlternatives">valueAlternatives</span>
+- <span id="property-valueAlternatives"><b>valueAlternatives</b></span>
 
     This property holds the value alternatives for this parameter.
     
     
 
-- <span id="property-descriptiveText">descriptiveText</span>
+- <span id="property-descriptiveText"><b>descriptiveText</b></span>
 
     This property holds the descriptive text for this parameter.
     

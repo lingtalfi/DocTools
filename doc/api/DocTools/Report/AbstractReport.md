@@ -74,7 +74,7 @@ abstract class AbstractReport implements [ReportInterface](https://github.com/li
 Properties
 =============
 
-- <span id="property-parsedInlineFunctions">parsedInlineFunctions</span>
+- <span id="property-parsedInlineFunctions"><b>parsedInlineFunctions</b></span>
 
     This property holds the array of the inline function parsed during this session.
     Each item of the array has the following structure:
@@ -85,7 +85,7 @@ Properties
     
     
 
-- <span id="property-parsedBlockLevelTags">parsedBlockLevelTags</span>
+- <span id="property-parsedBlockLevelTags"><b>parsedBlockLevelTags</b></span>
 
     This property holds the array of the [block-level tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#block-level-tags) parsed during this session.
     Each item of the array has the following structure:
@@ -95,7 +95,7 @@ Properties
     
     
 
-- <span id="property-unknownInlineFunctions">unknownInlineFunctions</span>
+- <span id="property-unknownInlineFunctions"><b>unknownInlineFunctions</b></span>
 
     This property holds the array of unknown inline function items (found during the parsing session), each of which being the following array:
     
@@ -104,7 +104,7 @@ Properties
     
     
 
-- <span id="property-undefinedInlineKeywords">undefinedInlineKeywords</span>
+- <span id="property-undefinedInlineKeywords"><b>undefinedInlineKeywords</b></span>
 
     This property holds an array of undefined keyword items, each of which being the following array:
     
@@ -113,7 +113,7 @@ Properties
     
     
 
-- <span id="property-undefinedInlineClasses">undefinedInlineClasses</span>
+- <span id="property-undefinedInlineClasses"><b>undefinedInlineClasses</b></span>
 
     This property holds the array of class names not found items, each of which being the following array:
     
@@ -122,7 +122,7 @@ Properties
     
     
 
-- <span id="property-unresolvedImplementationTags">unresolvedImplementationTags</span>
+- <span id="property-unresolvedImplementationTags"><b>unresolvedImplementationTags</b></span>
 
     This property holds the array of method and class names for methods which contains an
     unresolved @implementation tag.
@@ -132,7 +132,7 @@ Properties
     
     
 
-- <span id="property-unresolvedOverridesTags">unresolvedOverridesTags</span>
+- <span id="property-unresolvedOverridesTags"><b>unresolvedOverridesTags</b></span>
 
     This property holds the array of method and class names for methods which contains an
     unresolved @overrides tag.
@@ -142,14 +142,14 @@ Properties
     
     
 
-- <span id="property-classesWithoutComment">classesWithoutComment</span>
+- <span id="property-classesWithoutComment"><b>classesWithoutComment</b></span>
 
     This property holds the array of classes (class names) which
     don't have a doc comment (or with an empty doc comment).
     
     
 
-- <span id="property-methodsWithoutComment">methodsWithoutComment</span>
+- <span id="property-methodsWithoutComment"><b>methodsWithoutComment</b></span>
 
     This property holds the array of methods without a doc comment (or with an empty doc comment).
     Each item has the following structure:
@@ -160,7 +160,7 @@ Properties
     
     
 
-- <span id="property-methodsWithoutReturnTag">methodsWithoutReturnTag</span>
+- <span id="property-methodsWithoutReturnTag"><b>methodsWithoutReturnTag</b></span>
 
     This property holds the array of methods with a doc comment, but without a "@return" tag.
     Each item has the following structure:
@@ -170,7 +170,7 @@ Properties
     
     
 
-- <span id="property-parametersWithoutParamTag">parametersWithoutParamTag</span>
+- <span id="property-parametersWithoutParamTag"><b>parametersWithoutParamTag</b></span>
 
     This property holds the array of parameters without a "@param" tag.
     Each item has the following structure:
@@ -181,7 +181,7 @@ Properties
     
     
 
-- <span id="property-propertiesWithoutComment">propertiesWithoutComment</span>
+- <span id="property-propertiesWithoutComment"><b>propertiesWithoutComment</b></span>
 
     This property holds the array of properties without a doc comment (or with an empty doc comment).
     Each item has the following structure:
@@ -191,7 +191,7 @@ Properties
     
     
 
-- <span id="property-propertiesWithoutVarTag">propertiesWithoutVarTag</span>
+- <span id="property-propertiesWithoutVarTag"><b>propertiesWithoutVarTag</b></span>
 
     This property holds the array of properties without a "@var" tag specified.
     
@@ -202,37 +202,37 @@ Properties
     
     
 
-- <span id="property-unresolvedClassReferences">unresolvedClassReferences</span>
+- <span id="property-unresolvedClassReferences"><b>unresolvedClassReferences</b></span>
 
     This property holds the array of unresolved class references.
     
     
 
-- <span id="property-unresolvedMethodReferences">unresolvedMethodReferences</span>
+- <span id="property-unresolvedMethodReferences"><b>unresolvedMethodReferences</b></span>
 
     This property holds the array of unresolved method references.
     
     
 
-- <span id="property-classesWithEmptyMainText">classesWithEmptyMainText</span>
+- <span id="property-classesWithEmptyMainText"><b>classesWithEmptyMainText</b></span>
 
     This property holds an array of the classes with an empty main text.
     
     
 
-- <span id="property-propertiesWithEmptyMainText">propertiesWithEmptyMainText</span>
+- <span id="property-propertiesWithEmptyMainText"><b>propertiesWithEmptyMainText</b></span>
 
     This property holds an array of the properties with an empty main text.
     
     
 
-- <span id="property-methodsWithEmptyMainText">methodsWithEmptyMainText</span>
+- <span id="property-methodsWithEmptyMainText"><b>methodsWithEmptyMainText</b></span>
 
     This property holds an array of the methods with an empty main text.
     
     
 
-- <span id="property-ignore">ignore</span>
+- <span id="property-ignore"><b>ignore</b></span>
 
     This property holds the array of class names for which we don't want to report anything.
     This might happen if your class inherits an external class on which you don't have control.
@@ -242,7 +242,7 @@ Properties
     
     
 
-- <span id="property-currentContext">currentContext</span>
+- <span id="property-currentContext"><b>currentContext</b></span>
 
     The name of the current class being visited.
     

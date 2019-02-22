@@ -51,31 +51,31 @@ class PropertyInfo implements [InfoInterface](https://github.com/lingtalfi/DocTo
 Properties
 =============
 
-- <span id="property-comment">comment</span>
+- <span id="property-comment"><b>comment</b></span>
 
     This property holds the doc comment of the property if any.
     
     
 
-- <span id="property-name">name</span>
+- <span id="property-name"><b>name</b></span>
 
     This property holds the name of the property.
     
     
 
-- <span id="property-signature">signature</span>
+- <span id="property-signature"><b>signature</b></span>
 
     This property holds the signature of the property.
     
     
 
-- <span id="property-visibility">visibility</span>
+- <span id="property-visibility"><b>visibility</b></span>
 
     This property holds the visibility of this property.
     
     
 
-- <span id="property-type">type</span>
+- <span id="property-type"><b>type</b></span>
 
     This property holds the type of the property.
     The type is given by the "@var" tag.
@@ -83,7 +83,7 @@ Properties
     
     
 
-- <span id="property-reflectionProperty">reflectionProperty</span>
+- <span id="property-reflectionProperty"><b>reflectionProperty</b></span>
 
     This property holds the \ReflectionProperty instance describing this property.
     

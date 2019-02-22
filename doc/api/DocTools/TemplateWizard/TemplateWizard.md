@@ -82,7 +82,7 @@ class TemplateWizard  {
 Properties
 =============
 
-- <span id="property-insertDir">insertDir</span>
+- <span id="property-insertDir"><b>insertDir</b></span>
 
     This property holds the insertDir for this instance.
     

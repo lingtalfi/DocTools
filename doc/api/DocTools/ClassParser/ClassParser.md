@@ -66,34 +66,34 @@ class ClassParser implements [ClassParserInterface](https://github.com/lingtalfi
 Properties
 =============
 
-- <span id="property-report">report</span>
+- <span id="property-report"><b>report</b></span>
 
     This property holds the parser report for this instance.
     The report will only be available after the parse method has been called.
     
     
 
-- <span id="property-resolveInlineTags">resolveInlineTags</span>
+- <span id="property-resolveInlineTags"><b>resolveInlineTags</b></span>
 
     This property holds whether [inline tags](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) should be resolved.
     The default value is true.
     
     
 
-- <span id="property-notationInterpreter">notationInterpreter</span>
+- <span id="property-notationInterpreter"><b>notationInterpreter</b></span>
 
     This property holds the docTool markup language interpreter for this instance.
     
     
 
-- <span id="property-_reflectionClass">_reflectionClass</span>
+- <span id="property-_reflectionClass"><b>_reflectionClass</b></span>
 
     This property holds the \Reflection instance of the class currently being parsed.
     It's an internal property, as denoted with the underscore prefix.
     
     
 
-- <span id="property-_method">_method</span>
+- <span id="property-_method"><b>_method</b></span>
 
     This property holds the name of the method currently being parsed.
     
@@ -101,7 +101,7 @@ Properties
     
     
 
-- <span id="property-_useStatements">_useStatements</span>
+- <span id="property-_useStatements"><b>_useStatements</b></span>
 
     This property holds the array of use statements found in the class file..
     

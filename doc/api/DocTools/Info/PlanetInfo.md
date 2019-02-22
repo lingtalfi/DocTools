@@ -42,7 +42,7 @@ class PlanetInfo implements [InfoInterface](https://github.com/lingtalfi/DocTool
 Properties
 =============
 
-- <span id="property-dependencies">dependencies</span>
+- <span id="property-dependencies"><b>dependencies</b></span>
 
     This property holds the dependencies for this instance.
     It's an array of strings.
@@ -51,13 +51,13 @@ Properties
     
     
 
-- <span id="property-classes">classes</span>
+- <span id="property-classes"><b>classes</b></span>
 
     This property holds an array of [ClassInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/ClassInfo.md) instances.
     
     
 
-- <span id="property-name">name</span>
+- <span id="property-name"><b>name</b></span>
 
     This property holds the name of the planet.
     

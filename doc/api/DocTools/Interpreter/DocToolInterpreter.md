@@ -39,14 +39,14 @@ class DocToolInterpreter implements [NotationInterpreterInterface](https://githu
 Properties
 =============
 
-- <span id="property-keyword2UrlMap">keyword2UrlMap</span>
+- <span id="property-keyword2UrlMap"><b>keyword2UrlMap</b></span>
 
     This property holds a map of keyword => url.
     This is used to resolve [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
     
     
 
-- <span id="property-generatedItems2Url">generatedItems2Url</span>
+- <span id="property-generatedItems2Url"><b>generatedItems2Url</b></span>
 
     This property holds the array of className and/or className::methodName => url.
     
