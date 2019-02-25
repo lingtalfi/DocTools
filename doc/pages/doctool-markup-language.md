@@ -540,6 +540,7 @@ The following functions are meant to be used inside a description text.
 - @page($keyword): an alias for @keyword.
 - @doc($keyword): an alias for @keyword.
 - @concept($keyword): an alias for @keyword.
+- @object($keyword): an alias for @keyword.
 
 - @alias($keyword): will be replaced by the $keyword's value.
 - @url($keyword): an alias for @alias.
