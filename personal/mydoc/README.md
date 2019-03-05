@@ -32,7 +32,7 @@ QuickNav
 ===========
 
 
-- [DocTools api](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools.md)
+- [DocTools api](@url(git)/doc/api/DocTools.md)
 - [What is DocTools](#what-is-doctools)
 - [How to use?](#how-to-use)
 - [Why documentation is important](#why-documentation-is-important)
@@ -62,7 +62,7 @@ DocTools provides 4 main components:
 - a **parser**, which scans a code base and returns information out of it (like the class names, the method names, the properties, the comments, the doc comment tags, ...)
 - a **report page**: an html page which tells you what's missing in your doc (for instance class XX doesn't have a comment, or this property of this class doesn't declare the "@var" tag, ...)
 - a **docTool syntax**: which extends the markdown syntax so that we can create documentation more intuitively
-- a **documentation generator**: aka [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md) which creates the documentation pages for you, based on a templates/widgets system that you create for your needs 
+- a **documentation generator**: aka @kw(DocBuilder) which creates the documentation pages for you, based on a templates/widgets system that you create for your needs 
 
 
 
@@ -75,8 +75,8 @@ Here is a screenshot of the report page:
 How to use?
 ==============
 
-If you just want to generate a php style documentation for git (markdown) like the [DocTools api here](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools.md),
-then your fastest option is probably to just re-use the [LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.md) [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md) that I made.
+If you just want to generate a php style documentation for git (markdown) like the [DocTools api here](@url(git)/doc/api/DocTools.md),
+then your fastest option is probably to just re-use the @kw(LingGitPhpPlanetDocBuilder) @kw(DocBuilder) that I made.
 
 Copy paste the code below, and adapt the options to your project.
 
@@ -142,7 +142,7 @@ $builder->prepare([
     /**
      * An array of classes to ignore.
      * You would put any classes used by your planet, but external to your planet.
-     * That's because they will be scanned by the Parser and generate errors in the [report](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface.md).
+     * That's because they will be scanned by the Parser and generate errors in the @kw(report).
      * By referencing theme here, they would be scanned, but not generate errors in the report.
      *
      */
@@ -158,15 +158,15 @@ $builder->prepare([
     "projectStartDate" => "2019-02-21",
 
     /**
-     * [CopyModule](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md).
-     * To copy the whole documentation from one place to another, and interpreting [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions)
+     * @kw(CopyModule).
+     * To copy the whole documentation from one place to another, and interpreting @kw(inline functions)
      * during the transfer.
      * This is usually the last part of the DocTools generation process: it happens after the doc is generated,
      * and copies everything, including your manual documents to the destination directory.
      *
      *
-     * I like to write my (manual) docs in a private directory named "personal", where I use the fancy [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions) a lot in
-     * all my pages (inside the pages directory of the [Lizard scheme](https://github.com/lingtalfi/DocTools/blob/master/README.md#lizard-scheme)).
+     * I like to write my (manual) docs in a private directory named "personal", where I use the fancy @kw(inline functions) a lot in
+     * all my pages (inside the pages directory of the @kw(Lizard scheme)).
      *
      * Then I like to copy this structure to the final public destination, which is the doc directory in the git repo
      * (and at the root of my planet on my local machine).
@@ -195,7 +195,7 @@ $builder->prepare([
      */
     "generatedClassBaseDir" => "$planetDir/doc/api",
     /**
-     * The base directory for the [inserts](https://github.com/lingtalfi/DocTools/blob/master/README.md#inserts).
+     * The base directory for the @kw(inserts).
      */
     "insertsBaseDir" => "$planetDir/doc/inserts",
     /**
@@ -229,7 +229,7 @@ $builder->prepare([
 //    "markdownTranslator" => new ParseDownTranslator(), 
 
     /**
-     * This map is used internally by the [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
+     * This map is used internally by the @kw(inline functions).
      * This map in particular is the one used for the whole DocTools planet documentation (pages and api).
      */
     "keyWord2UrlMap" => [
@@ -292,7 +292,7 @@ $builder->prepare([
     /**
      * An array of external classes to url.
      * This will be used by some widgets to create links to that class when appropriate.
-     * For instance, on the [ParseDownTranslator class page](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Translator/ParseDownTranslator.md), the class synopsis shows that the
+     * For instance, on the @kw(ParseDownTranslator class page), the class synopsis shows that the
      * ParseDownTranslator class extends the external Parsedown class.
      *
      * And so because the Parsedown class is referenced in the array below, it can be converted to a link
@@ -303,13 +303,13 @@ $builder->prepare([
     ],
 ]);
 /**
- * This will create the generated documentation (aka api in the [Lizard scheme](https://github.com/lingtalfi/DocTools/blob/master/README.md#lizard-scheme)),
- * and since we've defined a [copy module](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/CopyModule/CopyModuleInterface.md), it will also copy the whole doc to another location.
+ * This will create the generated documentation (aka api in the @kw(Lizard scheme)),
+ * and since we've defined a @kw(copy module), it will also copy the whole doc to another location.
  */
 $builder->buildDoc();
 
 /**
- * This displays the [report](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Report/ReportInterface.md).
+ * This displays the @kw(report).
  */
 $builder->showReport();
 ```
@@ -322,9 +322,9 @@ every (or most of the) DocTools objects.
 
 A good place to start is this documentation: 
 
-- Reading this page, and reading [classes comments](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools.md) can give you some insights of how DocTools is wired
-- Also, you can investigate the [LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.md) object promoted by the above example code. 
-    This will give you an idea of how a [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md) could be implemented, so that you can implement your own.
+- Reading this page, and reading [classes comments](@url(git)/doc/api/DocTools.md) can give you some insights of how DocTools is wired
+- Also, you can investigate the @kw(LingGitPhpPlanetDocBuilder) object promoted by the above example code. 
+    This will give you an idea of how a @doc(DocBuilder) could be implemented, so that you can implement your own.
 - Check out the [tutorials section](#tutorials), which might also help you getting started. 
 
 
@@ -369,7 +369,7 @@ The basic idea with DocTools is that it extracts the doc comments from your code
 
 And so one of the first step is to document your code: every class, every method, every property.
 
-We can use the [docTool notation](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) for that.
+We can use the [docTool notation](@url(doctool_language)) for that.
 
 DocTools provides a report page that helps you spotting what's missing in your documentation (i.e. which class, method or property you 
 forgot to comment basically).
@@ -435,14 +435,14 @@ The docTool notation is a notation built on top of the markdown notation.
 
 It gives us some inline functions that help creating a documentation more intuitively.
 
-See the [docTool notation page](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md) for more details.
+See the [docTool notation page](@url(doctool_language)) for more details.
 
 
 
 Tutorials
 =============
   
-- [How to create a php style documentation ready for git: Walk through the LingGitPhpPlanetDocBuilder class](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/tutorial-linggitphpplanetdocbuilder.md)   
+- [How to create a php style documentation ready for git: Walk through the LingGitPhpPlanetDocBuilder class](@url(LingGitPhpPlanetDocBuilder tutorial))   
   
   
 
@@ -510,14 +510,14 @@ Methods
 
 The **$z** variable is how we access the variable information in our template.
 
-The information is available to use after we've parsed the code, using a [ClassParser](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/ClassParser/ClassParser.md)
-or a [PlanetParser](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/PlanetParser/PlanetParser.md).
+The information is available to use after we've parsed the code, using a @kw(ClassParser)
+or a @kw(PlanetParser).
 
 
-The [PageUtil](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Page/PageUtil.md) object is responsible for rendering templates.
+The @kw(PageUtil) object is responsible for rendering templates.
 
 
-The [LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.md) object builds a documentation based on templates.
+The @kw(LingGitPhpPlanetDocBuilder) object builds a documentation based on templates.
 
 
 Another way to inject content in a template is to use [inserts](#inserts).
@@ -608,7 +608,7 @@ A long method name has the following notation:
 - ```<class name> <::> <method name>```
 
 
-The **generatedItems2Url** array contains mostly the map of items generated with the parsers ([PlanetParser](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/PlanetParser/PlanetParser.md) and or [ClassParser](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/ClassParser/ClassParser.md)),
+The **generatedItems2Url** array contains mostly the map of items generated with the parsers (@doc(PlanetParser) and or @doc(ClassParser)),
 but by extension it also contains all items which need to be converted to url at some point (including external classes used by your 
 product, and php built-in classes used by your product). 
 
@@ -618,8 +618,8 @@ The **generatedItems2Url** array is used by any objects which need to resolve a 
 
 This includes:
 
-- the [DocToolInterpreter](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Interpreter/DocToolInterpreter.md) 
-- some widgets, like the [PlanetTocListWidget](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Widget/PlanetTocList/PlanetTocListWidget.md) widget for instance 
+- the @doc(DocToolInterpreter) 
+- some widgets, like the @doc(PlanetTocListWidget) widget for instance 
 
 
 
