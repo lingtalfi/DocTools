@@ -1,22 +1,22 @@
 <?php
 
 
-namespace DocTools\ClassParser;
+namespace Ling\DocTools\ClassParser;
 
 
-use Bat\ClassTool;
-use Bat\DebugTool;
-use DocTools\Exception\ClassParserException;
-use DocTools\Helper\CommentHelper;
-use DocTools\Info\ClassInfo;
-use DocTools\Info\CommentInfo;
-use DocTools\Info\InfoInterface;
-use DocTools\Info\MethodInfo;
-use DocTools\Info\ParameterInfo;
-use DocTools\Info\PropertyInfo;
-use DocTools\Interpreter\NotationInterpreterInterface;
-use DocTools\Report\ReportInterface;
-use TokenFun\TokenFinder\Tool\TokenFinderTool;
+use Ling\Bat\ClassTool;
+use Ling\Bat\DebugTool;
+use Ling\DocTools\Exception\ClassParserException;
+use Ling\DocTools\Helper\CommentHelper;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Info\CommentInfo;
+use Ling\DocTools\Info\InfoInterface;
+use Ling\DocTools\Info\MethodInfo;
+use Ling\DocTools\Info\ParameterInfo;
+use Ling\DocTools\Info\PropertyInfo;
+use Ling\DocTools\Interpreter\NotationInterpreterInterface;
+use Ling\DocTools\Report\ReportInterface;
+use Ling\TokenFun\TokenFinder\Tool\TokenFinderTool;
 
 
 /**

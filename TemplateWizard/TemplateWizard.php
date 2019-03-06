@@ -1,10 +1,10 @@
 <?php
 
 
-namespace DocTools\TemplateWizard;
+namespace Ling\DocTools\TemplateWizard;
 
 
-use DirScanner\YorgDirScannerTool;
+use Ling\DirScanner\YorgDirScannerTool;
 
 /**
  * The TemplateWizard class.

@@ -20,7 +20,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import DocTools
+uni import Ling/DocTools
 ```
 
 Or just download it and place it where you want otherwise.
@@ -84,8 +84,8 @@ Copy paste the code below, and adapt the options to your project.
 ```php
 <?php 
 
-use DocTools\DocBuilder\Git\PhpPlanet\LingGitPhpPlanetDocBuilder;
-use DocTools\Translator\ParseDownTranslator;
+use Ling\DocTools\DocBuilder\Git\PhpPlanet\LingGitPhpPlanetDocBuilder;
+use Ling\DocTools\Translator\ParseDownTranslator;
 
 
 /**

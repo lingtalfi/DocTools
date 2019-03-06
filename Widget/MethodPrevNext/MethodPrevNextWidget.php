@@ -1,14 +1,14 @@
 <?php
 
 
-namespace DocTools\Widget\MethodPrevNext;
+namespace Ling\DocTools\Widget\MethodPrevNext;
 
 
-use DocTools\Exception\BadWidgetConfigurationException;
-use DocTools\Info\ClassInfo;
-use DocTools\Info\MethodInfo;
-use DocTools\Report\ReportInterface;
-use DocTools\Widget\Widget;
+use Ling\DocTools\Exception\BadWidgetConfigurationException;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Info\MethodInfo;
+use Ling\DocTools\Report\ReportInterface;
+use Ling\DocTools\Widget\Widget;
 
 /**
  * The MethodPrevNextWidget class.

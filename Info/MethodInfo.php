@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DocTools\Info;
+namespace Ling\DocTools\Info;
 
 
 

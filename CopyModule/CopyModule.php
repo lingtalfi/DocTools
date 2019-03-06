@@ -1,14 +1,14 @@
 <?php
 
 
-namespace DocTools\CopyModule;
+namespace Ling\DocTools\CopyModule;
 
 
-use Bat\FileSystemTool;
-use DirScanner\YorgDirScannerTool;
-use DocTools\Exception\CopyModuleException;
-use DocTools\Interpreter\NotationInterpreterInterface;
-use DocTools\Report\ReportInterface;
+use Ling\Bat\FileSystemTool;
+use Ling\DirScanner\YorgDirScannerTool;
+use Ling\DocTools\Exception\CopyModuleException;
+use Ling\DocTools\Interpreter\NotationInterpreterInterface;
+use Ling\DocTools\Report\ReportInterface;
 
 /**
  * The CopyModule class.

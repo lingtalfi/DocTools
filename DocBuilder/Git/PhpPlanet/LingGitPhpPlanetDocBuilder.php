@@ -1,32 +1,32 @@
 <?php
 
 
-namespace DocTools\DocBuilder\Git\PhpPlanet;
+namespace Ling\DocTools\DocBuilder\Git\PhpPlanet;
 
 
-use DocTools\CopyModule\CopyModule;
-use DocTools\DocBuilder\DocBuilder;
-use DocTools\GeneratedDocStyle\DefaultGeneratedDocStyle;
-use DocTools\GeneratedDocStyle\GeneratedDocStyleInterface;
-use DocTools\Helper\MethodHelper;
-use DocTools\Helper\PhpClassHelper;
-use DocTools\Info\ClassInfo;
-use DocTools\Info\MethodInfo;
-use DocTools\Info\PlanetInfo;
-use DocTools\Interpreter\DocToolInterpreter;
-use DocTools\Interpreter\NotationInterpreterInterface;
-use DocTools\Page\PageUtil;
-use DocTools\PlanetParser\PlanetParser;
-use DocTools\Report\HtmlReport;
-use DocTools\Translator\MarkdownTranslatorInterface;
-use DocTools\Widget\ClassMethods\ClassMethodsWidget;
-use DocTools\Widget\ClassPrevNext\ClassPrevNextWidget;
-use DocTools\Widget\ClassProperties\ClassPropertiesWidget;
-use DocTools\Widget\ClassSynopsis\ClassSynopsisWidget;
-use DocTools\Widget\MethodPrevNext\MethodPrevNextWidget;
-use DocTools\Widget\PlanetDependenciesSection\PlanetDependenciesSectionWidget;
-use DocTools\Widget\PlanetTocList\PlanetTocListWidget;
-use UniverseTools\PlanetTool;
+use Ling\DocTools\CopyModule\CopyModule;
+use Ling\DocTools\DocBuilder\DocBuilder;
+use Ling\DocTools\GeneratedDocStyle\DefaultGeneratedDocStyle;
+use Ling\DocTools\GeneratedDocStyle\GeneratedDocStyleInterface;
+use Ling\DocTools\Helper\MethodHelper;
+use Ling\DocTools\Helper\PhpClassHelper;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Info\MethodInfo;
+use Ling\DocTools\Info\PlanetInfo;
+use Ling\DocTools\Interpreter\DocToolInterpreter;
+use Ling\DocTools\Interpreter\NotationInterpreterInterface;
+use Ling\DocTools\Page\PageUtil;
+use Ling\DocTools\PlanetParser\PlanetParser;
+use Ling\DocTools\Report\HtmlReport;
+use Ling\DocTools\Translator\MarkdownTranslatorInterface;
+use Ling\DocTools\Widget\ClassMethods\ClassMethodsWidget;
+use Ling\DocTools\Widget\ClassPrevNext\ClassPrevNextWidget;
+use Ling\DocTools\Widget\ClassProperties\ClassPropertiesWidget;
+use Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidget;
+use Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidget;
+use Ling\DocTools\Widget\PlanetDependenciesSection\PlanetDependenciesSectionWidget;
+use Ling\DocTools\Widget\PlanetTocList\PlanetTocListWidget;
+use Ling\UniverseTools\PlanetTool;
 
 
 /**

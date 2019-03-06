@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DocTools\Helper;
+namespace Ling\DocTools\Helper;
 
 
 /**

@@ -1,18 +1,18 @@
 <?php
 
 
-namespace DocTools\Widget\ClassSynopsis;
+namespace Ling\DocTools\Widget\ClassSynopsis;
 
 
-use Bat\DebugTool;
-use DocTools\Exception\BadWidgetConfigurationException;
-use DocTools\Helper\CommentHelper;
-use DocTools\Helper\MethodHelper;
-use DocTools\Info\ClassInfo;
-use DocTools\Info\MethodInfo;
-use DocTools\Info\PropertyInfo;
-use DocTools\Report\ReportInterface;
-use DocTools\Widget\Widget;
+use Ling\Bat\DebugTool;
+use Ling\DocTools\Exception\BadWidgetConfigurationException;
+use Ling\DocTools\Helper\CommentHelper;
+use Ling\DocTools\Helper\MethodHelper;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Info\MethodInfo;
+use Ling\DocTools\Info\PropertyInfo;
+use Ling\DocTools\Report\ReportInterface;
+use Ling\DocTools\Widget\Widget;
 
 /**
  * The ClassSynopsisWidget class.

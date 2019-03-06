@@ -1,13 +1,13 @@
 <?php
 
 
-namespace DocTools\ClassParser;
+namespace Ling\DocTools\ClassParser;
 
 
-use DocTools\Exception\ClassParserException;
-use DocTools\GenericParser\GenericParserInterface;
-use DocTools\Info\InfoInterface;
-use DocTools\Report\ReportInterface;
+use Ling\DocTools\Exception\ClassParserException;
+use Ling\DocTools\GenericParser\GenericParserInterface;
+use Ling\DocTools\Info\InfoInterface;
+use Ling\DocTools\Report\ReportInterface;
 
 /**
  * The ClassParserInterface interface represents a class parser.

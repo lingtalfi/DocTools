@@ -1,12 +1,12 @@
 <?php
 
 
-namespace DocTools\CopyModule;
+namespace Ling\DocTools\CopyModule;
 
 
-use DocTools\Exception\CopyModuleException;
-use DocTools\Interpreter\NotationInterpreterInterface;
-use DocTools\Report\ReportInterface;
+use Ling\DocTools\Exception\CopyModuleException;
+use Ling\DocTools\Interpreter\NotationInterpreterInterface;
+use Ling\DocTools\Report\ReportInterface;
 
 /**
  * The CopyModuleInterface interface.

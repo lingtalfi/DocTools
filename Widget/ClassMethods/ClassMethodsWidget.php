@@ -1,13 +1,13 @@
 <?php
 
 
-namespace DocTools\Widget\ClassMethods;
+namespace Ling\DocTools\Widget\ClassMethods;
 
 
-use DocTools\Exception\BadWidgetConfigurationException;
-use DocTools\Info\ClassInfo;
-use DocTools\Report\ReportInterface;
-use DocTools\Widget\Widget;
+use Ling\DocTools\Exception\BadWidgetConfigurationException;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Report\ReportInterface;
+use Ling\DocTools\Widget\Widget;
 
 /**
  * The ClassMethodsWidget class.

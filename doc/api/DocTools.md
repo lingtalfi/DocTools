@@ -321,13 +321,13 @@ Table of contents
 
 Dependencies
 ============
-- [Universe: Bat](https://github.com/karayabin/universe-snapshot/tree/master/universe/Bat)
-- [Universe: TokenFun](https://github.com/karayabin/universe-snapshot/tree/master/universe/TokenFun)
-- [Universe: DirScanner](https://github.com/karayabin/universe-snapshot/tree/master/universe/DirScanner)
-- [Universe: UniverseTools](https://github.com/karayabin/universe-snapshot/tree/master/universe/UniverseTools)
-- [Universe: ArrayToString](https://github.com/karayabin/universe-snapshot/tree/master/universe/ArrayToString)
-- [Universe: ArrayToTable](https://github.com/karayabin/universe-snapshot/tree/master/universe/ArrayToTable)
-- [Universe: ZeusTemplateEngine](https://github.com/karayabin/universe-snapshot/tree/master/universe/ZeusTemplateEngine)
-- [Universe: ParseDown](https://github.com/karayabin/universe-snapshot/tree/master/universe/ParseDown)
+- [Universe: Bat](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/Bat)
+- [Universe: TokenFun](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/TokenFun)
+- [Universe: DirScanner](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/DirScanner)
+- [Universe: UniverseTools](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/UniverseTools)
+- [Universe: ArrayToString](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/ArrayToString)
+- [Universe: ArrayToTable](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/ArrayToTable)
+- [Universe: ZeusTemplateEngine](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/ZeusTemplateEngine)
+- [Universe: ParseDown](https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/ParseDown)
 
 

@@ -1,19 +1,19 @@
 <?php
 
 
-namespace DocTools\PlanetParser;
+namespace Ling\DocTools\PlanetParser;
 
 
-use DocTools\ClassParser\ClassParser;
-use DocTools\ClassParser\ClassParserInterface;
-use DocTools\Exception\PlanetParserException;
-use DocTools\GenericParser\GenericParserInterface;
-use DocTools\Info\InfoInterface;
-use DocTools\Info\PlanetInfo;
-use DocTools\Interpreter\NotationInterpreterInterface;
-use DocTools\Report\ReportInterface;
-use UniverseTools\DependencyTool;
-use UniverseTools\PlanetTool;
+use Ling\DocTools\ClassParser\ClassParser;
+use Ling\DocTools\ClassParser\ClassParserInterface;
+use Ling\DocTools\Exception\PlanetParserException;
+use Ling\DocTools\GenericParser\GenericParserInterface;
+use Ling\DocTools\Info\InfoInterface;
+use Ling\DocTools\Info\PlanetInfo;
+use Ling\DocTools\Interpreter\NotationInterpreterInterface;
+use Ling\DocTools\Report\ReportInterface;
+use Ling\UniverseTools\DependencyTool;
+use Ling\UniverseTools\PlanetTool;
 
 
 /**

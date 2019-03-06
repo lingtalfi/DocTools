@@ -1,11 +1,11 @@
 <?php
 
 
-namespace DocTools\DocBuilder;
+namespace Ling\DocTools\DocBuilder;
 
 
-use DocTools\Exception\DocBuilderException;
-use DocTools\Report\ReportInterface;
+use Ling\DocTools\Exception\DocBuilderException;
+use Ling\DocTools\Report\ReportInterface;
 
 /**
  * The DocBuilder class.

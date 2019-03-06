@@ -1,14 +1,14 @@
 <?php
 
 
-namespace DocTools\Widget\ClassPrevNext;
+namespace Ling\DocTools\Widget\ClassPrevNext;
 
 
-use DocTools\Exception\BadWidgetConfigurationException;
-use DocTools\Info\ClassInfo;
-use DocTools\Info\PlanetInfo;
-use DocTools\Report\ReportInterface;
-use DocTools\Widget\Widget;
+use Ling\DocTools\Exception\BadWidgetConfigurationException;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Info\PlanetInfo;
+use Ling\DocTools\Report\ReportInterface;
+use Ling\DocTools\Widget\Widget;
 
 /**
  * The ClassPrevNextWidget class.

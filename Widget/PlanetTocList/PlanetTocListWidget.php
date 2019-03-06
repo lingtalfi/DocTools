@@ -1,15 +1,15 @@
 <?php
 
 
-namespace DocTools\Widget\PlanetTocList;
+namespace Ling\DocTools\Widget\PlanetTocList;
 
-use DocTools\Exception\BadWidgetConfigurationException;
-use DocTools\Info\ClassInfo;
-use DocTools\Info\CommentInfo;
-use DocTools\Info\MethodInfo;
-use DocTools\Info\PlanetInfo;
-use DocTools\Report\ReportInterface;
-use DocTools\Widget\Widget;
+use Ling\DocTools\Exception\BadWidgetConfigurationException;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Info\CommentInfo;
+use Ling\DocTools\Info\MethodInfo;
+use Ling\DocTools\Info\PlanetInfo;
+use Ling\DocTools\Report\ReportInterface;
+use Ling\DocTools\Widget\Widget;
 
 /**
  * This PlanetTocListWidget widget displays a list of each class of the planet and their methods.

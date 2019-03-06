@@ -241,7 +241,7 @@ function displayMenuSection($title, array $menuItems)
 </main>
 
 <footer><a target="_blank" href="https://github.com/karayabin/universe-snapshot">Universe</a> > <a target="_blank"
-                                                                                                   href="https://github.com/karayabin/universe-snapshot/tree/master/universe/DocTools">DocTools</a>
+                                                                                                   href="https://github.com/karayabin/universe-snapshot/tree/master/universe/Ling/DocTools">DocTools</a>
 </footer>
 
 

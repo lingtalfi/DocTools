@@ -1,11 +1,11 @@
 <?php
 
 
-namespace DocTools\Widget\PlanetDependenciesSection;
+namespace Ling\DocTools\Widget\PlanetDependenciesSection;
 
-use DocTools\Info\PlanetInfo;
-use DocTools\Widget\Widget;
-use UniverseTools\DependencyTool;
+use Ling\DocTools\Info\PlanetInfo;
+use Ling\DocTools\Widget\Widget;
+use Ling\UniverseTools\DependencyTool;
 
 
 /**

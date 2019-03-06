@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DocTools\Translator;
+namespace Ling\DocTools\Translator;
 
 
 /**

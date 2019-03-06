@@ -1,13 +1,13 @@
 <?php
 
 
-namespace DocTools\Widget\ClassProperties;
+namespace Ling\DocTools\Widget\ClassProperties;
 
 
-use Bat\StringTool;
-use DocTools\Exception\BadWidgetConfigurationException;
-use DocTools\Info\ClassInfo;
-use DocTools\Widget\Widget;
+use Ling\Bat\StringTool;
+use Ling\DocTools\Exception\BadWidgetConfigurationException;
+use Ling\DocTools\Info\ClassInfo;
+use Ling\DocTools\Widget\Widget;
 
 /**
  * The ClassPropertiesWidget class.

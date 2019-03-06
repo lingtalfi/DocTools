@@ -1,11 +1,11 @@
 <?php
 
 
-namespace DocTools\Helper;
+namespace Ling\DocTools\Helper;
 
 
-use DocTools\Exception\DocToolsException;
-use DocTools\Info\CommentInfo;
+use Ling\DocTools\Exception\DocToolsException;
+use Ling\DocTools\Info\CommentInfo;
 
 /**
  * The CommentHelper class.

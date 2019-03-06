@@ -1,12 +1,12 @@
 <?php
 
 
-namespace DocTools\Helper;
+namespace Ling\DocTools\Helper;
 
 
-use Bat\DebugTool;
-use DocTools\Info\MethodInfo;
-use DocTools\Report\ReportInterface;
+use Ling\Bat\DebugTool;
+use Ling\DocTools\Info\MethodInfo;
+use Ling\DocTools\Report\ReportInterface;
 
 
 /**

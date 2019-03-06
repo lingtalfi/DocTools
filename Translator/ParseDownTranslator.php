@@ -1,10 +1,10 @@
 <?php
 
 
-namespace DocTools\Translator;
+namespace Ling\DocTools\Translator;
 
 
-use ParseDown\Parsedown;
+use Ling\ParseDown\Parsedown;
 
 /**
  * The MarkdownTranslatorInterface interface.

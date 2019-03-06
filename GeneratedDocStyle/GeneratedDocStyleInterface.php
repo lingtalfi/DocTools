@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DocTools\GeneratedDocStyle;
+namespace Ling\DocTools\GeneratedDocStyle;
 
 
 /**

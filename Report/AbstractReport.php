@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DocTools\Report;
+namespace Ling\DocTools\Report;
 
 
 /**

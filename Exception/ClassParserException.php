@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DocTools\Exception;
+namespace Ling\DocTools\Exception;
 
 
 /**

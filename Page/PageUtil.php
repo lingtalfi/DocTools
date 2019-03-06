@@ -1,14 +1,14 @@
 <?php
 
 
-namespace DocTools\Page;
+namespace Ling\DocTools\Page;
 
 
-use Bat\FileSystemTool;
-use DocTools\Exception\DocToolsException;
-use DocTools\TemplateWizard\TemplateWizard;
-use DocTools\Translator\MarkdownTranslatorInterface;
-use DocTools\Widget\WidgetInterface;
+use Ling\Bat\FileSystemTool;
+use Ling\DocTools\Exception\DocToolsException;
+use Ling\DocTools\TemplateWizard\TemplateWizard;
+use Ling\DocTools\Translator\MarkdownTranslatorInterface;
+use Ling\DocTools\Widget\WidgetInterface;
 
 /**
  * The PageUtil class is a tool to create pages of your documentation.

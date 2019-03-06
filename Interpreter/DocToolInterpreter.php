@@ -1,12 +1,12 @@
 <?php
 
 
-namespace DocTools\Interpreter;
+namespace Ling\DocTools\Interpreter;
 
 
-use DocTools\Exception\DocToolsException;
-use DocTools\Info\CommentInfo;
-use DocTools\Report\ReportInterface;
+use Ling\DocTools\Exception\DocToolsException;
+use Ling\DocTools\Info\CommentInfo;
+use Ling\DocTools\Report\ReportInterface;
 
 /**
  * The DocToolInterpreter class is a helper tool to interpret the docTool markup language.

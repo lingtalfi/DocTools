@@ -1,11 +1,11 @@
 <?php
 
 
-namespace DocTools\Interpreter;
+namespace Ling\DocTools\Interpreter;
 
 
-use DocTools\Info\CommentInfo;
-use DocTools\Report\ReportInterface;
+use Ling\DocTools\Info\CommentInfo;
+use Ling\DocTools\Report\ReportInterface;
 
 /**
  * The NotationInterpreterInterface interface represents a notation interpreter.

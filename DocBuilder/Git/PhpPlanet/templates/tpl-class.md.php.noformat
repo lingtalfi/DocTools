@@ -1,6 +1,6 @@
 <?php
 
-use DocTools\Info\ClassInfo;
+use Ling\DocTools\Info\ClassInfo;
 
 /**
  * @var $class ClassInfo

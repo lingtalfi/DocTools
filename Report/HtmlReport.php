@@ -1,12 +1,12 @@
 <?php
 
 
-namespace DocTools\Report;
+namespace Ling\DocTools\Report;
 
 
-use ArrayToString\ArrayToStringTool;
-use ArrayToTable\ArrayToTableUtil;
-use ZeusTemplateEngine\ZeusTemplateEngine;
+use Ling\ArrayToString\ArrayToStringTool;
+use Ling\ArrayToTable\ArrayToTableUtil;
+use Ling\ZeusTemplateEngine\ZeusTemplateEngine;
 
 /**
  * The HtmlReport class is an html implementation of the ReportInterface.

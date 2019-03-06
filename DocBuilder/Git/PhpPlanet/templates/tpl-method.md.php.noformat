@@ -1,7 +1,7 @@
 <?php
 
-use DocTools\Info\MethodInfo;
-use DocTools\TemplateWizard\TemplateWizard;
+use Ling\DocTools\Info\MethodInfo;
+use Ling\DocTools\TemplateWizard\TemplateWizard;
 
 /**
  * @var $methodInfo MethodInfo

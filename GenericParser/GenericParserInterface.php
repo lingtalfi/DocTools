@@ -1,10 +1,10 @@
 <?php
 
 
-namespace DocTools\GenericParser;
+namespace Ling\DocTools\GenericParser;
 
 
-use DocTools\Info\InfoInterface;
+use Ling\DocTools\Info\InfoInterface;
 
 /**
  * The GenericParserInterface interface is a generic interface for parsers.

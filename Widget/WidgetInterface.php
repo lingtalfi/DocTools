@@ -1,10 +1,10 @@
 <?php
 
 
-namespace DocTools\Widget;
+namespace Ling\DocTools\Widget;
 
 
-use DocTools\Exception\BadWidgetConfigurationException;
+use Ling\DocTools\Exception\BadWidgetConfigurationException;
 
 /**
  * The interface for all DocTools widgets.
