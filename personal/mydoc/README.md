@@ -32,7 +32,7 @@ QuickNav
 ===========
 
 
-- [DocTools api](@url(git)/doc/api/DocTools.md)
+- [DocTools api](@url(git)/doc/api/Ling/DocTools.md) (generated with DocTools)
 - [What is DocTools](#what-is-doctools)
 - [How to use?](#how-to-use)
 - [Why documentation is important](#why-documentation-is-important)
