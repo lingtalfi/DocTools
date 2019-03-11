@@ -641,6 +641,10 @@ History Log
 - 1.5.0 -- 2019-03-07
 
     - Update DocTools to work with new bsr-1 system
+
+- 1.5.0 -- 2019-03-07
+
+    - Update DocTools to work with new bsr-1 system
     - Add support for "@throws" tag
 
 - 1.4.0 -- 2019-02-27
