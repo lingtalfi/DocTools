@@ -15,7 +15,7 @@ Introduction
 ============
 
 The CommentHelper class.
-This is a generic helper class to help with the comments (doc comments, or [CommentInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/CommentInfo.md)).
+This is a generic helper class to help with the comments (doc comments, or [CommentInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Info/CommentInfo.md)).
 
 
 

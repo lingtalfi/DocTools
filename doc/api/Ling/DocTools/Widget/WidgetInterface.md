@@ -24,7 +24,7 @@ All widgets return markdown code.
 The idea is that we can later convert the markdown to html (with a one liner) if we so desire.
 
 
-You will use widgets to create your own [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/DocBuilder/DocBuilder.md) object.
+You will use widgets to create your own [DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder.md) object.
 
 
 

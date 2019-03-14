@@ -57,7 +57,7 @@ Properties
 
 - <span id="property-classParser"><b>classParser</b></span>
 
-    This property holds a [ClassParserInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/ClassParser/ClassParserInterface.md) instance.
+    This property holds a [ClassParserInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/ClassParser/ClassParserInterface.md) instance.
     
     
 

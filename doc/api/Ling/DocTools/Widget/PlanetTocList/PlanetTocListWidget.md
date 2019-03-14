@@ -98,7 +98,7 @@ Properties
 
 - <span id="property-planetInfo"><b>planetInfo</b></span>
 
-    This property holds a [PlanetInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/DocTools/Info/PlanetInfo.md) instance.
+    This property holds a [PlanetInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Info/PlanetInfo.md) instance.
     
     
 
