@@ -8,6 +8,7 @@ use Ling\Bat\ClassTool;
 use Ling\Bat\DebugTool;
 use Ling\DocTools\Exception\ClassParserException;
 use Ling\DocTools\Helper\ClassNameHelper;
+use Ling\DocTools\Helper\ClassParserHelper;
 use Ling\DocTools\Helper\CommentHelper;
 use Ling\DocTools\Helper\TagHelper;
 use Ling\DocTools\Info\ClassInfo;
@@ -397,6 +398,9 @@ class ClassParser implements ClassParserInterface
             $signature = $this->getMethodSignature($method);
 
 
+            //--------------------------------------------
+            // RETURN TYPE
+            //--------------------------------------------
             $returnType = "void";
             $returnDescription = "";
             $tagContent = $comment->getTagByName("return");
@@ -420,6 +424,7 @@ class ClassParser implements ClassParserInterface
 
                             $methodClass = $method->getDeclaringClass();
 
+
                             if ('$this' === $v) {
                                 $v = $methodClass->getName();
                             } else {
@@ -435,11 +440,17 @@ class ClassParser implements ClassParserInterface
                                 /**
                                  * This is a user defined class, using an unqualified class name (aka class short name),
                                  * we need to lookup the use statements to get the (fully qualified) class name.
+                                 *
+                                 * Also, sometimes the class uses an "@overrides" or an "@implementation" tag,
+                                 * in which case the "@return" tag is provided by a parent class.
+                                 *
+                                 * So our technique is to get all the use statements not only of the current class,
+                                 * but also of all parent class (and or interfaces) which own the same method name.
+                                 *
                                  */
-                                $tokens = token_get_all(file_get_contents($methodClass->getFileName()));
-                                $this->_useStatements = TokenFinderTool::getUseDependencies($tokens);
-
-
+                                $classes = ClassParserHelper::getAncestorClassesWithMethod($methodClass, $method->getName());
+                                $classes[] = $methodClass;
+                                $this->_useStatements = TokenFinderTool::getUseDependenciesByReflectionClasses($classes);
                                 $useStatementHasMatched = false;
                                 foreach ($this->_useStatements as $statement) {
                                     $p = explode('\\', $statement);
@@ -475,7 +486,6 @@ class ClassParser implements ClassParserInterface
                 });
                 $returnType = implode("|", $types);
             }
-
 
             $oMethod = new MethodInfo();
             $oMethod->setComment($comment);
@@ -714,7 +724,6 @@ class ClassParser implements ClassParserInterface
             $resolved = false;
             $rawComment = $this->expandIncludes($rawComment, $resolved, $includeReferences);
         }
-
 
 
         //--------------------------------------------
