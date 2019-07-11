@@ -647,6 +647,10 @@ This includes:
 History Log
 =============
     
+- 1.6.3 -- 2019-07-11
+
+    - enhance error message of DocToolInterpreter::interpretBlockLevelTags method for unresolved method
+    
 - 1.6.2 -- 2019-04-18
 
     - fix ClassParser stripping indentation in doc comments
