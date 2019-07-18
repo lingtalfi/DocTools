@@ -648,7 +648,11 @@ This includes:
 
 History Log
 =============
-    
+
+- 1.8.2 -- 2019-07-18
+
+    - update docTools documentation, add links to source code for classes and methods
+        
 - 1.8.1 -- 2019-07-18
 
     - fix LingGitPhpPlanetDocBuilder wrong formatting for class source code link 
