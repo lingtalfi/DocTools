@@ -44,6 +44,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [CommentInfo::__construct](/blob/master/Info/CommentInfo.php#L133-L142)
+
+
 See Also
 ================
 

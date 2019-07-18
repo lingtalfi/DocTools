@@ -4,7 +4,7 @@
 
 The ClassNameHelper class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -46,7 +46,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\ClassNameHelper
+Ling\DocTools\Helper\ClassNameHelperSee the source code of [Ling\DocTools\Helper\ClassNameHelper](/blob/master/Helper/ClassNameHelper.php)
+
 
 
 SeeAlso

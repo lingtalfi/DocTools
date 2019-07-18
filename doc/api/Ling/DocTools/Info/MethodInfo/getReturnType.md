@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::getReturnType](/blob/master/Info/MethodInfo.php#L230-L233)
+
+
 See Also
 ================
 

@@ -4,7 +4,7 @@
 
 The ParameterInfo class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -105,7 +105,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\ParameterInfo
+Ling\DocTools\Info\ParameterInfoSee the source code of [Ling\DocTools\Info\ParameterInfo](/blob/master/Info/ParameterInfo.php)
+
 
 
 SeeAlso

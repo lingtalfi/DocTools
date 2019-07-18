@@ -44,6 +44,11 @@ Returns bool.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::hasParameters](/blob/master/Info/MethodInfo.php#L262-L265)
+
+
 See Also
 ================
 

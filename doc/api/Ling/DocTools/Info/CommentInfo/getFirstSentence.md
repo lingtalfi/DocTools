@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [CommentInfo::getFirstSentence](/blob/master/Info/CommentInfo.php#L317-L320)
+
+
 See Also
 ================
 

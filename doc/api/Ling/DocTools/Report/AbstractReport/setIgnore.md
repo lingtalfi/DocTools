@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [AbstractReport::setIgnore](/blob/master/Report/AbstractReport.php#L322-L325)
+
+
 See Also
 ================
 

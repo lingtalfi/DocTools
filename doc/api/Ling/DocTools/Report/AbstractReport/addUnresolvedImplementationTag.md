@@ -48,6 +48,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [AbstractReport::addUnresolvedImplementationTag](/blob/master/Report/AbstractReport.php#L401-L409)
+
+
 See Also
 ================
 

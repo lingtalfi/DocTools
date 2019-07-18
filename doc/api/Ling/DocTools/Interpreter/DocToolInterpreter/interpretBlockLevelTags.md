@@ -60,6 +60,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [DocToolInterpreter::interpretBlockLevelTags](/blob/master/Interpreter/DocToolInterpreter.php#L79-L143)
+
+
 See Also
 ================
 

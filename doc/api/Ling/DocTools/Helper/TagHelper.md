@@ -4,7 +4,7 @@
 
 The TagHelper class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -46,7 +46,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\TagHelper
+Ling\DocTools\Helper\TagHelperSee the source code of [Ling\DocTools\Helper\TagHelper](/blob/master/Helper/TagHelper.php)
+
 
 
 SeeAlso

@@ -44,6 +44,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [MethodPrevNextWidget::__construct](/blob/master/Widget/MethodPrevNext/MethodPrevNextWidget.php#L53-L60)
+
+
 See Also
 ================
 

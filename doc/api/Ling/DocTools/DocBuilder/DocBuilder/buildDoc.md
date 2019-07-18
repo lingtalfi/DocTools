@@ -45,6 +45,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [DocBuilder::buildDoc](/blob/master/DocBuilder/DocBuilder.php#L85-L85)
+
+
 See Also
 ================
 

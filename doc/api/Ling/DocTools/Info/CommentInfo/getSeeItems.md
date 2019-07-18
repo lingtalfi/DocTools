@@ -44,6 +44,11 @@ Returns array.
 
 
 
+Source Code
+===========
+See the source code for method [CommentInfo::getSeeItems](/blob/master/Info/CommentInfo.php#L355-L358)
+
+
 See Also
 ================
 

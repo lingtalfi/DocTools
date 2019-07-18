@@ -55,6 +55,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [MethodHelper::getMethodReturnType](/blob/master/Helper/MethodHelper.php#L29-L68)
+
+
 See Also
 ================
 

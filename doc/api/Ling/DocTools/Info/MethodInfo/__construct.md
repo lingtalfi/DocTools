@@ -44,6 +44,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::__construct](/blob/master/Info/MethodInfo.php#L91-L102)
+
+
 See Also
 ================
 

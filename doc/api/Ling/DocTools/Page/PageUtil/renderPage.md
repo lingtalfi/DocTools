@@ -56,6 +56,11 @@ Returns false | string.
 
 
 
+Source Code
+===========
+See the source code for method [PageUtil::renderPage](/blob/master/Page/PageUtil.php#L166-L171)
+
+
 See Also
 ================
 

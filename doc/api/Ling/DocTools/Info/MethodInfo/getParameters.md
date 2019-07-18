@@ -44,6 +44,11 @@ Returns [ParameterInfo[]](https://github.com/lingtalfi/DocTools/blob/master/doc/
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::getParameters](/blob/master/Info/MethodInfo.php#L283-L286)
+
+
 See Also
 ================
 

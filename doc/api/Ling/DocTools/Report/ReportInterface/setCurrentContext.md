@@ -50,6 +50,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [ReportInterface::setCurrentContext](/blob/master/Report/ReportInterface.php#L120-L120)
+
+
 See Also
 ================
 

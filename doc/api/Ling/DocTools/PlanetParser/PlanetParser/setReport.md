@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [PlanetParser::setReport](/blob/master/PlanetParser/PlanetParser.php#L185-L188)
+
+
 See Also
 ================
 

@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [Widget::setOptions](/blob/master/Widget/Widget.php#L37-L40)
+
+
 See Also
 ================
 

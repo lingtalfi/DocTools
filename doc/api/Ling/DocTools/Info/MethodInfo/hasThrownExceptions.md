@@ -44,6 +44,11 @@ Returns bool.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::hasThrownExceptions](/blob/master/Info/MethodInfo.php#L314-L317)
+
+
 See Also
 ================
 

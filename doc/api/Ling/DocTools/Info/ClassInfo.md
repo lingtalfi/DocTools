@@ -4,7 +4,7 @@
 
 The ClassInfo class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -142,7 +142,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\ClassInfo
+Ling\DocTools\Info\ClassInfoSee the source code of [Ling\DocTools\Info\ClassInfo](/blob/master/Info/ClassInfo.php)
+
 
 
 SeeAlso

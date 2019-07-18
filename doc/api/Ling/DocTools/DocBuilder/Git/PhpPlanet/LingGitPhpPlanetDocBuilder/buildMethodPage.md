@@ -58,6 +58,11 @@ Exceptions thrown
 
 
 
+Source Code
+===========
+See the source code for method [LingGitPhpPlanetDocBuilder::buildMethodPage](/blob/master/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.php#L452-L524)
+
+
 See Also
 ================
 

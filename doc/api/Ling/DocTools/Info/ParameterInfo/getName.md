@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [ParameterInfo::getName](/blob/master/Info/ParameterInfo.php#L64-L67)
+
+
 See Also
 ================
 

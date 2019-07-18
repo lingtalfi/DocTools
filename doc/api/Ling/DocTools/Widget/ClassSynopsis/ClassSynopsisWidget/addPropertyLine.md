@@ -60,6 +60,11 @@ Exceptions thrown
 
 
 
+Source Code
+===========
+See the source code for method [ClassSynopsisWidget::addPropertyLine](/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L383-L437)
+
+
 See Also
 ================
 

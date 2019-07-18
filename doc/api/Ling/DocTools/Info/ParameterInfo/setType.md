@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [ParameterInfo::setType](/blob/master/Info/ParameterInfo.php#L94-L97)
+
+
 See Also
 ================
 

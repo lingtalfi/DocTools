@@ -4,7 +4,7 @@
 
 The ClassPropertiesWidget class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -78,7 +78,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\ClassProperties\ClassPropertiesWidget
+Ling\DocTools\Widget\ClassProperties\ClassPropertiesWidgetSee the source code of [Ling\DocTools\Widget\ClassProperties\ClassPropertiesWidget](/blob/master/Widget/ClassProperties/ClassPropertiesWidget.php)
+
 
 
 SeeAlso

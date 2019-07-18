@@ -4,7 +4,7 @@
 
 The BadWidgetConfigurationException class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -48,7 +48,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Exception\BadWidgetConfigurationException
+Ling\DocTools\Exception\BadWidgetConfigurationExceptionSee the source code of [Ling\DocTools\Exception\BadWidgetConfigurationException](/blob/master/Exception/BadWidgetConfigurationException.php)
+
 
 
 SeeAlso

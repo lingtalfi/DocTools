@@ -4,7 +4,7 @@
 
 The CopyModuleInterface class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -50,7 +50,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\CopyModule\CopyModuleInterface
+Ling\DocTools\CopyModule\CopyModuleInterfaceSee the source code of [Ling\DocTools\CopyModule\CopyModuleInterface](/blob/master/CopyModule/CopyModuleInterface.php)
+
 
 
 SeeAlso

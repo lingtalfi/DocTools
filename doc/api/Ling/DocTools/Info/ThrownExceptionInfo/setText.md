@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [ThrownExceptionInfo::setText](/blob/master/Info/ThrownExceptionInfo.php#L129-L132)
+
+
 See Also
 ================
 

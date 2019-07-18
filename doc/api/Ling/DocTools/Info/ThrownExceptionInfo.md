@@ -4,7 +4,7 @@
 
 The ThrownExceptionInfo class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -95,7 +95,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\ThrownExceptionInfo
+Ling\DocTools\Info\ThrownExceptionInfoSee the source code of [Ling\DocTools\Info\ThrownExceptionInfo](/blob/master/Info/ThrownExceptionInfo.php)
+
 
 
 SeeAlso

@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::addParameter](/blob/master/Info/MethodInfo.php#L273-L276)
+
+
 See Also
 ================
 

@@ -4,7 +4,7 @@
 
 The ReportInterface class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -175,7 +175,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Report\ReportInterface
+Ling\DocTools\Report\ReportInterfaceSee the source code of [Ling\DocTools\Report\ReportInterface](/blob/master/Report/ReportInterface.php)
+
 
 
 SeeAlso

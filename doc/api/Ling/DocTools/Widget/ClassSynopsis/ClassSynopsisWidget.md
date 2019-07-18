@@ -4,7 +4,7 @@
 
 The ClassSynopsisWidget class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -132,7 +132,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidget
+Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidgetSee the source code of [Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidget](/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php)
+
 
 
 SeeAlso

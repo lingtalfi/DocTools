@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [PropertyInfo::getSignature](/blob/master/Info/PropertyInfo.php#L125-L128)
+
+
 See Also
 ================
 

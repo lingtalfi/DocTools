@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::getDeclaringClass](/blob/master/Info/MethodInfo.php#L220-L223)
+
+
 See Also
 ================
 

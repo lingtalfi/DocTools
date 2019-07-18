@@ -51,6 +51,11 @@ Returns mixed | null.
 
 
 
+Source Code
+===========
+See the source code for method [CommentInfo::getTagContent](/blob/master/Info/CommentInfo.php#L199-L202)
+
+
 See Also
 ================
 

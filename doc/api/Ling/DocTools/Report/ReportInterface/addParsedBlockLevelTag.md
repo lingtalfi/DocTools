@@ -48,6 +48,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [ReportInterface::addParsedBlockLevelTag](/blob/master/Report/ReportInterface.php#L143-L143)
+
+
 See Also
 ================
 

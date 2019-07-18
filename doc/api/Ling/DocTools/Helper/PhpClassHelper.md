@@ -4,7 +4,7 @@
 
 The PhpClassHelper class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -47,7 +47,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\PhpClassHelper
+Ling\DocTools\Helper\PhpClassHelperSee the source code of [Ling\DocTools\Helper\PhpClassHelper](/blob/master/Helper/PhpClassHelper.php)
+
 
 
 SeeAlso

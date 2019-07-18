@@ -47,6 +47,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [ClassParser::getClassSignature](/blob/master/ClassParser/ClassParser.php#L918-L921)
+
+
 See Also
 ================
 

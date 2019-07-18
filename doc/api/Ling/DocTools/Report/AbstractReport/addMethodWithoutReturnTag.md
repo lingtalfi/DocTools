@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [AbstractReport::addMethodWithoutReturnTag](/blob/master/Report/AbstractReport.php#L454-L462)
+
+
 See Also
 ================
 

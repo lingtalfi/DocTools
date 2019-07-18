@@ -44,6 +44,11 @@ Returns [ReflectionClass](http://php.net/manual/en/class.reflectionclass.php).
 
 
 
+Source Code
+===========
+See the source code for method [ClassInfo::getReflectionClass](/blob/master/Info/ClassInfo.php#L307-L310)
+
+
 See Also
 ================
 

@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [HtmlReport::__toString](/blob/master/Report/HtmlReport.php#L79-L461)
+
+
 See Also
 ================
 

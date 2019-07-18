@@ -49,6 +49,11 @@ when the widget cannot render properly.
 
 
 
+Source Code
+===========
+See the source code for method [ClassPrevNextWidget::render](/blob/master/Widget/ClassPrevNext/ClassPrevNextWidget.php#L108-L175)
+
+
 See Also
 ================
 

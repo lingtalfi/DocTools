@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [HtmlReport::setTemplate](/blob/master/Report/HtmlReport.php#L58-L61)
+
+
 See Also
 ================
 

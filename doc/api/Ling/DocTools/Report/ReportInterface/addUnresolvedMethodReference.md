@@ -55,6 +55,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [ReportInterface::addUnresolvedMethodReference](/blob/master/Report/ReportInterface.php#L283-L283)
+
+
 See Also
 ================
 

@@ -51,6 +51,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [AbstractReport::addMethodWithoutComment](/blob/master/Report/AbstractReport.php#L440-L449)
+
+
 See Also
 ================
 

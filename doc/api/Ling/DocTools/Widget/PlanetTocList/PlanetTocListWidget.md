@@ -4,7 +4,7 @@
 
 The PlanetTocListWidget class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -126,7 +126,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\PlanetTocList\PlanetTocListWidget
+Ling\DocTools\Widget\PlanetTocList\PlanetTocListWidgetSee the source code of [Ling\DocTools\Widget\PlanetTocList\PlanetTocListWidget](/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php)
+
 
 
 SeeAlso

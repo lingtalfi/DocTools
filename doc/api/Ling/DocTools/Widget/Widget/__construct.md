@@ -44,6 +44,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [Widget::__construct](/blob/master/Widget/Widget.php#L26-L29)
+
+
 See Also
 ================
 

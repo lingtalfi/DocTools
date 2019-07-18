@@ -124,7 +124,8 @@ require_once __DIR__ . "/../universe/bigbang.php"; // activate universe
  * on your local machine for ever :)
  */
 
-$git = "https://github.com/lingtalfi/DocTools/blob/master";
+$gitRepoUrl = "https://github.com/lingtalfi/DocTools";
+$git = $gitRepoUrl . "/blob/master";
 $doc = "$git/doc";
 $api = $doc . "/api";
 
@@ -236,6 +237,7 @@ $builder->prepare([
 //    "generatedClassBaseUrl" => "http://jindoc/api",
 //    "mode" => "html", // md|html
 //    "markdownTranslator" => new ParseDownTranslator(), 
+//    "gitRepoUrl" => $gitRepoUrl, 
 
     /**
      * This map is used internally by the [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
@@ -646,6 +648,11 @@ This includes:
 
 History Log
 =============
+    
+- 1.8.0 -- 2019-07-18
+
+
+    - update LingGitPhpPlanetDocBuilder now supports source code links for class and method 
     
 - 1.7.0 -- 2019-07-13
 

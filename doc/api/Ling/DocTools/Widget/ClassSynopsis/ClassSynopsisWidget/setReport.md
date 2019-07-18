@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [ClassSynopsisWidget::setReport](/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L102-L105)
+
+
 See Also
 ================
 

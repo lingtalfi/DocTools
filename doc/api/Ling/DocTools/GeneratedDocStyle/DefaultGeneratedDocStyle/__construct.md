@@ -44,6 +44,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [DefaultGeneratedDocStyle::__construct](/blob/master/GeneratedDocStyle/DefaultGeneratedDocStyle.php#L24-L27)
+
+
 See Also
 ================
 

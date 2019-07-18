@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::setReflectionMethod](/blob/master/Info/MethodInfo.php#L210-L213)
+
+
 See Also
 ================
 

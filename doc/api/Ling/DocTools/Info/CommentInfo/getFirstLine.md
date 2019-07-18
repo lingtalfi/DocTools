@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [CommentInfo::getFirstLine](/blob/master/Info/CommentInfo.php#L294-L297)
+
+
 See Also
 ================
 

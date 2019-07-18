@@ -4,7 +4,7 @@
 
 The HtmlReport class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -325,7 +325,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Report\HtmlReport
+Ling\DocTools\Report\HtmlReportSee the source code of [Ling\DocTools\Report\HtmlReport](/blob/master/Report/HtmlReport.php)
+
 
 
 SeeAlso

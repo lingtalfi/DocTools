@@ -51,6 +51,11 @@ Returns array.
 
 
 
+Source Code
+===========
+See the source code for method [ClassParserHelper::getAncestorClassesWithMethod](/blob/master/Helper/ClassParserHelper.php#L23-L29)
+
+
 See Also
 ================
 

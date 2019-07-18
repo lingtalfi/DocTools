@@ -55,6 +55,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [GeneratedDocStyleInterface::getClassUrl](/blob/master/GeneratedDocStyle/GeneratedDocStyleInterface.php#L26-L26)
+
+
 See Also
 ================
 

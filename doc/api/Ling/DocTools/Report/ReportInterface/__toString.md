@@ -44,6 +44,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [ReportInterface::__toString](/blob/master/Report/ReportInterface.php#L328-L328)
+
+
 See Also
 ================
 

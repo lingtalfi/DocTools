@@ -44,6 +44,11 @@ Returns array.
 
 
 
+Source Code
+===========
+See the source code for method [PhpClassHelper::getClasses2Urls](/blob/master/Helper/PhpClassHelper.php#L24-L51)
+
+
 See Also
 ================
 

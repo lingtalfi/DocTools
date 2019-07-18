@@ -53,6 +53,11 @@ Exceptions thrown
 
 
 
+Source Code
+===========
+See the source code for method [CommentInfo::getMainText](/blob/master/Info/CommentInfo.php#L168-L178)
+
+
 See Also
 ================
 

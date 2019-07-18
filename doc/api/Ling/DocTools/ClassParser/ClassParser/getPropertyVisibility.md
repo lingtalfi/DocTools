@@ -49,6 +49,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [ClassParser::getPropertyVisibility](/blob/master/ClassParser/ClassParser.php#L952-L961)
+
+
 See Also
 ================
 

@@ -4,7 +4,7 @@
 
 The CommentHelper class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -67,7 +67,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\CommentHelper
+Ling\DocTools\Helper\CommentHelperSee the source code of [Ling\DocTools\Helper\CommentHelper](/blob/master/Helper/CommentHelper.php)
+
 
 
 SeeAlso

@@ -44,6 +44,11 @@ Returns array.
 
 
 
+Source Code
+===========
+See the source code for method [MethodInfo::getThrownExceptions](/blob/master/Info/MethodInfo.php#L303-L306)
+
+
 See Also
 ================
 

@@ -44,6 +44,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [PlanetParser::__construct](/blob/master/PlanetParser/PlanetParser.php#L77-L84)
+
+
 See Also
 ================
 

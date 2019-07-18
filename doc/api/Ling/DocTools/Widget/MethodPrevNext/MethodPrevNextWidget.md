@@ -4,7 +4,7 @@
 
 The MethodPrevNextWidget class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -102,7 +102,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidget
+Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidgetSee the source code of [Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidget](/blob/master/Widget/MethodPrevNext/MethodPrevNextWidget.php)
+
 
 
 SeeAlso

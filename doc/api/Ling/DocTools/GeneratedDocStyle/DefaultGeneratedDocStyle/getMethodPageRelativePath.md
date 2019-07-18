@@ -55,6 +55,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [DefaultGeneratedDocStyle::getMethodPageRelativePath](/blob/master/GeneratedDocStyle/DefaultGeneratedDocStyle.php#L80-L83)
+
+
 See Also
 ================
 

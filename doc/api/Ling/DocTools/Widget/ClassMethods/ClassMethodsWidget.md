@@ -4,7 +4,7 @@
 
 The ClassMethodsWidget class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -96,7 +96,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\ClassMethods\ClassMethodsWidget
+Ling\DocTools\Widget\ClassMethods\ClassMethodsWidgetSee the source code of [Ling\DocTools\Widget\ClassMethods\ClassMethodsWidget](/blob/master/Widget/ClassMethods/ClassMethodsWidget.php)
+
 
 
 SeeAlso

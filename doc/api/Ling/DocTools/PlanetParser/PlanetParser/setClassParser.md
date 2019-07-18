@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [PlanetParser::setClassParser](/blob/master/PlanetParser/PlanetParser.php#L152-L155)
+
+
 See Also
 ================
 

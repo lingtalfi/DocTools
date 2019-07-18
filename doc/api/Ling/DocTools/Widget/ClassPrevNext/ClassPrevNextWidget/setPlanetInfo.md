@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [ClassPrevNextWidget::setPlanetInfo](/blob/master/Widget/ClassPrevNext/ClassPrevNextWidget.php#L78-L81)
+
+
 See Also
 ================
 

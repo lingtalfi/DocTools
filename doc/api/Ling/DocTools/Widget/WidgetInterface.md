@@ -4,7 +4,7 @@
 
 The WidgetInterface class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -55,7 +55,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\WidgetInterface
+Ling\DocTools\Widget\WidgetInterfaceSee the source code of [Ling\DocTools\Widget\WidgetInterface](/blob/master/Widget/WidgetInterface.php)
+
 
 
 SeeAlso

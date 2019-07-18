@@ -44,6 +44,11 @@ Returns string | null.
 
 
 
+Source Code
+===========
+See the source code for method [ParameterInfo::getDefaultValue](/blob/master/Info/ParameterInfo.php#L104-L107)
+
+
 See Also
 ================
 

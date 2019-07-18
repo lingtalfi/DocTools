@@ -4,7 +4,7 @@
 
 The ClassParser class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -167,7 +167,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\ClassParser\ClassParser
+Ling\DocTools\ClassParser\ClassParserSee the source code of [Ling\DocTools\ClassParser\ClassParser](/blob/master/ClassParser/ClassParser.php)
+
 
 
 SeeAlso

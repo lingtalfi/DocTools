@@ -44,6 +44,11 @@ Returns null.
 
 
 
+Source Code
+===========
+See the source code for method [ClassInfo::getShortName](/blob/master/Info/ClassInfo.php#L263-L266)
+
+
 See Also
 ================
 

@@ -49,6 +49,11 @@ Returns array.
 
 
 
+Source Code
+===========
+See the source code for method [DocToolInterpreter::resolveArgsList](/blob/master/Interpreter/DocToolInterpreter.php#L254-L270)
+
+
 See Also
 ================
 

@@ -48,6 +48,11 @@ Returns string.
 
 
 
+Source Code
+===========
+See the source code for method [PropertyInfo::getVisibility](/blob/master/Info/PropertyInfo.php#L151-L154)
+
+
 See Also
 ================
 

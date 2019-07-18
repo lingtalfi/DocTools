@@ -4,7 +4,7 @@
 
 The ClassParserHelper class
 ================
-2019-02-21 --> 2019-07-12
+2019-02-21 --> 2019-07-18
 
 
 
@@ -45,7 +45,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\ClassParserHelper
+Ling\DocTools\Helper\ClassParserHelperSee the source code of [Ling\DocTools\Helper\ClassParserHelper](/blob/master/Helper/ClassParserHelper.php)
+
 
 
 SeeAlso

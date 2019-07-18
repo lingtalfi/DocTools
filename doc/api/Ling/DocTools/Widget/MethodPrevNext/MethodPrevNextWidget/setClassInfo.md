@@ -47,6 +47,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [MethodPrevNextWidget::setClassInfo](/blob/master/Widget/MethodPrevNext/MethodPrevNextWidget.php#L67-L70)
+
+
 See Also
 ================
 

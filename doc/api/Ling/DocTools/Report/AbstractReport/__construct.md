@@ -44,6 +44,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [AbstractReport::__construct](/blob/master/Report/AbstractReport.php#L269-L301)
+
+
 See Also
 ================
 

@@ -51,6 +51,11 @@ Returns void.
 
 
 
+Source Code
+===========
+See the source code for method [AbstractReport::addUnresolvedClassReference](/blob/master/Report/AbstractReport.php#L509-L518)
+
+
 See Also
 ================
 

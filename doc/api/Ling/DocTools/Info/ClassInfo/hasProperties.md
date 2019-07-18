@@ -44,6 +44,11 @@ Returns bool.
 
 
 
+Source Code
+===========
+See the source code for method [ClassInfo::hasProperties](/blob/master/Info/ClassInfo.php#L328-L337)
+
+
 See Also
 ================
 
