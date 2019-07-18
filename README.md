@@ -135,6 +135,7 @@ $planetDir = "/komin/jin_site_demo/universe/Ling/DocTools";
 
 $builder = new LingGitPhpPlanetDocBuilder();
 $builder->prepare([
+    "gitRepoUrl" => $gitRepoUrl, 
     /**
      * Path to the planet dir that we want to generate the documentation for.
      */
@@ -237,7 +238,6 @@ $builder->prepare([
 //    "generatedClassBaseUrl" => "http://jindoc/api",
 //    "mode" => "html", // md|html
 //    "markdownTranslator" => new ParseDownTranslator(), 
-//    "gitRepoUrl" => $gitRepoUrl, 
 
     /**
      * This map is used internally by the [inline functions](https://github.com/lingtalfi/DocTools/blob/master/doc/pages/doctool-markup-language.md#inline-functions).
