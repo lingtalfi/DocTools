@@ -199,7 +199,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\DocBuilder\Git\PhpPlanet\LingGitPhpPlanetDocBuilder
+Ling\DocTools\DocBuilder\Git\PhpPlanet\LingGitPhpPlanetDocBuilder<br>
 See the source code of [Ling\DocTools\DocBuilder\Git\PhpPlanet\LingGitPhpPlanetDocBuilder](https://github.com/lingtalfi/DocTools/blob/master/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.php)
 
 

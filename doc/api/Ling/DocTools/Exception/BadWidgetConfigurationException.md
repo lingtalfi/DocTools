@@ -48,7 +48,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Exception\BadWidgetConfigurationException
+Ling\DocTools\Exception\BadWidgetConfigurationException<br>
 See the source code of [Ling\DocTools\Exception\BadWidgetConfigurationException](https://github.com/lingtalfi/DocTools/blob/master/Exception/BadWidgetConfigurationException.php)
 
 

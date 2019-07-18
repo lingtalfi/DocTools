@@ -92,7 +92,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\DocBuilder\DocBuilder
+Ling\DocTools\DocBuilder\DocBuilder<br>
 See the source code of [Ling\DocTools\DocBuilder\DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/DocBuilder/DocBuilder.php)
 
 

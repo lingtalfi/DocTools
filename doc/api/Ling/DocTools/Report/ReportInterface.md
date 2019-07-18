@@ -175,7 +175,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Report\ReportInterface
+Ling\DocTools\Report\ReportInterface<br>
 See the source code of [Ling\DocTools\Report\ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/Report/ReportInterface.php)
 
 

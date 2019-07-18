@@ -95,7 +95,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\ThrownExceptionInfo
+Ling\DocTools\Info\ThrownExceptionInfo<br>
 See the source code of [Ling\DocTools\Info\ThrownExceptionInfo](https://github.com/lingtalfi/DocTools/blob/master/Info/ThrownExceptionInfo.php)
 
 

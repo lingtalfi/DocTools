@@ -46,7 +46,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Translator\MarkdownTranslatorInterface
+Ling\DocTools\Translator\MarkdownTranslatorInterface<br>
 See the source code of [Ling\DocTools\Translator\MarkdownTranslatorInterface](https://github.com/lingtalfi/DocTools/blob/master/Translator/MarkdownTranslatorInterface.php)
 
 

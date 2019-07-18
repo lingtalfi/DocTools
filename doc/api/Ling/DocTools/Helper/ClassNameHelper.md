@@ -46,7 +46,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\ClassNameHelper
+Ling\DocTools\Helper\ClassNameHelper<br>
 See the source code of [Ling\DocTools\Helper\ClassNameHelper](https://github.com/lingtalfi/DocTools/blob/master/Helper/ClassNameHelper.php)
 
 

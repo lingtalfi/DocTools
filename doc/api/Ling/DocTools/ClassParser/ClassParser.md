@@ -167,7 +167,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\ClassParser\ClassParser
+Ling\DocTools\ClassParser\ClassParser<br>
 See the source code of [Ling\DocTools\ClassParser\ClassParser](https://github.com/lingtalfi/DocTools/blob/master/ClassParser/ClassParser.php)
 
 

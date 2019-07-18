@@ -56,7 +56,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\ClassParser\ClassParserInterface
+Ling\DocTools\ClassParser\ClassParserInterface<br>
 See the source code of [Ling\DocTools\ClassParser\ClassParserInterface](https://github.com/lingtalfi/DocTools/blob/master/ClassParser/ClassParserInterface.php)
 
 

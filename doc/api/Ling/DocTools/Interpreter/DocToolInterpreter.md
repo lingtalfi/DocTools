@@ -77,7 +77,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Interpreter\DocToolInterpreter
+Ling\DocTools\Interpreter\DocToolInterpreter<br>
 See the source code of [Ling\DocTools\Interpreter\DocToolInterpreter](https://github.com/lingtalfi/DocTools/blob/master/Interpreter/DocToolInterpreter.php)
 
 

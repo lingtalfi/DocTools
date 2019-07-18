@@ -298,7 +298,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Report\AbstractReport
+Ling\DocTools\Report\AbstractReport<br>
 See the source code of [Ling\DocTools\Report\AbstractReport](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php)
 
 

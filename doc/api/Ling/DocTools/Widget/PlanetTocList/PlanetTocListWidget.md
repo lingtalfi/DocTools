@@ -126,7 +126,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\PlanetTocList\PlanetTocListWidget
+Ling\DocTools\Widget\PlanetTocList\PlanetTocListWidget<br>
 See the source code of [Ling\DocTools\Widget\PlanetTocList\PlanetTocListWidget](https://github.com/lingtalfi/DocTools/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php)
 
 

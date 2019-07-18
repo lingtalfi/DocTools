@@ -85,7 +85,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Page\PageUtil
+Ling\DocTools\Page\PageUtil<br>
 See the source code of [Ling\DocTools\Page\PageUtil](https://github.com/lingtalfi/DocTools/blob/master/Page/PageUtil.php)
 
 

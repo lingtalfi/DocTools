@@ -64,7 +64,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\Widget
+Ling\DocTools\Widget\Widget<br>
 See the source code of [Ling\DocTools\Widget\Widget](https://github.com/lingtalfi/DocTools/blob/master/Widget/Widget.php)
 
 

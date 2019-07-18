@@ -48,7 +48,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Exception\PlanetParserException
+Ling\DocTools\Exception\PlanetParserException<br>
 See the source code of [Ling\DocTools\Exception\PlanetParserException](https://github.com/lingtalfi/DocTools/blob/master/Exception/PlanetParserException.php)
 
 

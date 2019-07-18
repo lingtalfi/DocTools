@@ -69,7 +69,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\GeneratedDocStyle\DefaultGeneratedDocStyle
+Ling\DocTools\GeneratedDocStyle\DefaultGeneratedDocStyle<br>
 See the source code of [Ling\DocTools\GeneratedDocStyle\DefaultGeneratedDocStyle](https://github.com/lingtalfi/DocTools/blob/master/GeneratedDocStyle/DefaultGeneratedDocStyle.php)
 
 

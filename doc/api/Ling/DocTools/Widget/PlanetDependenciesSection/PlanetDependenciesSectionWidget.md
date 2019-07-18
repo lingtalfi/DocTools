@@ -76,7 +76,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\PlanetDependenciesSection\PlanetDependenciesSectionWidget
+Ling\DocTools\Widget\PlanetDependenciesSection\PlanetDependenciesSectionWidget<br>
 See the source code of [Ling\DocTools\Widget\PlanetDependenciesSection\PlanetDependenciesSectionWidget](https://github.com/lingtalfi/DocTools/blob/master/Widget/PlanetDependenciesSection/PlanetDependenciesSectionWidget.php)
 
 

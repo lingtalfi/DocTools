@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
     
+- 1.8.1 -- 2019-07-18
+
+    - fix LingGitPhpPlanetDocBuilder wrong formatting for class source code link 
+    
 - 1.8.0 -- 2019-07-18
 
     - update LingGitPhpPlanetDocBuilder now supports source code links for class and method 

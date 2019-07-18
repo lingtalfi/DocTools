@@ -48,7 +48,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Exception\ClassParserException
+Ling\DocTools\Exception\ClassParserException<br>
 See the source code of [Ling\DocTools\Exception\ClassParserException](https://github.com/lingtalfi/DocTools/blob/master/Exception/ClassParserException.php)
 
 

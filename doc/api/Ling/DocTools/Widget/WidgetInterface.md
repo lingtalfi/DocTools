@@ -55,7 +55,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\WidgetInterface
+Ling\DocTools\Widget\WidgetInterface<br>
 See the source code of [Ling\DocTools\Widget\WidgetInterface](https://github.com/lingtalfi/DocTools/blob/master/Widget/WidgetInterface.php)
 
 

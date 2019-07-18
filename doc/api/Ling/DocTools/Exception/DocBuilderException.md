@@ -47,7 +47,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Exception\DocBuilderException
+Ling\DocTools\Exception\DocBuilderException<br>
 See the source code of [Ling\DocTools\Exception\DocBuilderException](https://github.com/lingtalfi/DocTools/blob/master/Exception/DocBuilderException.php)
 
 

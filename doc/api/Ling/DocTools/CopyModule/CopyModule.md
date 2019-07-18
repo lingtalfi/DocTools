@@ -45,7 +45,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\CopyModule\CopyModule
+Ling\DocTools\CopyModule\CopyModule<br>
 See the source code of [Ling\DocTools\CopyModule\CopyModule](https://github.com/lingtalfi/DocTools/blob/master/CopyModule/CopyModule.php)
 
 

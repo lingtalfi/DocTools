@@ -78,7 +78,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\ClassProperties\ClassPropertiesWidget
+Ling\DocTools\Widget\ClassProperties\ClassPropertiesWidget<br>
 See the source code of [Ling\DocTools\Widget\ClassProperties\ClassPropertiesWidget](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassProperties/ClassPropertiesWidget.php)
 
 

@@ -203,7 +203,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Translator\ParseDownTranslator
+Ling\DocTools\Translator\ParseDownTranslator<br>
 See the source code of [Ling\DocTools\Translator\ParseDownTranslator](https://github.com/lingtalfi/DocTools/blob/master/Translator/ParseDownTranslator.php)
 
 

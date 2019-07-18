@@ -102,7 +102,7 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\ClassPrevNext\ClassPrevNextWidget
+Ling\DocTools\Widget\ClassPrevNext\ClassPrevNextWidget<br>
 See the source code of [Ling\DocTools\Widget\ClassPrevNext\ClassPrevNextWidget](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassPrevNext/ClassPrevNextWidget.php)
 
 
