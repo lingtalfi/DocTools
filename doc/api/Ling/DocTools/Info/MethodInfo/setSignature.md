@@ -49,7 +49,7 @@ Returns [MethodInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/L
 
 Source Code
 ===========
-See the source code for method [MethodInfo::setSignature](/blob/master/Info/MethodInfo.php#L167-L171)
+See the source code for method [MethodInfo::setSignature](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php#L167-L171)
 
 
 See Also

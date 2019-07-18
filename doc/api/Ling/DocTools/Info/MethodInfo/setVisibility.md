@@ -50,7 +50,7 @@ Returns [MethodInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/L
 
 Source Code
 ===========
-See the source code for method [MethodInfo::setVisibility](/blob/master/Info/MethodInfo.php#L122-L126)
+See the source code for method [MethodInfo::setVisibility](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php#L122-L126)
 
 
 See Also

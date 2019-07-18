@@ -55,7 +55,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\GeneratedDocStyle\GeneratedDocStyleInterfaceSee the source code of [Ling\DocTools\GeneratedDocStyle\GeneratedDocStyleInterface](/blob/master/GeneratedDocStyle/GeneratedDocStyleInterface.php)
+Ling\DocTools\GeneratedDocStyle\GeneratedDocStyleInterface
+See the source code of [Ling\DocTools\GeneratedDocStyle\GeneratedDocStyleInterface](https://github.com/lingtalfi/DocTools/blob/master/GeneratedDocStyle/GeneratedDocStyleInterface.php)
 
 
 

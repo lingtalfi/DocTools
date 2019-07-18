@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [PropertyInfo::setType](/blob/master/Info/PropertyInfo.php#L226-L229)
+See the source code for method [PropertyInfo::setType](https://github.com/lingtalfi/DocTools/blob/master/Info/PropertyInfo.php#L226-L229)
 
 
 See Also

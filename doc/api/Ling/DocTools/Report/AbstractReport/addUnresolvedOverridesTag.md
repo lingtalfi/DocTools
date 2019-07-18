@@ -52,7 +52,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addUnresolvedOverridesTag](/blob/master/Report/AbstractReport.php#L414-L422)
+See the source code for method [AbstractReport::addUnresolvedOverridesTag](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L414-L422)
 
 
 See Also

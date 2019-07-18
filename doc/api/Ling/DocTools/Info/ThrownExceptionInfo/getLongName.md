@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [ThrownExceptionInfo::getLongName](/blob/master/Info/ThrownExceptionInfo.php#L79-L82)
+See the source code for method [ThrownExceptionInfo::getLongName](https://github.com/lingtalfi/DocTools/blob/master/Info/ThrownExceptionInfo.php#L79-L82)
 
 
 See Also

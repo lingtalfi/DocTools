@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [PlanetInfo::getName](/blob/master/Info/PlanetInfo.php#L114-L117)
+See the source code for method [PlanetInfo::getName](https://github.com/lingtalfi/DocTools/blob/master/Info/PlanetInfo.php#L114-L117)
 
 
 See Also

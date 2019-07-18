@@ -49,7 +49,7 @@ Returns [ClassInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Li
 
 Source Code
 ===========
-See the source code for method [ClassInfo::addMethod](/blob/master/Info/ClassInfo.php#L209-L213)
+See the source code for method [ClassInfo::addMethod](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L209-L213)
 
 
 See Also

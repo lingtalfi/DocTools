@@ -49,7 +49,7 @@ Returns [ClassInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Li
 
 Source Code
 ===========
-See the source code for method [ClassInfo::setName](/blob/master/Info/ClassInfo.php#L231-L235)
+See the source code for method [ClassInfo::setName](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L231-L235)
 
 
 See Also

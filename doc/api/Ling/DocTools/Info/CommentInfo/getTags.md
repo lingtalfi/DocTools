@@ -46,7 +46,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [CommentInfo::getTags](/blob/master/Info/CommentInfo.php#L209-L212)
+See the source code for method [CommentInfo::getTags](https://github.com/lingtalfi/DocTools/blob/master/Info/CommentInfo.php#L209-L212)
 
 
 See Also

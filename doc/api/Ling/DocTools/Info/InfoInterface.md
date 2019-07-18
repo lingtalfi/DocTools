@@ -45,7 +45,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\InfoInterfaceSee the source code of [Ling\DocTools\Info\InfoInterface](/blob/master/Info/InfoInterface.php)
+Ling\DocTools\Info\InfoInterface
+See the source code of [Ling\DocTools\Info\InfoInterface](https://github.com/lingtalfi/DocTools/blob/master/Info/InfoInterface.php)
 
 
 

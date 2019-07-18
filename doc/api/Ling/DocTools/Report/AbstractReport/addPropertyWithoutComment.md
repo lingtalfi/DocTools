@@ -53,7 +53,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addPropertyWithoutComment](/blob/master/Report/AbstractReport.php#L482-L491)
+See the source code for method [AbstractReport::addPropertyWithoutComment](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L482-L491)
 
 
 See Also

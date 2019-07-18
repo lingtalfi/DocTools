@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ClassMethodsWidget::__construct](/blob/master/Widget/ClassMethods/ClassMethodsWidget.php#L49-L55)
+See the source code for method [ClassMethodsWidget::__construct](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassMethods/ClassMethodsWidget.php#L49-L55)
 
 
 See Also

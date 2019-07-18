@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ClassSynopsisWidget::__construct](/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L79-L86)
+See the source code for method [ClassSynopsisWidget::__construct](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L79-L86)
 
 
 See Also

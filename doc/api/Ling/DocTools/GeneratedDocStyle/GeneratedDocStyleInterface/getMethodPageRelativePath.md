@@ -57,7 +57,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [GeneratedDocStyleInterface::getMethodPageRelativePath](/blob/master/GeneratedDocStyle/GeneratedDocStyleInterface.php#L68-L68)
+See the source code for method [GeneratedDocStyleInterface::getMethodPageRelativePath](https://github.com/lingtalfi/DocTools/blob/master/GeneratedDocStyle/GeneratedDocStyleInterface.php#L68-L68)
 
 
 See Also

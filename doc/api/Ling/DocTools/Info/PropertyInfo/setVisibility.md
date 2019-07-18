@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [PropertyInfo::setVisibility](/blob/master/Info/PropertyInfo.php#L160-L163)
+See the source code for method [PropertyInfo::setVisibility](https://github.com/lingtalfi/DocTools/blob/master/Info/PropertyInfo.php#L160-L163)
 
 
 See Also

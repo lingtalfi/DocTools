@@ -53,7 +53,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ReportInterface::addPropertyWithEmptyMainText](/blob/master/Report/ReportInterface.php#L312-L312)
+See the source code for method [ReportInterface::addPropertyWithEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/Report/ReportInterface.php#L312-L312)
 
 
 See Also

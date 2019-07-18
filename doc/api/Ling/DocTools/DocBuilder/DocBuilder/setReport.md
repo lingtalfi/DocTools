@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [DocBuilder::setReport](/blob/master/DocBuilder/DocBuilder.php#L111-L114)
+See the source code for method [DocBuilder::setReport](https://github.com/lingtalfi/DocTools/blob/master/DocBuilder/DocBuilder.php#L111-L114)
 
 
 See Also

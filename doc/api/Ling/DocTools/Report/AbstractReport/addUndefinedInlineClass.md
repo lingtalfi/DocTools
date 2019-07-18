@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addUndefinedInlineClass](/blob/master/Report/AbstractReport.php#L387-L395)
+See the source code for method [AbstractReport::addUndefinedInlineClass](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L387-L395)
 
 
 See Also

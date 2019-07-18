@@ -109,7 +109,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\PlanetParser\PlanetParserSee the source code of [Ling\DocTools\PlanetParser\PlanetParser](/blob/master/PlanetParser/PlanetParser.php)
+Ling\DocTools\PlanetParser\PlanetParser
+See the source code of [Ling\DocTools\PlanetParser\PlanetParser](https://github.com/lingtalfi/DocTools/blob/master/PlanetParser/PlanetParser.php)
 
 
 

@@ -51,7 +51,7 @@ when the widget cannot render properly.
 
 Source Code
 ===========
-See the source code for method [PlanetTocListWidget::render](/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php#L107-L239)
+See the source code for method [PlanetTocListWidget::render](https://github.com/lingtalfi/DocTools/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php#L107-L239)
 
 
 See Also

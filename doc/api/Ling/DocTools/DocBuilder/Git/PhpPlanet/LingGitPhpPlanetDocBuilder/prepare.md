@@ -99,7 +99,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [LingGitPhpPlanetDocBuilder::prepare](/blob/master/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.php#L213-L296)
+See the source code for method [LingGitPhpPlanetDocBuilder::prepare](https://github.com/lingtalfi/DocTools/blob/master/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder.php#L213-L296)
 
 
 See Also

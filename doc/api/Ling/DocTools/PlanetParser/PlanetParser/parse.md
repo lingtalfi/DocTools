@@ -55,7 +55,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [PlanetParser::parse](/blob/master/PlanetParser/PlanetParser.php#L97-L144)
+See the source code for method [PlanetParser::parse](https://github.com/lingtalfi/DocTools/blob/master/PlanetParser/PlanetParser.php#L97-L144)
 
 
 See Also

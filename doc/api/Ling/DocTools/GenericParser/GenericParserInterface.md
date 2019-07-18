@@ -46,7 +46,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\GenericParser\GenericParserInterfaceSee the source code of [Ling\DocTools\GenericParser\GenericParserInterface](/blob/master/GenericParser/GenericParserInterface.php)
+Ling\DocTools\GenericParser\GenericParserInterface
+See the source code of [Ling\DocTools\GenericParser\GenericParserInterface](https://github.com/lingtalfi/DocTools/blob/master/GenericParser/GenericParserInterface.php)
 
 
 

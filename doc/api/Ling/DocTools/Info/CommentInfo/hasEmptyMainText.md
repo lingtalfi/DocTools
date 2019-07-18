@@ -46,7 +46,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [CommentInfo::hasEmptyMainText](/blob/master/Info/CommentInfo.php#L186-L189)
+See the source code for method [CommentInfo::hasEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/Info/CommentInfo.php#L186-L189)
 
 
 See Also

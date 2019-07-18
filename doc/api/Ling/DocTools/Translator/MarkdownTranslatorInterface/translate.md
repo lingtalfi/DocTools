@@ -50,7 +50,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [MarkdownTranslatorInterface::translate](/blob/master/Translator/MarkdownTranslatorInterface.php#L22-L22)
+See the source code for method [MarkdownTranslatorInterface::translate](https://github.com/lingtalfi/DocTools/blob/master/Translator/MarkdownTranslatorInterface.php#L22-L22)
 
 
 See Also

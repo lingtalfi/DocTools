@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [PropertyInfo::getDeclaringClass](/blob/master/Info/PropertyInfo.php#L170-L173)
+See the source code for method [PropertyInfo::getDeclaringClass](https://github.com/lingtalfi/DocTools/blob/master/Info/PropertyInfo.php#L170-L173)
 
 
 See Also

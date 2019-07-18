@@ -67,7 +67,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\CommentHelperSee the source code of [Ling\DocTools\Helper\CommentHelper](/blob/master/Helper/CommentHelper.php)
+Ling\DocTools\Helper\CommentHelper
+See the source code of [Ling\DocTools\Helper\CommentHelper](https://github.com/lingtalfi/DocTools/blob/master/Helper/CommentHelper.php)
 
 
 

@@ -163,7 +163,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\MethodInfoSee the source code of [Ling\DocTools\Info\MethodInfo](/blob/master/Info/MethodInfo.php)
+Ling\DocTools\Info\MethodInfo
+See the source code of [Ling\DocTools\Info\MethodInfo](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php)
 
 
 

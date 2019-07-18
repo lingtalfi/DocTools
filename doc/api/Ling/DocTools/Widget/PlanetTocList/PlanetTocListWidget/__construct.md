@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [PlanetTocListWidget::__construct](/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php#L84-L88)
+See the source code for method [PlanetTocListWidget::__construct](https://github.com/lingtalfi/DocTools/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php#L84-L88)
 
 
 See Also

@@ -62,7 +62,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [NotationInterpreterInterface::interpretBlockLevelTags](/blob/master/Interpreter/NotationInterpreterInterface.php#L44-L44)
+See the source code for method [NotationInterpreterInterface::interpretBlockLevelTags](https://github.com/lingtalfi/DocTools/blob/master/Interpreter/NotationInterpreterInterface.php#L44-L44)
 
 
 See Also

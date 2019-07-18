@@ -53,7 +53,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addPropertyWithEmptyMainText](/blob/master/Report/AbstractReport.php#L568-L577)
+See the source code for method [AbstractReport::addPropertyWithEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L568-L577)
 
 
 See Also

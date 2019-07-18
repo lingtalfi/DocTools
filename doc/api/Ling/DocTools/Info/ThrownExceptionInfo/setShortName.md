@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ThrownExceptionInfo::setShortName](/blob/master/Info/ThrownExceptionInfo.php#L69-L72)
+See the source code for method [ThrownExceptionInfo::setShortName](https://github.com/lingtalfi/DocTools/blob/master/Info/ThrownExceptionInfo.php#L69-L72)
 
 
 See Also

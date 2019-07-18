@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [MethodInfo::getSignature](/blob/master/Info/MethodInfo.php#L155-L158)
+See the source code for method [MethodInfo::getSignature](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php#L155-L158)
 
 
 See Also

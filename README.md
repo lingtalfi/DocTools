@@ -651,7 +651,6 @@ History Log
     
 - 1.8.0 -- 2019-07-18
 
-
     - update LingGitPhpPlanetDocBuilder now supports source code links for class and method 
     
 - 1.7.0 -- 2019-07-13

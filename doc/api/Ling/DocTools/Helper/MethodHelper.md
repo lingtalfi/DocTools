@@ -48,7 +48,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\MethodHelperSee the source code of [Ling\DocTools\Helper\MethodHelper](/blob/master/Helper/MethodHelper.php)
+Ling\DocTools\Helper\MethodHelper
+See the source code of [Ling\DocTools\Helper\MethodHelper](https://github.com/lingtalfi/DocTools/blob/master/Helper/MethodHelper.php)
 
 
 

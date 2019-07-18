@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [CommentInfo::getRawText](/blob/master/Info/CommentInfo.php#L150-L153)
+See the source code for method [CommentInfo::getRawText](https://github.com/lingtalfi/DocTools/blob/master/Info/CommentInfo.php#L150-L153)
 
 
 See Also

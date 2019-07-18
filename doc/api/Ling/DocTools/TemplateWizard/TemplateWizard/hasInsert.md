@@ -49,7 +49,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [TemplateWizard::hasInsert](/blob/master/TemplateWizard/TemplateWizard.php#L94-L100)
+See the source code for method [TemplateWizard::hasInsert](https://github.com/lingtalfi/DocTools/blob/master/TemplateWizard/TemplateWizard.php#L94-L100)
 
 
 See Also

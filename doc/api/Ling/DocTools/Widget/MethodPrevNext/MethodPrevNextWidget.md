@@ -102,7 +102,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidgetSee the source code of [Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidget](/blob/master/Widget/MethodPrevNext/MethodPrevNextWidget.php)
+Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidget
+See the source code of [Ling\DocTools\Widget\MethodPrevNext\MethodPrevNextWidget](https://github.com/lingtalfi/DocTools/blob/master/Widget/MethodPrevNext/MethodPrevNextWidget.php)
 
 
 

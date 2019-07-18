@@ -49,7 +49,7 @@ An array of strings.
 
 Source Code
 ===========
-See the source code for method [TemplateWizard::getInserts](/blob/master/TemplateWizard/TemplateWizard.php#L110-L124)
+See the source code for method [TemplateWizard::getInserts](https://github.com/lingtalfi/DocTools/blob/master/TemplateWizard/TemplateWizard.php#L110-L124)
 
 
 See Also

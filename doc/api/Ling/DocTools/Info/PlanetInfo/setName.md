@@ -49,7 +49,7 @@ Returns [PlanetInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/L
 
 Source Code
 ===========
-See the source code for method [PlanetInfo::setName](/blob/master/Info/PlanetInfo.php#L125-L129)
+See the source code for method [PlanetInfo::setName](https://github.com/lingtalfi/DocTools/blob/master/Info/PlanetInfo.php#L125-L129)
 
 
 See Also

@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ParameterInfo::setType](/blob/master/Info/ParameterInfo.php#L94-L97)
+See the source code for method [ParameterInfo::setType](https://github.com/lingtalfi/DocTools/blob/master/Info/ParameterInfo.php#L94-L97)
 
 
 See Also

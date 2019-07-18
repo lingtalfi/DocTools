@@ -396,6 +396,7 @@ class LingGitPhpPlanetDocBuilder extends DocBuilder
         $classSourceUrl = $gitBase . "/" . implode("/", $p) . '.php';
 
 
+
         $planetName = $this->_planetInfo->getName();
 
         $classSynopsisWidget = new ClassSynopsisWidget();

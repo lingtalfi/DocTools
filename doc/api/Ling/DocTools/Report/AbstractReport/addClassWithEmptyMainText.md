@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addClassWithEmptyMainText](/blob/master/Report/AbstractReport.php#L539-L547)
+See the source code for method [AbstractReport::addClassWithEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L539-L547)
 
 
 See Also

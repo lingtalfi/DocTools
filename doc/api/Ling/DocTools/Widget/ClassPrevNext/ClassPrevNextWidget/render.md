@@ -51,7 +51,7 @@ when the widget cannot render properly.
 
 Source Code
 ===========
-See the source code for method [ClassPrevNextWidget::render](/blob/master/Widget/ClassPrevNext/ClassPrevNextWidget.php#L108-L175)
+See the source code for method [ClassPrevNextWidget::render](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassPrevNext/ClassPrevNextWidget.php#L108-L175)
 
 
 See Also

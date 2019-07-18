@@ -49,7 +49,7 @@ Returns [PlanetInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/L
 
 Source Code
 ===========
-See the source code for method [PlanetInfo::setDependencies](/blob/master/Info/PlanetInfo.php#L67-L71)
+See the source code for method [PlanetInfo::setDependencies](https://github.com/lingtalfi/DocTools/blob/master/Info/PlanetInfo.php#L67-L71)
 
 
 See Also

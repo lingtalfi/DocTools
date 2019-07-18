@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ClassParser::__construct](/blob/master/ClassParser/ClassParser.php#L127-L134)
+See the source code for method [ClassParser::__construct](https://github.com/lingtalfi/DocTools/blob/master/ClassParser/ClassParser.php#L127-L134)
 
 
 See Also

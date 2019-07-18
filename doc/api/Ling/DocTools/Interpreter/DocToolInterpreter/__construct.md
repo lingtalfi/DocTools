@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [DocToolInterpreter::__construct](/blob/master/Interpreter/DocToolInterpreter.php#L37-L41)
+See the source code for method [DocToolInterpreter::__construct](https://github.com/lingtalfi/DocTools/blob/master/Interpreter/DocToolInterpreter.php#L37-L41)
 
 
 See Also

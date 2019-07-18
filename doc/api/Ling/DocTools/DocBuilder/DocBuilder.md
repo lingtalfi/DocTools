@@ -92,7 +92,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\DocBuilder\DocBuilderSee the source code of [Ling\DocTools\DocBuilder\DocBuilder](/blob/master/DocBuilder/DocBuilder.php)
+Ling\DocTools\DocBuilder\DocBuilder
+See the source code of [Ling\DocTools\DocBuilder\DocBuilder](https://github.com/lingtalfi/DocTools/blob/master/DocBuilder/DocBuilder.php)
 
 
 

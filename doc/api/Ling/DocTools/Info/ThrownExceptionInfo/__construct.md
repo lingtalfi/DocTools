@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ThrownExceptionInfo::__construct](/blob/master/Info/ThrownExceptionInfo.php#L46-L52)
+See the source code for method [ThrownExceptionInfo::__construct](https://github.com/lingtalfi/DocTools/blob/master/Info/ThrownExceptionInfo.php#L46-L52)
 
 
 See Also

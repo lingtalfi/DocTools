@@ -57,7 +57,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [DefaultGeneratedDocStyle::getClassUrl](/blob/master/GeneratedDocStyle/DefaultGeneratedDocStyle.php#L47-L50)
+See the source code for method [DefaultGeneratedDocStyle::getClassUrl](https://github.com/lingtalfi/DocTools/blob/master/GeneratedDocStyle/DefaultGeneratedDocStyle.php#L47-L50)
 
 
 See Also

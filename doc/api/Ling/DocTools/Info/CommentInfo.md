@@ -194,7 +194,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\CommentInfoSee the source code of [Ling\DocTools\Info\CommentInfo](/blob/master/Info/CommentInfo.php)
+Ling\DocTools\Info\CommentInfo
+See the source code of [Ling\DocTools\Info\CommentInfo](https://github.com/lingtalfi/DocTools/blob/master/Info/CommentInfo.php)
 
 
 

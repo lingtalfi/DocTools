@@ -51,7 +51,7 @@ when the widget cannot render properly.
 
 Source Code
 ===========
-See the source code for method [MethodPrevNextWidget::render](/blob/master/Widget/MethodPrevNext/MethodPrevNextWidget.php#L107-L173)
+See the source code for method [MethodPrevNextWidget::render](https://github.com/lingtalfi/DocTools/blob/master/Widget/MethodPrevNext/MethodPrevNextWidget.php#L107-L173)
 
 
 See Also

@@ -105,7 +105,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\ParameterInfoSee the source code of [Ling\DocTools\Info\ParameterInfo](/blob/master/Info/ParameterInfo.php)
+Ling\DocTools\Info\ParameterInfo
+See the source code of [Ling\DocTools\Info\ParameterInfo](https://github.com/lingtalfi/DocTools/blob/master/Info/ParameterInfo.php)
 
 
 

@@ -46,7 +46,7 @@ Returns [CommentInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/
 
 Source Code
 ===========
-See the source code for method [PropertyInfo::getComment](/blob/master/Info/PropertyInfo.php#L80-L83)
+See the source code for method [PropertyInfo::getComment](https://github.com/lingtalfi/DocTools/blob/master/Info/PropertyInfo.php#L80-L83)
 
 
 See Also

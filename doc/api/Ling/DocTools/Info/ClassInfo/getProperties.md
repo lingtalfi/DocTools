@@ -50,7 +50,7 @@ Returns [PropertyInfo[]](https://github.com/lingtalfi/DocTools/blob/master/doc/a
 
 Source Code
 ===========
-See the source code for method [ClassInfo::getProperties](/blob/master/Info/ClassInfo.php#L107-L122)
+See the source code for method [ClassInfo::getProperties](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L107-L122)
 
 
 See Also

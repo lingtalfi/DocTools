@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [PageUtil::setTranslator](/blob/master/Page/PageUtil.php#L84-L87)
+See the source code for method [PageUtil::setTranslator](https://github.com/lingtalfi/DocTools/blob/master/Page/PageUtil.php#L84-L87)
 
 
 See Also

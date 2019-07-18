@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ClassMethodsWidget::setReport](/blob/master/Widget/ClassMethods/ClassMethodsWidget.php#L83-L86)
+See the source code for method [ClassMethodsWidget::setReport](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassMethods/ClassMethodsWidget.php#L83-L86)
 
 
 See Also

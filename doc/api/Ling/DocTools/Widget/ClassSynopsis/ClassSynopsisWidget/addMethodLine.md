@@ -64,7 +64,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [ClassSynopsisWidget::addMethodLine](/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L449-L459)
+See the source code for method [ClassSynopsisWidget::addMethodLine](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L449-L459)
 
 
 See Also

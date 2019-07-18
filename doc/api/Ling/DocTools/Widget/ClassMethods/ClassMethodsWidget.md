@@ -96,7 +96,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\ClassMethods\ClassMethodsWidgetSee the source code of [Ling\DocTools\Widget\ClassMethods\ClassMethodsWidget](/blob/master/Widget/ClassMethods/ClassMethodsWidget.php)
+Ling\DocTools\Widget\ClassMethods\ClassMethodsWidget
+See the source code of [Ling\DocTools\Widget\ClassMethods\ClassMethodsWidget](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassMethods/ClassMethodsWidget.php)
 
 
 

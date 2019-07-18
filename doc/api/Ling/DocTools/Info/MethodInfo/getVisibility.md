@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [MethodInfo::getVisibility](/blob/master/Info/MethodInfo.php#L108-L111)
+See the source code for method [MethodInfo::getVisibility](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php#L108-L111)
 
 
 See Also

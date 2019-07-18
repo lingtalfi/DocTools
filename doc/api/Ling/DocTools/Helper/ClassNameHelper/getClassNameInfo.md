@@ -84,7 +84,7 @@ Returns false | array.
 
 Source Code
 ===========
-See the source code for method [ClassNameHelper::getClassNameInfo](/blob/master/Helper/ClassNameHelper.php#L54-L193)
+See the source code for method [ClassNameHelper::getClassNameInfo](https://github.com/lingtalfi/DocTools/blob/master/Helper/ClassNameHelper.php#L54-L193)
 
 
 See Also

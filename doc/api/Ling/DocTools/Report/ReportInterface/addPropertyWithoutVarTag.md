@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ReportInterface::addPropertyWithoutVarTag](/blob/master/Report/ReportInterface.php#L246-L246)
+See the source code for method [ReportInterface::addPropertyWithoutVarTag](https://github.com/lingtalfi/DocTools/blob/master/Report/ReportInterface.php#L246-L246)
 
 
 See Also

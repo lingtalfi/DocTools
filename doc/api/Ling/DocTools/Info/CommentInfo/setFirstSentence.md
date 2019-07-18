@@ -49,7 +49,7 @@ Returns [CommentInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/
 
 Source Code
 ===========
-See the source code for method [CommentInfo::setFirstSentence](/blob/master/Info/CommentInfo.php#L328-L332)
+See the source code for method [CommentInfo::setFirstSentence](https://github.com/lingtalfi/DocTools/blob/master/Info/CommentInfo.php#L328-L332)
 
 
 See Also

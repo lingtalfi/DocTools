@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [ThrownExceptionInfo::getText](/blob/master/Info/ThrownExceptionInfo.php#L119-L122)
+See the source code for method [ThrownExceptionInfo::getText](https://github.com/lingtalfi/DocTools/blob/master/Info/ThrownExceptionInfo.php#L119-L122)
 
 
 See Also

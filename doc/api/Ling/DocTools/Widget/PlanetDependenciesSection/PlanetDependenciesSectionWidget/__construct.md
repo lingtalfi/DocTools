@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [PlanetDependenciesSectionWidget::__construct](/blob/master/Widget/PlanetDependenciesSection/PlanetDependenciesSectionWidget.php#L28-L32)
+See the source code for method [PlanetDependenciesSectionWidget::__construct](https://github.com/lingtalfi/DocTools/blob/master/Widget/PlanetDependenciesSection/PlanetDependenciesSectionWidget.php#L28-L32)
 
 
 See Also

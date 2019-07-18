@@ -142,7 +142,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\ClassInfoSee the source code of [Ling\DocTools\Info\ClassInfo](/blob/master/Info/ClassInfo.php)
+Ling\DocTools\Info\ClassInfo
+See the source code of [Ling\DocTools\Info\ClassInfo](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php)
 
 
 

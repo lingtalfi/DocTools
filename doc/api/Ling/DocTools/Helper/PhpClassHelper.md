@@ -47,7 +47,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\PhpClassHelperSee the source code of [Ling\DocTools\Helper\PhpClassHelper](/blob/master/Helper/PhpClassHelper.php)
+Ling\DocTools\Helper\PhpClassHelper
+See the source code of [Ling\DocTools\Helper\PhpClassHelper](https://github.com/lingtalfi/DocTools/blob/master/Helper/PhpClassHelper.php)
 
 
 

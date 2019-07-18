@@ -73,7 +73,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [PlanetTocListWidget::getItemDescription](/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php#L262-L287)
+See the source code for method [PlanetTocListWidget::getItemDescription](https://github.com/lingtalfi/DocTools/blob/master/Widget/PlanetTocList/PlanetTocListWidget.php#L262-L287)
 
 
 See Also

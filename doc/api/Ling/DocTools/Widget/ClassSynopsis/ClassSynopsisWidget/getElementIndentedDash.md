@@ -51,7 +51,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [ClassSynopsisWidget::getElementIndentedDash](/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L506-L514)
+See the source code for method [ClassSynopsisWidget::getElementIndentedDash](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php#L506-L514)
 
 
 See Also

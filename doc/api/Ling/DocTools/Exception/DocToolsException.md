@@ -47,7 +47,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Exception\DocToolsExceptionSee the source code of [Ling\DocTools\Exception\DocToolsException](/blob/master/Exception/DocToolsException.php)
+Ling\DocTools\Exception\DocToolsException
+See the source code of [Ling\DocTools\Exception\DocToolsException](https://github.com/lingtalfi/DocTools/blob/master/Exception/DocToolsException.php)
 
 
 

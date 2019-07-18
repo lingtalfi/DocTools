@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ClassInfo::setReflectionClass](/blob/master/Info/ClassInfo.php#L317-L320)
+See the source code for method [ClassInfo::setReflectionClass](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L317-L320)
 
 
 See Also

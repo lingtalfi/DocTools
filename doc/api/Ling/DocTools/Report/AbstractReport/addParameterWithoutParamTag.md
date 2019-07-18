@@ -53,7 +53,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addParameterWithoutParamTag](/blob/master/Report/AbstractReport.php#L468-L477)
+See the source code for method [AbstractReport::addParameterWithoutParamTag](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L468-L477)
 
 
 See Also

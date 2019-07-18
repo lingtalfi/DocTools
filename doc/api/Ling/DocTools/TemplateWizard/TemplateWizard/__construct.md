@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [TemplateWizard::__construct](/blob/master/TemplateWizard/TemplateWizard.php#L83-L86)
+See the source code for method [TemplateWizard::__construct](https://github.com/lingtalfi/DocTools/blob/master/TemplateWizard/TemplateWizard.php#L83-L86)
 
 
 See Also

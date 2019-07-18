@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [DefaultGeneratedDocStyle::setExtension](/blob/master/GeneratedDocStyle/DefaultGeneratedDocStyle.php#L34-L37)
+See the source code for method [DefaultGeneratedDocStyle::setExtension](https://github.com/lingtalfi/DocTools/blob/master/GeneratedDocStyle/DefaultGeneratedDocStyle.php#L34-L37)
 
 
 See Also

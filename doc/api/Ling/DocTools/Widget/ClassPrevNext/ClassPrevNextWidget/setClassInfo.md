@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ClassPrevNextWidget::setClassInfo](/blob/master/Widget/ClassPrevNext/ClassPrevNextWidget.php#L67-L70)
+See the source code for method [ClassPrevNextWidget::setClassInfo](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassPrevNext/ClassPrevNextWidget.php#L67-L70)
 
 
 See Also

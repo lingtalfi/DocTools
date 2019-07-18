@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ParameterInfo::__construct](/blob/master/Info/ParameterInfo.php#L49-L56)
+See the source code for method [ParameterInfo::__construct](https://github.com/lingtalfi/DocTools/blob/master/Info/ParameterInfo.php#L49-L56)
 
 
 See Also

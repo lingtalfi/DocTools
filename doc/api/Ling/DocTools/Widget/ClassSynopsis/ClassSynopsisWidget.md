@@ -132,7 +132,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidgetSee the source code of [Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidget](/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php)
+Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidget
+See the source code of [Ling\DocTools\Widget\ClassSynopsis\ClassSynopsisWidget](https://github.com/lingtalfi/DocTools/blob/master/Widget/ClassSynopsis/ClassSynopsisWidget.php)
 
 
 

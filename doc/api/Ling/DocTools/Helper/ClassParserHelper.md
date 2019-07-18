@@ -45,7 +45,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\ClassParserHelperSee the source code of [Ling\DocTools\Helper\ClassParserHelper](/blob/master/Helper/ClassParserHelper.php)
+Ling\DocTools\Helper\ClassParserHelper
+See the source code of [Ling\DocTools\Helper\ClassParserHelper](https://github.com/lingtalfi/DocTools/blob/master/Helper/ClassParserHelper.php)
 
 
 

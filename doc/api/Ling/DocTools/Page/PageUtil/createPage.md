@@ -64,7 +64,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [PageUtil::createPage](/blob/master/Page/PageUtil.php#L99-L149)
+See the source code for method [PageUtil::createPage](https://github.com/lingtalfi/DocTools/blob/master/Page/PageUtil.php#L99-L149)
 
 
 See Also

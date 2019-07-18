@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ParameterInfo::setValueAlternatives](/blob/master/Info/ParameterInfo.php#L134-L137)
+See the source code for method [ParameterInfo::setValueAlternatives](https://github.com/lingtalfi/DocTools/blob/master/Info/ParameterInfo.php#L134-L137)
 
 
 See Also

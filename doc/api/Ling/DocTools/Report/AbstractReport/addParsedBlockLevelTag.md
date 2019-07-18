@@ -50,7 +50,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addParsedBlockLevelTag](/blob/master/Report/AbstractReport.php#L346-L354)
+See the source code for method [AbstractReport::addParsedBlockLevelTag](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L346-L354)
 
 
 See Also

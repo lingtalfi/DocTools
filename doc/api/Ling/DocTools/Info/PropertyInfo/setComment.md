@@ -49,7 +49,7 @@ Returns [PropertyInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api
 
 Source Code
 ===========
-See the source code for method [PropertyInfo::setComment](/blob/master/Info/PropertyInfo.php#L91-L95)
+See the source code for method [PropertyInfo::setComment](https://github.com/lingtalfi/DocTools/blob/master/Info/PropertyInfo.php#L91-L95)
 
 
 See Also

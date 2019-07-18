@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ReportInterface::addClassWithoutComment](/blob/master/Report/ReportInterface.php#L205-L205)
+See the source code for method [ReportInterface::addClassWithoutComment](https://github.com/lingtalfi/DocTools/blob/master/Report/ReportInterface.php#L205-L205)
 
 
 See Also

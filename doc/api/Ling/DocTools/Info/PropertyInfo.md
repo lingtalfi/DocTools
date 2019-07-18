@@ -122,7 +122,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\PropertyInfoSee the source code of [Ling\DocTools\Info\PropertyInfo](/blob/master/Info/PropertyInfo.php)
+Ling\DocTools\Info\PropertyInfo
+See the source code of [Ling\DocTools\Info\PropertyInfo](https://github.com/lingtalfi/DocTools/blob/master/Info/PropertyInfo.php)
 
 
 

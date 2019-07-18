@@ -46,7 +46,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [ClassInfo::hasProperties](/blob/master/Info/ClassInfo.php#L328-L337)
+See the source code for method [ClassInfo::hasProperties](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L328-L337)
 
 
 See Also

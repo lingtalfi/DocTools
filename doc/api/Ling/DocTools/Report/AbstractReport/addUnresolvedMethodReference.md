@@ -57,7 +57,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addUnresolvedMethodReference](/blob/master/Report/AbstractReport.php#L523-L533)
+See the source code for method [AbstractReport::addUnresolvedMethodReference](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L523-L533)
 
 
 See Also

@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [MethodInfo::setReturnType](/blob/master/Info/MethodInfo.php#L240-L243)
+See the source code for method [MethodInfo::setReturnType](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php#L240-L243)
 
 
 See Also

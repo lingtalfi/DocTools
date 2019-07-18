@@ -53,7 +53,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ReportInterface::addMethodWithoutComment](/blob/master/Report/ReportInterface.php#L216-L216)
+See the source code for method [ReportInterface::addMethodWithoutComment](https://github.com/lingtalfi/DocTools/blob/master/Report/ReportInterface.php#L216-L216)
 
 
 See Also

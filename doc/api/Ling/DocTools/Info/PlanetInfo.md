@@ -89,7 +89,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Info\PlanetInfoSee the source code of [Ling\DocTools\Info\PlanetInfo](/blob/master/Info/PlanetInfo.php)
+Ling\DocTools\Info\PlanetInfo
+See the source code of [Ling\DocTools\Info\PlanetInfo](https://github.com/lingtalfi/DocTools/blob/master/Info/PlanetInfo.php)
 
 
 

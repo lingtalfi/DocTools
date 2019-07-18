@@ -50,7 +50,7 @@ Returns [MethodInfo[]](https://github.com/lingtalfi/DocTools/blob/master/doc/api
 
 Source Code
 ===========
-See the source code for method [ClassInfo::getOwnMethods](/blob/master/Info/ClassInfo.php#L166-L176)
+See the source code for method [ClassInfo::getOwnMethods](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L166-L176)
 
 
 See Also

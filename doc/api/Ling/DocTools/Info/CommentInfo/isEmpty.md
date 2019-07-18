@@ -47,7 +47,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [CommentInfo::isEmpty](/blob/master/Info/CommentInfo.php#L342-L348)
+See the source code for method [CommentInfo::isEmpty](https://github.com/lingtalfi/DocTools/blob/master/Info/CommentInfo.php#L342-L348)
 
 
 See Also

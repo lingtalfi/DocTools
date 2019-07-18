@@ -50,7 +50,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [AbstractReport::addUnresolvedImplementationTag](/blob/master/Report/AbstractReport.php#L401-L409)
+See the source code for method [AbstractReport::addUnresolvedImplementationTag](https://github.com/lingtalfi/DocTools/blob/master/Report/AbstractReport.php#L401-L409)
 
 
 See Also

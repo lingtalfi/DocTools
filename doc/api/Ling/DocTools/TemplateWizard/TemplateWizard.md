@@ -113,7 +113,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\TemplateWizard\TemplateWizardSee the source code of [Ling\DocTools\TemplateWizard\TemplateWizard](/blob/master/TemplateWizard/TemplateWizard.php)
+Ling\DocTools\TemplateWizard\TemplateWizard
+See the source code of [Ling\DocTools\TemplateWizard\TemplateWizard](https://github.com/lingtalfi/DocTools/blob/master/TemplateWizard/TemplateWizard.php)
 
 
 

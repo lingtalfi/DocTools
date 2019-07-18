@@ -54,7 +54,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [TagHelper::getTagInfo](/blob/master/Helper/TagHelper.php#L27-L51)
+See the source code for method [TagHelper::getTagInfo](https://github.com/lingtalfi/DocTools/blob/master/Helper/TagHelper.php#L27-L51)
 
 
 See Also

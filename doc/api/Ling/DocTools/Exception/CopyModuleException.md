@@ -48,7 +48,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Exception\CopyModuleExceptionSee the source code of [Ling\DocTools\Exception\CopyModuleException](/blob/master/Exception/CopyModuleException.php)
+Ling\DocTools\Exception\CopyModuleException
+See the source code of [Ling\DocTools\Exception\CopyModuleException](https://github.com/lingtalfi/DocTools/blob/master/Exception/CopyModuleException.php)
 
 
 

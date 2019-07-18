@@ -51,7 +51,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Interpreter\NotationInterpreterInterfaceSee the source code of [Ling\DocTools\Interpreter\NotationInterpreterInterface](/blob/master/Interpreter/NotationInterpreterInterface.php)
+Ling\DocTools\Interpreter\NotationInterpreterInterface
+See the source code of [Ling\DocTools\Interpreter\NotationInterpreterInterface](https://github.com/lingtalfi/DocTools/blob/master/Interpreter/NotationInterpreterInterface.php)
 
 
 

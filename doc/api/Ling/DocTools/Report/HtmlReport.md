@@ -325,7 +325,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Report\HtmlReportSee the source code of [Ling\DocTools\Report\HtmlReport](/blob/master/Report/HtmlReport.php)
+Ling\DocTools\Report\HtmlReport
+See the source code of [Ling\DocTools\Report\HtmlReport](https://github.com/lingtalfi/DocTools/blob/master/Report/HtmlReport.php)
 
 
 

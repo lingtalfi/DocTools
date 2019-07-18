@@ -46,7 +46,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\Helper\TagHelperSee the source code of [Ling\DocTools\Helper\TagHelper](/blob/master/Helper/TagHelper.php)
+Ling\DocTools\Helper\TagHelper
+See the source code of [Ling\DocTools\Helper\TagHelper](https://github.com/lingtalfi/DocTools/blob/master/Helper/TagHelper.php)
 
 
 

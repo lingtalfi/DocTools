@@ -49,7 +49,7 @@ Returns [ClassInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Li
 
 Source Code
 ===========
-See the source code for method [ClassInfo::setInterfaces](/blob/master/Info/ClassInfo.php#L296-L300)
+See the source code for method [ClassInfo::setInterfaces](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L296-L300)
 
 
 See Also

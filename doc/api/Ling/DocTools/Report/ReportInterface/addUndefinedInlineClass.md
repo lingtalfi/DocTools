@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [ReportInterface::addUndefinedInlineClass](/blob/master/Report/ReportInterface.php#L174-L174)
+See the source code for method [ReportInterface::addUndefinedInlineClass](https://github.com/lingtalfi/DocTools/blob/master/Report/ReportInterface.php#L174-L174)
 
 
 See Also

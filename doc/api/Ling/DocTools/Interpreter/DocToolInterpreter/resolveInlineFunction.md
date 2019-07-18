@@ -70,7 +70,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [DocToolInterpreter::resolveInlineFunction](/blob/master/Interpreter/DocToolInterpreter.php#L190-L243)
+See the source code for method [DocToolInterpreter::resolveInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/Interpreter/DocToolInterpreter.php#L190-L243)
 
 
 See Also

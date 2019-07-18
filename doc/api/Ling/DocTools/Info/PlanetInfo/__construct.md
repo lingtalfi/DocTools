@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [PlanetInfo::__construct](/blob/master/Info/PlanetInfo.php#L42-L47)
+See the source code for method [PlanetInfo::__construct](https://github.com/lingtalfi/DocTools/blob/master/Info/PlanetInfo.php#L42-L47)
 
 
 See Also

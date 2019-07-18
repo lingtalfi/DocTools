@@ -49,7 +49,7 @@ Returns [MethodInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/L
 
 Source Code
 ===========
-See the source code for method [MethodInfo::setComment](/blob/master/Info/MethodInfo.php#L144-L148)
+See the source code for method [MethodInfo::setComment](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php#L144-L148)
 
 
 See Also

@@ -46,7 +46,7 @@ Returns string | null.
 
 Source Code
 ===========
-See the source code for method [PropertyInfo::getType](/blob/master/Info/PropertyInfo.php#L216-L219)
+See the source code for method [PropertyInfo::getType](https://github.com/lingtalfi/DocTools/blob/master/Info/PropertyInfo.php#L216-L219)
 
 
 See Also

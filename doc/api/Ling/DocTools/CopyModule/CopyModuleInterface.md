@@ -50,7 +50,8 @@ Methods
 
 Location
 =============
-Ling\DocTools\CopyModule\CopyModuleInterfaceSee the source code of [Ling\DocTools\CopyModule\CopyModuleInterface](/blob/master/CopyModule/CopyModuleInterface.php)
+Ling\DocTools\CopyModule\CopyModuleInterface
+See the source code of [Ling\DocTools\CopyModule\CopyModuleInterface](https://github.com/lingtalfi/DocTools/blob/master/CopyModule/CopyModuleInterface.php)
 
 
 

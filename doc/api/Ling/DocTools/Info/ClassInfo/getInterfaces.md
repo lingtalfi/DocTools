@@ -46,7 +46,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [ClassInfo::getInterfaces](/blob/master/Info/ClassInfo.php#L284-L287)
+See the source code for method [ClassInfo::getInterfaces](https://github.com/lingtalfi/DocTools/blob/master/Info/ClassInfo.php#L284-L287)
 
 
 See Also

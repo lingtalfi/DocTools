@@ -46,7 +46,7 @@ Returns [ReflectionMethod](http://php.net/manual/en/class.reflectionmethod.php).
 
 Source Code
 ===========
-See the source code for method [MethodInfo::getReflectionMethod](/blob/master/Info/MethodInfo.php#L201-L204)
+See the source code for method [MethodInfo::getReflectionMethod](https://github.com/lingtalfi/DocTools/blob/master/Info/MethodInfo.php#L201-L204)
 
 
 See Also
