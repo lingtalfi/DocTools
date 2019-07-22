@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+- 1.9.0 -- 2019-07-22
+
+    - update PhpClassHelper::getClasses2Urls now recognizes php pdo and pdoException classes
+        
 - 1.8.2 -- 2019-07-18
 
     - update docTools documentation, add links to source code for classes and methods
