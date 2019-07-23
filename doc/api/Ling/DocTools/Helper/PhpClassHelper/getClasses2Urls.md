@@ -46,7 +46,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [PhpClassHelper::getClasses2Urls](https://github.com/lingtalfi/DocTools/blob/master/Helper/PhpClassHelper.php#L24-L54)
+See the source code for method [PhpClassHelper::getClasses2Urls](https://github.com/lingtalfi/DocTools/blob/master/Helper/PhpClassHelper.php#L24-L55)
 
 
 See Also

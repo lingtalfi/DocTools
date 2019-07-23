@@ -49,6 +49,7 @@ class PhpClassHelper
             // PDO
             '\\PDO' => "https://www.php.net/manual/en/class.pdo.php",
             '\\PDOException' => "https://www.php.net/manual/en/class.pdoexception.php",
+            '\\PDOStatement' => "https://www.php.net/manual/en/class.pdostatement.php",
 
         ];
     }

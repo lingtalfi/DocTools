@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+- 1.10.0 -- 2019-07-23
+
+    - update PhpClassHelper::getClasses2Urls now recognizes php pdoStatement class
+    
 - 1.9.0 -- 2019-07-22
 
     - update PhpClassHelper::getClasses2Urls now recognizes php pdo and pdoException classes
