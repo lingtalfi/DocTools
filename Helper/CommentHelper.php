@@ -32,6 +32,7 @@ class CommentHelper
         'null',
         'array',
         'callable',
+        'callable[]',
         'string',
     ];
 

@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+- 1.10.2 -- 2019-08-09
+
+    - fix CommentHelper::$propertyVarTagTypes not having callable[]
+
 - 1.10.1 -- 2019-08-07
 
     - fix ClassParser->expandIncludes not collecting ancestor interfaces properly
