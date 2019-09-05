@@ -28,6 +28,7 @@ class CommentHelper
         'float',
         'false',
         'bool',
+        'bool[]',
         'mixed',
         'null',
         'array',

@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+- 1.10.2 -- 2019-09-05
+
+    - fix CommentHelper::$propertyVarTagTypes not having bool[]
+    
 - 1.10.2 -- 2019-08-09
 
     - fix CommentHelper::$propertyVarTagTypes not having callable[]
