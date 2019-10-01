@@ -390,11 +390,13 @@ class LingGitPhpPlanetDocBuilder extends DocBuilder
 
 
         $className = $classInfo->getName();
+
+
         $p = explode('\\', $className);
         array_shift($p); // drop the universe name
         array_shift($p); // drop the planet name
         $classSourceUrl = $gitBase . "/" . implode("/", $p) . '.php';
-
+        $isTrait = $classInfo->getReflectionClass()->isTrait();
 
 
         $planetName = $this->_planetInfo->getName();
@@ -438,6 +440,7 @@ class LingGitPhpPlanetDocBuilder extends DocBuilder
             "projectStartDate" => $this->projectStartDate,
             "planetName" => $planetName,
             "planetUrl" => $this->_generatedClassBaseUrl . "/$planetName." . $this->_mode,
+            "isTrait" => $isTrait,
         ]);
     }
 
@@ -467,7 +470,6 @@ class LingGitPhpPlanetDocBuilder extends DocBuilder
         $startLine = $rMethod->getStartLine();
         $endLine = $rMethod->getEndLine();
         $methodSourceUrl = $classSourceUrl . "#L" . $startLine . "-L" . $endLine;
-
 
 
         $methodSignature = MethodHelper::getMethodSignature($methodInfo, $this->_generatedItems2Url, [
