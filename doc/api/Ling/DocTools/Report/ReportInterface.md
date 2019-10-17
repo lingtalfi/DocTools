@@ -4,7 +4,7 @@
 
 The ReportInterface class
 ================
-2019-02-21 --> 2019-10-08
+2019-02-21 --> 2019-10-17
 
 
 
@@ -116,7 +116,7 @@ abstract class <span class="pl-k">ReportInterface</span>  {
 
 - Methods
     - abstract public [setCurrentContext](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/setCurrentContext.md)(string $context) : void
-    - abstract public [addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addParsedInlineFunction.md)(string $functionName, array $argsList = []) : void
+    - abstract public [addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addParsedInlineFunction.md)(string $functionName, ?array $argsList = []) : void
     - abstract public [addParsedBlockLevelTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addParsedBlockLevelTag.md)(string $tagName) : void
     - abstract public [addUnknownInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addUnknownInlineFunction.md)(string $functionName) : void
     - abstract public [addUndefinedInlineKeyword](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addUndefinedInlineKeyword.md)(string $keyword, string $functionName) : void
@@ -129,8 +129,8 @@ abstract class <span class="pl-k">ReportInterface</span>  {
     - abstract public [addPropertyWithoutComment](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addPropertyWithoutComment.md)(string $propertyName, string $visibility) : void
     - abstract public [addPropertyWithoutVarTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addPropertyWithoutVarTag.md)(string $propertyName) : void
     - abstract public [addParameterWithoutParamTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addParameterWithoutParamTag.md)(string $parameterName, string $methodName) : void
-    - abstract public [addUnresolvedClassReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addUnresolvedClassReference.md)(string $className, string $hint = null) : void
-    - abstract public [addUnresolvedMethodReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addUnresolvedMethodReference.md)(string $className, string $methodName, string $hint = null) : void
+    - abstract public [addUnresolvedClassReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addUnresolvedClassReference.md)(string $className, ?string $hint = null) : void
+    - abstract public [addUnresolvedMethodReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addUnresolvedMethodReference.md)(string $className, string $methodName, ?string $hint = null) : void
     - abstract public [addClassWithEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addClassWithEmptyMainText.md)(string $className) : void
     - abstract public [addTodoText](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addTodoText.md)(string $todoText, string $hint) : mixed
     - abstract public [addPropertyWithEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface/addPropertyWithEmptyMainText.md)(string $className, string $propertyName) : void

@@ -4,7 +4,7 @@
 
 The LingGitPhpPlanetDocBuilder class
 ================
-2019-02-21 --> 2019-10-08
+2019-02-21 --> 2019-10-17
 
 
 
@@ -55,7 +55,7 @@ class <span class="pl-k">LingGitPhpPlanetDocBuilder</span> extends [DocBuilder](
     - protected [Ling\DocTools\Report\ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface.md) [DocBuilder::$report](#property-report) ;
 
 - Methods
-    - public [prepare](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder/prepare.md)(array $settings = []) : void
+    - public [prepare](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder/prepare.md)(?array $settings = []) : void
     - public [buildDoc](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder/buildDoc.md)() : void
     - private [buildPlanetPage](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder/buildPlanetPage.md)() : void
     - private [buildClassPage](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder/buildClassPage.md)([Ling\DocTools\Info\ClassInfo](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Info/ClassInfo.md) $classInfo) : void

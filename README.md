@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+- 1.12.1 -- 2019-10-17
+
+    - fix MethodHelper::getMethodSignature adding question mark in front of non optional parameters
+    
 - 1.12.0 -- 2019-10-08
 
     - add LingGitPhpPlanetDocBuilder ignoreFilesStartingWith option

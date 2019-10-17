@@ -4,7 +4,7 @@
 
 The DocBuilder class
 ================
-2019-02-21 --> 2019-10-08
+2019-02-21 --> 2019-10-17
 
 
 
@@ -57,7 +57,7 @@ abstract class <span class="pl-k">DocBuilder</span>  {
     - protected [Ling\DocTools\Report\ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface.md) [$report](#property-report) ;
 
 - Methods
-    - abstract public [prepare](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/prepare.md)(array $settings = []) : void
+    - abstract public [prepare](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/prepare.md)(?array $settings = []) : void
     - abstract public [buildDoc](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/buildDoc.md)() : void
     - public [showReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/showReport.md)() : void
     - protected [setReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/setReport.md)([Ling\DocTools\Report\ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface.md) $report) : void

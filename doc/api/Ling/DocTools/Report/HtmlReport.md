@@ -4,7 +4,7 @@
 
 The HtmlReport class
 ================
-2019-02-21 --> 2019-10-08
+2019-02-21 --> 2019-10-17
 
 
 
@@ -59,12 +59,12 @@ class <span class="pl-k">HtmlReport</span> extends [AbstractReport](https://gith
     - public [setTemplate](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/HtmlReport/setTemplate.md)(string $template) : void
     - public [setOptions](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/HtmlReport/setOptions.md)(array $options) : void
     - public [__toString](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/HtmlReport/__toString.md)() : string
-    - private [getTableSection](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/HtmlReport/getTableSection.md)(string $title, string $id, array $headers, array $rows, $nbItems = null, $acceptWarning = true) : array
+    - private [getTableSection](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/HtmlReport/getTableSection.md)(string $title, string $id, array $headers, array $rows, ?$nbItems = null, ?$acceptWarning = true) : array
 
 - Inherited methods
     - public [AbstractReport::setCurrentContext](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/setCurrentContext.md)(string $context) : void
     - public [AbstractReport::setIgnore](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/setIgnore.md)(array $ignore) : void
-    - public [AbstractReport::addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addParsedInlineFunction.md)(string $functionName, array $argsList = []) : void
+    - public [AbstractReport::addParsedInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addParsedInlineFunction.md)(string $functionName, ?array $argsList = []) : void
     - public [AbstractReport::addParsedBlockLevelTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addParsedBlockLevelTag.md)(string $tagName) : void
     - public [AbstractReport::addUnknownInlineFunction](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addUnknownInlineFunction.md)(string $functionName) : void
     - public [AbstractReport::addUndefinedInlineKeyword](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addUndefinedInlineKeyword.md)(string $keyword, string $functionName) : void
@@ -77,8 +77,8 @@ class <span class="pl-k">HtmlReport</span> extends [AbstractReport](https://gith
     - public [AbstractReport::addParameterWithoutParamTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addParameterWithoutParamTag.md)(string $parameterName, string $methodName) : void
     - public [AbstractReport::addPropertyWithoutComment](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addPropertyWithoutComment.md)(string $propertyName, string $visibility) : void
     - public [AbstractReport::addPropertyWithoutVarTag](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addPropertyWithoutVarTag.md)(string $propertyName) : void
-    - public [AbstractReport::addUnresolvedClassReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addUnresolvedClassReference.md)(string $className, string $hint = null) : void
-    - public [AbstractReport::addUnresolvedMethodReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addUnresolvedMethodReference.md)(string $className, string $methodName, string $hint = null) : void
+    - public [AbstractReport::addUnresolvedClassReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addUnresolvedClassReference.md)(string $className, ?string $hint = null) : void
+    - public [AbstractReport::addUnresolvedMethodReference](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addUnresolvedMethodReference.md)(string $className, string $methodName, ?string $hint = null) : void
     - public [AbstractReport::addClassWithEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addClassWithEmptyMainText.md)(string $className) : void
     - public [AbstractReport::addTodoText](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addTodoText.md)(string $todoText, string $hint) : mixed
     - public [AbstractReport::addPropertyWithEmptyMainText](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/AbstractReport/addPropertyWithEmptyMainText.md)(string $className, string $propertyName) : void
