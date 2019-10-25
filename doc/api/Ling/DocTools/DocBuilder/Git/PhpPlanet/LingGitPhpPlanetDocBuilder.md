@@ -4,7 +4,7 @@
 
 The LingGitPhpPlanetDocBuilder class
 ================
-2019-02-21 --> 2019-10-22
+2019-02-21 --> 2019-10-25
 
 
 
@@ -63,6 +63,7 @@ class <span class="pl-k">LingGitPhpPlanetDocBuilder</span> extends [DocBuilder](
 
 - Inherited methods
     - public [DocBuilder::showReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/showReport.md)() : void
+    - public [DocBuilder::getReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/getReport.md)() : [ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface.md)
     - protected [DocBuilder::setReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/setReport.md)([Ling\DocTools\Report\ReportInterface](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/Report/ReportInterface.md) $report) : void
 
 }
@@ -191,6 +192,7 @@ Methods
 - [LingGitPhpPlanetDocBuilder::buildClassPage](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder/buildClassPage.md) &ndash; Builds a class page.
 - [LingGitPhpPlanetDocBuilder::buildMethodPage](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/Git/PhpPlanet/LingGitPhpPlanetDocBuilder/buildMethodPage.md) &ndash; Builds a method page.
 - [DocBuilder::showReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/showReport.md) &ndash; Displays the report.
+- [DocBuilder::getReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/getReport.md) &ndash; Returns the report instance.
 - [DocBuilder::setReport](https://github.com/lingtalfi/DocTools/blob/master/doc/api/Ling/DocTools/DocBuilder/DocBuilder/setReport.md) &ndash; Sets the report object.
 
 
