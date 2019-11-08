@@ -649,6 +649,11 @@ This includes:
 History Log
 =============
 
+    
+- 1.13.1 -- 2019-11-08
+
+    - fix CommentHelper::$propertyReturnTagTypes not having "self"
+    
 - 1.13.0 -- 2019-10-25
 
     - add getters to ReportInterface
