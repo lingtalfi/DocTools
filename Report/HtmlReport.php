@@ -296,6 +296,14 @@ class HtmlReport extends AbstractReport
 
         $nbUndefinedInlineKeyword = count($this->undefinedInlineKeywords);
         $nbUndefinedInlineClass = count($this->undefinedInlineClasses);
+        if(
+            $nbUndefinedInlineKeyword > 0 ||
+            $nbUndefinedInlineClass > 0
+        ){
+            $hasErrors = true;
+        }
+
+
 
         $uif = $this->unknownInlineFunctions;
         $nbUnknownInlineFunctions = count($uif);

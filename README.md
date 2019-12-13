@@ -650,6 +650,10 @@ History Log
 =============
 
     
+- 1.13.3 -- 2019-12-13
+
+    - fix HtmlReport not showing red bar when undefined keywords are found 
+    
 - 1.13.2 -- 2019-12-13
 
     - update HtmlReport, now displays a green/red bar to indicate whether the generated documentation is clean 
