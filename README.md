@@ -650,6 +650,10 @@ History Log
 =============
 
     
+- 1.13.2 -- 2019-12-13
+
+    - update HtmlReport, now displays a green/red bar to indicate whether the generated documentation is clean 
+    
 - 1.13.1 -- 2019-11-08
 
     - fix CommentHelper::$propertyReturnTagTypes not having "self"
