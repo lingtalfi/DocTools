@@ -650,6 +650,10 @@ History Log
 =============
 
     
+- 1.13.4 -- 2019-12-16
+
+    - fix MethodHelper->getMethodReturnType not handling the Object[] notation very well
+    
 - 1.13.3 -- 2019-12-13
 
     - fix HtmlReport not showing red bar when undefined keywords are found 
