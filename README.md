@@ -1,6 +1,6 @@
 DocTools
 ===========
-2019-02-19
+2019-02-19 -> 2020-02-25
 
 
 
@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+    
+- 1.13.5 -- 2020-02-25
+
+    - fix ClassParser->parse, inline tags not resolved for method parameter's descriptive text
     
 - 1.13.4 -- 2019-12-16
 

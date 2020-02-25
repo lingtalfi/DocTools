@@ -609,12 +609,18 @@ class ClassParser implements ClassParserInterface
                     }
 
 
+                    $descriptiveText = $paramTag['descriptiveText'];
+                    if (true === $this->resolveInlineTags && null !== $descriptiveText) {
+                        $descriptiveText = $this->notationInterpreter->resolveInlineTags($descriptiveText, $this->report);
+                    }
+
+
                     $oParameter = new ParameterInfo();
                     $oParameter->setName($paramName);
                     $oParameter->setType($paramType);
                     $oParameter->setDefaultValue($defaultValue);
                     $oParameter->setValueAlternatives($paramTag['alternatives']);
-                    $oParameter->setDescriptiveText($paramTag['descriptiveText']);
+                    $oParameter->setDescriptiveText($descriptiveText);
                     $oMethod->addParameter($oParameter);
 
 
