@@ -1,6 +1,6 @@
 DocTools
 ===========
-2019-02-19 -> 2020-02-25
+2019-02-19 -> 2020-03-02
 
 
 
@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+    
+- 1.13.6 -- 2020-03-02
+
+    - fix ClassParser->parse, conflict with default value for variadic parameters
     
 - 1.13.5 -- 2020-02-25
 

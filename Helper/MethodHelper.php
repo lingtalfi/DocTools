@@ -197,7 +197,7 @@ class MethodHelper
 
             $s .= '$' . $parameter->getName();
 
-            if ($parameter->isOptional()) {
+            if ($parameter->isOptional() && false === $parameter->isVariadic()) {
                 $defaultValue = $parameter->getDefaultValue();
                 if (is_array($defaultValue)) {
                     $defaultValue = DebugTool::toString($defaultValue);

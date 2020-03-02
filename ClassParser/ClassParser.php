@@ -600,7 +600,7 @@ class ClassParser implements ClassParserInterface
 
                     $defaultValue = $paramTag['defaultValue'];
                     if (null === $defaultValue) {
-                        if ($param->isOptional()) {
+                        if ($param->isOptional() && false === $param->isVariadic()) {
                             $defaultValue = $param->getDefaultValue();
                             if (is_array($defaultValue)) {
                                 $defaultValue = DebugTool::toString($defaultValue);
