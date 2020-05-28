@@ -1,6 +1,6 @@
 DocTools
 ===========
-2019-02-19 -> 2020-04-17
+2019-02-19 -> 2020-05-28
 
 
 
@@ -649,6 +649,10 @@ This includes:
 History Log
 =============
 
+    
+- 1.13.8 -- 2020-05-28
+
+    - fix HtmlReport->_toString method assuming that parsedBlockLevelTags is always an array
     
 - 1.13.7 -- 2020-04-17
 
