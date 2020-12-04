@@ -679,7 +679,11 @@ This includes:
 History Log
 =============
 
-    
+
+- 1.14.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.14.0 -- 2020-09-11
 
     - update CommentHelper, add string[] as a possible return type
