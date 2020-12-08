@@ -4,7 +4,7 @@
 
 The MarkdownTranslatorInterface class
 ================
-2019-02-21 --> 2020-12-04
+2019-02-21 --> 2020-12-08
 
 
 
