@@ -50,7 +50,7 @@ Returns array.
 
 Source Code
 ===========
-See the source code for method [ClassParser::trimLines](https://github.com/lingtalfi/DocTools/blob/master/ClassParser/ClassParser.php#L983-L1010)
+See the source code for method [ClassParser::trimLines](https://github.com/lingtalfi/DocTools/blob/master/ClassParser/ClassParser.php#L985-L1012)
 
 
 See Also

@@ -372,6 +372,7 @@ class ClassParser implements ClassParserInterface
                         $useStatementFound = null;
                         $classInfo = ClassNameHelper::getClassNameInfo($tagDef, $method->getDeclaringClass(), $this->generatedItems2Url, $comment->getIncludeReferences(), $useStatementFound);
 
+
                         if (false !== $classInfo) {
                             $oException = new ThrownExceptionInfo();
                             $oException->setText($tagCom);
@@ -384,6 +385,7 @@ class ClassParser implements ClassParserInterface
                         } else {
                             if (null !== $this->report) {
                                 $theClassName = (null !== $useStatementFound) ? $useStatementFound : "$tagDef";
+
                                 $this->report->addUnresolvedClassReference($theClassName, "@throws $tagDef, method " . $method->getName() . ' (hint from ClassParser)');
                             }
                         }

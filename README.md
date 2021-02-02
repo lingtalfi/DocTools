@@ -1,6 +1,6 @@
 DocTools
 ===========
-2019-02-19 -> 2020-09-11
+2019-02-19 -> 2021-02-02
 
 
 
@@ -680,9 +680,13 @@ History Log
 =============
 
 
+- 1.14.3 -- 2021-02-02
+
+    - adapt api to work better with php8
+
 - 1.14.2 -- 2020-12-08
 
-    - Fix lpi-deps not using natsort.
+    - Fix lpi-deps not using natsort
 
 - 1.14.1 -- 2020-12-04
 
