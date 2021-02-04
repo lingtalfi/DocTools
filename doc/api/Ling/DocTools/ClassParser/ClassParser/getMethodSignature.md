@@ -49,7 +49,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [ClassParser::getMethodSignature](https://github.com/lingtalfi/DocTools/blob/master/ClassParser/ClassParser.php#L913-L917)
+See the source code for method [ClassParser::getMethodSignature](https://github.com/lingtalfi/DocTools/blob/master/ClassParser/ClassParser.php#L918-L922)
 
 
 See Also

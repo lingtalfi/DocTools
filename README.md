@@ -1,6 +1,6 @@
 DocTools
 ===========
-2019-02-19 -> 2021-02-02
+2019-02-19 -> 2021-02-04
 
 
 
@@ -680,6 +680,10 @@ History Log
 =============
 
 
+- 1.14.4 -- 2021-02-04
+
+    - fix ClassParser->expandIncludes potentially not allowing for a custom __toString documentation
+  
 - 1.14.3 -- 2021-02-02
 
     - adapt api to work better with php8
