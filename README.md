@@ -680,6 +680,10 @@ History Log
 =============
 
 
+- 1.14.8 -- 2021-02-23
+
+    - Update dependencies (pushed by SubscribersUtil)
+
 - 1.14.7 -- 2021-02-23
 
     - Update dependencies
