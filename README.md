@@ -680,6 +680,10 @@ History Log
 =============
 
 
+- 1.14.7 -- 2021-02-23
+
+    - Update dependencies
+  
 - 1.14.6 -- 2021-02-23
 
     - Update dependencies
