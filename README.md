@@ -680,6 +680,10 @@ History Log
 =============
 
 
+- 1.14.5 -- 2021-02-23
+
+    - Update dependencies
+
 - 1.14.4 -- 2021-02-04
 
     - fix ClassParser->expandIncludes potentially not allowing for a custom __toString documentation
